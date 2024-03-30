@@ -97,5 +97,5 @@ http://103.25.92.30:10028/2.m3u8
 http://103.25.92.30:10029/2.m3u8
 #EXTINF:-49 tvg-id="CMusic.kh" tvg-name="C Music (360p)" tvg-logo="https://ia600600.us.archive.org/32/items/dog_gear_live_Logo/KhmerSong.png" group-title="News",C Music (360p)
 http://103.25.92.30:10005/2.m3u8
-#EXTINF:-50 tvg-id="CamTV.kh" tvg-name="CamTV (360p)" tvg-logo="https://imgur.com/a/RTe6N3m" group-title="News",CamTV (360p)
+#EXTINF:-50 tvg-id="CamTV.kh" tvg-name="CamTV (360p)" tvg-logo="https://i.imgur.com/AsYO6Wi.jpeg" group-title="News",CamTV (360p)
 http://103.25.92.30:10001/2.m3u8
