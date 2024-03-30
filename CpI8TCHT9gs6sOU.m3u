@@ -1,0 +1,99 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="News",TVK (720p)
+https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+#EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="News",TVK2 (720p)
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+#EXTINF:-3 tvg-id="TV3.kh" tvg-name="TV3 (720p)" tvg-logo="https://www.khmerkomsan.net/uploads/thumbs/b0e372dac-1.jpg" group-title="News",TV3 (720p)
+https://live-evg3.tv360.metfone.com.kh/live/tv3.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.101
+#EXTINF:-4 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (1080p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lBhetGKAE2v_EwfxxrlD31JNEt4ZfuRSrjybRz=s900-c-k-c0x00ffffff-no-rj" group-title="News",TV5 Cambodia (1080p)
+https://cdnssc.wewatch.asia/b3A9WTJsa1BVRkRPRFl5UmpGR1JFVTBRVFE0TVVZNVJVRkJPRU13TnpFd1JFRXpSRGt4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
+#EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lBhetGKAE2v_EwfxxrlD31JNEt4ZfuRSrjybRz=s900-c-k-c0x00ffffff-no-rj" group-title="News",TV5 Cambodia (720p)
+https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
+#EXTINF:-6 tvg-id="TV9.kh" tvg-name="TV9 (Cambodia)(1080p)" tvg-logo="https://api.netlinkbroadcaster.com/uploads/tv9_cf7bf8f850.jpg" group-title="News",TV9 (Cambodia) (1080p)
+https://live.kh.malimarcdn.com/live/tv9.stream/chunklist.m3u8
+#EXTINF:-7 tvg-id="ApsaraTV11.kh" tvg-name="Apsara TV11 (1080p)" tvg-logo="https://workingna-files.s3.ap-southeast-1.amazonaws.com/1657872293343-APSARA%20NEW%20LOGO%20%28LATTEST%29.png" group-title="News" ,Apsara TV11 (1080p)
+https://live.ams.com.kh/app/stream/playlist.m3u8
+#EXTINF:-8 tvg-id="ApsaraTV11.kh" tvg-name="Apsara TV11 (720p)" tvg-logo="https://workingna-files.s3.ap-southeast-1.amazonaws.com/1657872293343-APSARA%20NEW%20LOGO%20%28LATTEST%29.png" group-title="News" ,Apsara TV11 (720p)
+https://live.kh.unitysystem.net/live/apsara.stream/chunklist.m3u8
+#EXTINF:-9 tvg-id="BayonTV.kh" tvg-name="Bayon TV (1080p)" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="News",Bayon TV (1080p)
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUQkZOekl3TmtVeE9UQkRORFEwTWtVNU5UaEdOakZGT1VaR05UYzVORE0wSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
+#EXTINF:-10 tvg-id="BayonTV.kh" tvg-name="Bayon TV (720p)" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="News",Bayon TV (720p)
+https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
+#EXTINF:-11 tvg-id="BTVNews.kh" tvg-name="BTV News (1080p)" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (1080p)
+https://cdnssc.wewatch.asia/b3A9WTJsa1BVVkZNVVV5T1VSQlFUTTNNVFJGTjBWQ05EaEVNRFEzT0RVeU16TkJNakEySm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
+#EXTINF:-12 tvg-id="BTVNews.kh" tvg-name="BTV News (720p)" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p)
+https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
+#EXTINF:-13 tvg-id="CTN.kh" tvg-name="CTN (720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="News",CTN (720p)
+http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/4.m3u8
+#EXTINF:-14 tvg-id="CTN.kh" tvg-name="CTN (Happy Watch 99 720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="News",CTN (Happy Watch 99 720p)
+https://live.happywatch99.com/live/ctn_v$$240211$/playlist.m3u8
+#EXTINF:-15 tvg-id="MyTV.kh" tvg-name="MyTV (720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="News",MyTV (720p)
+http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/6.m3u8
+#EXTINF:-16 tvg-id="MyTV.kh" tvg-name="MyTV (Happy Watch 720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="News",MyTV (Happy Watch 99 720p)
+https://live.happywatch99.com/live/mytv_v$$240211$/playlist.m3u8
+#EXTINF:-17 tvg-id="CNC.kh" tvg-name="CNC (720p)" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg" group-title="News",CNC (720p)
+http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/5.m3u8
+#EXTINF:-18 tvg-id="CTV8HD.kh" tvg-name="CTV8 (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="News",CTV8 (Happy Watch 99 720p)
+https://live.happywatch99.com/live/ctv8_v$$240211$/playlist.m3u8
+#EXTINF:-19 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="News",Hang Meas HDTV (1080p)
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+#EXTINF:-20 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="News",Hang Meas HDTV (720p)
+http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/10.m3u8
+#EXTINF:-21 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="News",Hang Meas HDTV (Happy Watch 99 720p)
+https://live.happywatch99.com/live/hmhdtv_v$$240211$/playlist.m3u8
+#EXTINF:-22 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (1080p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="News",Rasmey Hang Meas HDTV (1080p)
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+#EXTINF:-23 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="News",Rasmey Hang Meas HDTV (720p)
+http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/11.m3u8
+#EXTINF:-24 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="News",Rasmey Hang Meas HDTV (Happy Watch 99 720p)
+https://live.happywatch99.com/live/rasmey_hm_v$$240211$/playlist.m3u8
+#EXTINF:-25 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hang_Meas_Now_UHDTV_Logo_2023-Present.png/640px-Hang_Meas_Now_UHDTV_Logo_2023-Present.png" group-title="News",  Hang Meas Now UHDTV (720p)
+https://live.happywatch99.com/live/nice_tv_v$$240211$/playlist.m3u8
+#EXTINF:-26 tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="News",PNN (1080p)
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUVkdPVFJEUVRFNU1EQkVPRFF3TlRaQ016VkdRVE5ETnprNU4wRTRPVU5GSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
+#EXTINF:-27 tvg-id="PNN.kh" tvg-name="PNN (720p)" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="News",PNN (720p)
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
+#EXTINF:-28 tvg-id="PNN.kh" tvg-name="PNN (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="News",PNN (Happy Watch 99 720p)
+https://live.happywatch99.com/live/pnn_v$$240211$/playlist.m3u8
+#EXTINF:-29 tvg-id="TownTV.kh" tvg-name="Town TV (720p)" tvg-logo="https://ia600809.us.archive.org/1/items/KhmerTv/towntv.png" group-title="News",Town TV (720p)
+https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8?manifestfilter
+#EXTINF:-30 tvg-id="TownTV.kh" tvg-name="Town TV TV360(720p)" tvg-logo="https://ia600809.us.archive.org/1/items/KhmerTv/towntv.png" group-title="News",Town TV TV360(720p)
+https://live-evg3.tv360.metfone.com.kh/live/towntv.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.101
+#EXTINF:-31 tvg-id="SEATV.kh" tvg-name="SEATV (720p)" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="News",SEATV (720p)
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-32 tvg-id="DMusic.kh" tvg-name="DMusic (720p)" tvg-logo="https://i.malimarcdn.com/kh/dmusicHDF.jpg" group-title="News",DMusic (720p)
+https://live.happywatch99.com/live/d_music_v$$240211$/playlist.m3u8
+#EXTINF:-33 tvg-id="MSJTV.kh" tvg-name="MSJTV (720p)" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="News",MSJTV (720p)
+https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=183.81.189.85
+#EXTINF:-34 tvg-id="SPMHDTV.kh" tvg-name="SPM HDTV (720p)" tvg-logo="https://moi-static.sgp1.digitaloceanspaces.com/uploads/station/avatar_image/307/spmtvlogo.png" group-title="News",SPM HDTV (720p)
+https://live.happywatch99.com/live/shshdtv_v$$240211$/playlist.m3u8
+#EXTINF:-35 tvg-id="FreshNews.kh" tvg-name="Fresh News TV (720p)" tvg-logo="https://asset.brandfetch.io/idi82Ajyf8/idVG3IozwL.png" group-title="News",Fresh News TV (720p)
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+#EXTINF:-36 tvg-id="PPDTV.kh" tvg-name="PP Digital TV (720p)" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1183.jpg" group-title="News",PP Digital TV (720p)
+https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
+#EXTINF:-37 tvg-id="Kamsan TV.kh" tvg-name="Kamsan TV (720p)" tvg-logo="https://i.malimarcdn.com/kh/2023/KamsanHDF.jpg" group-title="News",Kamsan TV(720p)
+https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
+#EXTINF:-38 tvg-id="CnATV.kh" tvg-name="CnA TV (720p)" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1421.jpg" group-title="News",CnA TV(720p)
+https://live.happywatch99.com/live/koolplay_v$$240211$/playlist.m3u8
+#EXTINF:-39 tvg-id="MoITV.kh" tvg-name="MoI TV (720p)" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/07/16/1707297979625/8eb56334a331_640_360.jpeg" group-title="News",MoI TV(720p)
+https://live-ali10.tv360.metfone.com.kh/hls/MOITV.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.94
+#EXTINF:-40 tvg-id="MoINFOTV.kh" tvg-name="MoINFO TV (720p)" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/03/27/12/1711515725254/0b910e25098d_640_360.jpg" group-title="News",MoINFO TV(720p)
+https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.94
+#EXTINF:-41 tvg-id="CCOCTV.kh" tvg-name="CCOC HDTV (720p)" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1186.jpg" group-title="News",CCOC HDTV (720p)
+https://live.happywatch99.com/live/ccochdtv_v$$240211$/playlist.m3u8
+#EXTINF:-42 tvg-id="MVCTV.kh" tvg-name="MVC TV (720p)" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mvc-th.png" group-title="News",MVC TV (720p)
+https://psiiptv-b.sky-cdn.com/ttd22-playlist/index.m3u8
+#EXTINF:-43 tvg-id="Netlink.kh" tvg-name="Netlink TV (720p)" tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75" group-title="News",Netlink TV (720p)
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-44 tvg-id="ABCTV.kh" tvg-name="ABC TV (720p)" tvg-logo="https://khmerpress.today/wp-content/uploads/2022/11/logo-ABC-Ver.2-1024x1024.jpg" group-title="News",ABC TV (720p)
+http://80.65.211.86:5080/WebRTCAppEE/streams/abc_android_3.m3u8
+#EXTINF:-45 tvg-id="PPCTV3" tvg-name="PPCTV3(360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/PPCTV_Logo.jpg/600px-PPCTV_Logo.jpg" group-title="News",PPCTV3 (360p)
+http://103.25.92.30:10049/2.m3u8
+#EXTINF:-46 tvg-id="PPCTV6HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="http://camkobroadband.com/assets/images/cabletv/ppctv-6-hd.png" group-title="News",PPCTV6 HD (360p)
+http://103.25.92.30:10056/2.m3u8
+#EXTINF:-47 tvg-id="PPCTV9HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="http://camkobroadband.com/assets/images/cabletv/ppctv-drama-9.png" group-title="News",PPCTV9 HD (360p)
+http://103.25.92.30:10028/2.m3u8
+#EXTINF:-48 tvg-id="PPCTV10HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="http://camkobroadband.com/assets/images/cabletv/ppctv-drama-10.png" group-title="News",PPCTV10 HD (360p)
+http://103.25.92.30:10029/2.m3u8
+#EXTINF:-49 tvg-id="CMusic.kh" tvg-name="C Music (360p)" tvg-logo="https://ia600600.us.archive.org/32/items/dog_gear_live_Logo/KhmerSong.png" group-title="News",C Music (360p)
+http://103.25.92.30:10005/2.m3u8
