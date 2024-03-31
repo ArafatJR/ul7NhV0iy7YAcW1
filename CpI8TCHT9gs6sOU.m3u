@@ -24,7 +24,7 @@ https://cdnssc.wewatch.asia/b3A9WTJsa1BVVkZNVVV5T1VSQlFUTTNNVFJGTjBWQ05EaEVNRFEz
 #EXTINF:-12 tvg-id="BTVNews.kh" tvg-name="BTV News (720p)" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="News",BTV News (720p)
 https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 #EXTINF:-13 tvg-id="CTN.kh" tvg-name="CTN (720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="News",CTN (720p)
-https://livesd.us.malimarcdn.com/khliveedge00/ctn.stream/playlist.m3u8?verify=1711865425_g47ZId5rxd5toIgUxZ3Q19sVJ8cBa8evYch7ZM2kPz4%3D
+https://livesd.us.malimarcdn.com/khliveedge00/ctn.stream/playlist.m3u8?verify=1711910891_PKpBrJQAosnm0BuwHtzs3CflfQ9%2FwOJqfOebMTCdK54%3D
 #EXTINF:-14 tvg-id="CTN.kh" tvg-name="CTN (Happy Watch 99 720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="News",CTN (Happy Watch 99 720p)
 https://live.happywatch99.com/live/ctn_v$$240211$/playlist.m3u8
 #EXTINF:-15 tvg-id="MyTV.kh" tvg-name="MyTV (720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="News",MyTV (720p)
@@ -34,7 +34,7 @@ https://live.happywatch99.com/live/mytv_v$$240211$/playlist.m3u8
 #EXTINF:-17 tvg-id="CNC.kh" tvg-name="CNC (720p)" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg" group-title="News",CNC (720p)
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/5.m3u8
 #EXTINF:-18 tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="News",CTV8 (720p)
-https://livesd.us.malimarcdn.com/khliveedge00/ctv8.stream/playlist.m3u8?verify=1711865426_WdathqkzBVDse0byU4BI8D1JTw1a3a1Jz%2FWs5hVfO2E%3D
+https://livesd.us.malimarcdn.com/khliveedge00/ctv8.stream/playlist.m3u8?verify=1711910892_PeLdl%2FC5M4EGlfCW2bfD8eyoUxLRthPtSJu8Vc2jtnY%3D
 #EXTINF:-19 tvg-id="CTV8HD.kh" tvg-name="CTV8 (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="News",CTV8 (Happy Watch 99 720p)
 https://live.happywatch99.com/live/ctv8_v$$240211$/playlist.m3u8
 #EXTINF:-20 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="News",Hang Meas HDTV (1080p)
