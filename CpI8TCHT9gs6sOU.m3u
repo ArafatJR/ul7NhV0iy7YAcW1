@@ -77,7 +77,7 @@ https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
 https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
 #EXTINF:-39 tvg-id="CnATV.kh" tvg-name="CnA TV (720p)" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1421.jpg" group-title="News",CnA TV(720p)
 https://live.happywatch99.com/live/koolplay_v$$240211$/playlist.m3u8
-#EXTINF:-40 tvg-id="MoITV.kh" tvg-name="MoI TV (720p)" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/07/16/1707297979625/8eb56334a331_640_360.jpeg" group-title="News",MoI TV(720p)
+#EXTINF:-40 tvg-id="MoITV.kh" tvg-name="MoI TV (1080p)" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/07/16/1707297979625/8eb56334a331_640_360.jpeg" group-title="News",MoI TV (1080p)
 https://live-ali10.tv360.metfone.com.kh/hls/MOITV.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.94
 #EXTINF:-41 tvg-id="MoINFOTV.kh" tvg-name="MoINFO TV (720p)" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/03/27/12/1711515725254/0b910e25098d_640_360.jpg" group-title="News",MoINFO TV(720p)
 https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.94
