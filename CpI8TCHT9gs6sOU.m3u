@@ -91,13 +91,13 @@ https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 http://80.65.211.86:5080/WebRTCAppEE/streams/abc_android_3.m3u8
 #EXTINF:-46 tvg-id="PPCTV3" tvg-name="PPCTV3(360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/PPCTV_Logo.jpg/600px-PPCTV_Logo.jpg" group-title="News",PPCTV3 (360p)
 http://103.25.92.30:10049/2.m3u8
-#EXTINF:-47 tvg-id="PPCTV6HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="http://camkobroadband.com/assets/images/cabletv/ppctv-6-hd.png" group-title="News",PPCTV6 HD (360p)
+#EXTINF:-47 tvg-id="PPCTV6HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv6_logo_v2.png" group-title="News",PPCTV6 HD (360p)
 http://103.25.92.30:10056/2.m3u8
-#EXTINF:-48 tvg-id="PPCTV9HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="http://camkobroadband.com/assets/images/cabletv/ppctv-drama-9.png" group-title="News",PPCTV9 HD (360p)
+#EXTINF:-48 tvg-id="PPCTV9HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv9_logo_v2.png" group-title="News",PPCTV9 HD (360p)
 http://103.25.92.30:10028/2.m3u8
-#EXTINF:-49 tvg-id="PPCTV10HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="http://camkobroadband.com/assets/images/cabletv/ppctv-drama-10.png" group-title="News",PPCTV10 HD (360p)
+#EXTINF:-49 tvg-id="PPCTV10HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv10_logo_v2.png" group-title="News",PPCTV10 HD (360p)
 http://103.25.92.30:10029/2.m3u8
-#EXTINF:-50 tvg-id="CMusic.kh" tvg-name="C Music (360p)" tvg-logo="https://ia600600.us.archive.org/32/items/dog_gear_live_Logo/KhmerSong.png" group-title="News",C Music (360p)
+#EXTINF:-50 tvg-id="CMusic.kh" tvg-name="C Music (360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/cmusic_logo.png" group-title="News",C Music (360p)
 http://103.25.92.30:10005/2.m3u8
 #EXTINF:-51 tvg-id="CamTV.kh" tvg-name="CamTV (360p)" tvg-logo="https://i.imgur.com/AsYO6Wi.jpeg" group-title="News",CamTV (360p)
 http://103.25.92.30:10001/2.m3u8
