@@ -29,8 +29,8 @@ http://tv.cootel.com.kh:8077/streams/d/CTN/playlist.m3u8
 https://live.happywatch99.com/live/ctn_v$$240211$/playlist.m3u8
 #EXTINF:-15 tvg-id="MyTV.kh" tvg-name="MyTV (1080p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="News",MyTV (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BURkZRemxDUkVKRk5VVkdSalE0T1VRNE56RkdOa0kxTURoRVFqWkVNMFU1Sm5OMFBXeHBkbVVtYzNSNVBXUmhjMmclM2QmdG9rPTY5N2JlNDgxNWVjYjY3NmYwYTY5NmUzYzc2YTFkYjNlNmEwOWM2MjgmZGV2aWQ9ZGNmYWVmYTczYTYzOGRmYTJjY2RjNjNlZjc1MmU1Yzc%3D/auto_h264.mpd
-#EXTINF:-16 tvg-id="MyTV.kh" tvg-name="MyTV (720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="News",MyTV (720p)
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/6.m3u8
+#EXTINF:-16 tvg-id="MyTV.kh" tvg-name="MyTV (576p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="News",MyTV (576p)
+http://tv.cootel.com.kh:8077/streams/d/MyTV/playlist.m3u8
 #EXTINF:-17 tvg-id="MyTV.kh" tvg-name="MyTV (Happy Watch 720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="News",MyTV (Happy Watch 99 720p)
 https://live.happywatch99.com/live/mytv_v$$240211$/playlist.m3u8
 #EXTINF:-18 tvg-id="CNC.kh" tvg-name="CNC (720p)" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg" group-title="News",CNC (720p)
