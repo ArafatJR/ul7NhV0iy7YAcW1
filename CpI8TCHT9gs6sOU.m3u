@@ -40,7 +40,7 @@ https://live.happywatch99.com/live/mytv_v$$240211$/playlist.m3u8
 #EXTINF:-20 tvg-id="MyTV.kh" tvg-name="MyTV (576p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="News",MyTV (576p)
 http://tv.cootel.com.kh:8077/streams/d/MyTV/playlist.m3u8
 #EXTINF:-21 tvg-id="CNC.kh" tvg-name="CNC (720p)" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg" group-title="News",CNC (720p)
-http://dodge.eu5.org/Get?id=10
+http://dodge.eu5.org/Get?id=13
 #EXTINF:-22 tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="News",CTV8 (720p)
 http://dodge.eu5.org/Get?id=14
 #EXTINF:-23 tvg-id="CTV8HD.kh" tvg-name="CTV8 (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="News",CTV8 (Happy Watch 99 720p)
@@ -89,7 +89,7 @@ https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
 https://live.happywatch99.com/live/koolplay_v$$240211$/playlist.m3u8
 #EXTINF:-45 tvg-id="MoITV.kh" tvg-name="MoI TV (1080p)" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/07/16/1707297979625/8eb56334a331_640_360.jpeg" group-title="News",MoI TV (1080p)
 https://live-ali10.tv360.metfone.com.kh/hls/MOITV.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.94
-#EXTINF:-46 tvg-id="MoINFOTV.kh" tvg-name="MoINFO TV (1080p)" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/03/27/12/1711515725254/0b910e25098d_640_360.jpg" group-title="News",MoINFO TV(1080p)
+#EXTINF:-46 tvg-id="MoINFOTV.kh" tvg-name="MoINFO TV (1080p)" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/03/27/12/1711515725254/0b910e25098d_640_360.jpg" group-title="News",MoINFO TV (1080p)
 https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.94
 #EXTINF:-47 tvg-id="CCOCTV.kh" tvg-name="CCOC HDTV (720p)" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1186.jpg" group-title="News",CCOC HDTV (720p)
 https://live.happywatch99.com/live/ccochdtv_v$$240211$/playlist.m3u8
