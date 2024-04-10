@@ -99,7 +99,7 @@ https://psiiptv-b.sky-cdn.com/ttd22-playlist/index.m3u8
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-50 tvg-id="ABCTV.kh" tvg-name="ABC TV (720p)" tvg-logo="https://khmerpress.today/wp-content/uploads/2022/11/logo-ABC-Ver.2-1024x1024.jpg" group-title="News",ABC TV (720p)
 http://80.65.211.86:5080/WebRTCAppEE/streams/abc_android_3.m3u8
-#EXTINF:-51 tvg-id="PPCTV3" tvg-name="PPCTV3(360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/PPCTV_Logo.jpg/600px-PPCTV_Logo.jpg" group-title="News",PPCTV3 (360p)
+#EXTINF:-51 tvg-id="PPCTV3" tvg-name="PPCTV3(360p)" tvg-logo="https://imgur.com/jgrdWql" group-title="News",PPCTV3 (360p)
 http://103.25.92.30:10049/2.m3u8
 #EXTINF:-52 tvg-id="PPCTV6HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv6_logo_v2.png" group-title="News",PPCTV6 HD (360p)
 http://103.25.92.30:10056/2.m3u8
