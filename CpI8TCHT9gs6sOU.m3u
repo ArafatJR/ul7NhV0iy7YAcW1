@@ -111,3 +111,9 @@ http://103.25.92.30:10029/2.m3u8
 http://103.25.92.30:10005/2.m3u8
 #EXTINF:-56 tvg-id="CamTVM1.kh" tvg-name="CamTV M1 (360p)" tvg-logo="https://i.imgur.com/gxIos3E.png" group-title="News",CamTV M1 (360p)
 http://103.25.92.30:10001/2.m3u8
+#EXTINF:-57 tvg-id="CamTVM2.kh" tvg-name="CamTV M2 (360p)" tvg-logo="https://i.imgur.com/3qRD4Ud.png" group-title="News",CamTV M2 (360p)
+http://103.25.92.30:10002/2.m3u8
+#EXTINF:-57 tvg-id="CamTVM3.kh" tvg-name="CamTV M3 (360p)" tvg-logo="https://i.imgur.com/4VAARgE.png" group-title="News",CamTV M3 (360p)
+http://103.25.92.30:10003/2.m3u8
+#EXTINF:-57 tvg-id="CamTVK1.kh" tvg-name="CamTV K1 (360p)" tvg-logo="https://i.imgur.com/qsu46rk.png" group-title="News",CamTV K1 (360p)
+http://103.25.92.30:10004/2.m3u8
