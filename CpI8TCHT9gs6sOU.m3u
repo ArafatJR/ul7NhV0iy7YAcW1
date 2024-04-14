@@ -68,7 +68,7 @@ https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
 #EXTINF:-34 tvg-id="PNN.kh" tvg-name="PNN (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="News",PNN (Happy Watch 99 720p)
 https://live.happywatch99.com/live/pnn_v$$240211$/playlist.m3u8
 #EXTINF:-35 tvg-id="TownTV.kh" tvg-name="Town TV (720p)" tvg-logo="https://ia600809.us.archive.org/1/items/KhmerTv/towntv.png" group-title="News",Town TV (720p)
-https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8?manifestfilter
+http://175.100.38.18/towntv
 #EXTINF:-36 tvg-id="TownTV.kh" tvg-name="Town TV Town App (720p)" tvg-logo="https://ia600809.us.archive.org/1/items/KhmerTv/towntv.png" group-title="News",Town TV Town App (720p)
 http://202.79.26.142:1999/town_ext
 #EXTINF:-37 tvg-id="SEATV.kh" tvg-name="SEATV (720p)" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="News",SEATV (720p)
