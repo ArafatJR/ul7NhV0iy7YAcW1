@@ -109,5 +109,5 @@ http://103.25.92.30:10028/2.m3u8
 http://103.25.92.30:10029/2.m3u8
 #EXTINF:-55 tvg-id="CMusic.kh" tvg-name="C Music (360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/cmusic_logo.png" group-title="News",C Music (360p)
 http://103.25.92.30:10005/2.m3u8
-#EXTINF:-56 tvg-id="CamTV.kh" tvg-name="CamTV (360p)" tvg-logo="https://i.imgur.com/AsYO6Wi.jpeg" group-title="News",CamTV (360p)
+#EXTINF:-56 tvg-id="CamTVM1.kh" tvg-name="CamTV M1 (360p)" tvg-logo="https://i.imgur.com/gxIos3E.png" group-title="News",CamTV M1 (360p)
 http://103.25.92.30:10001/2.m3u8
