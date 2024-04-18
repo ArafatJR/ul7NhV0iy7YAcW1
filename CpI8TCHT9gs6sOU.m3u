@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="News",TVK (720p)
+#EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Camodia" group-title="News",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 #EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="News",TVK2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
