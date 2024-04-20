@@ -40,7 +40,7 @@ https://live.happywatch99.com/live/mytv_v$$240211$/playlist.m3u8
 #EXTINF:-20 tvg-id="MyTV.kh" tvg-name="MyTV (576p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="Entertainment",MyTV (576p)
 http://tv.cootel.com.kh:8077/streams/d/MyTV/playlist.m3u8
 #EXTINF:-21 tvg-id="CNC.kh" tvg-name="CNC (720p)" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg" group-title="News",CNC (720p)
-http://dodge.eu5.org/Get?id=13
+https://live.happywatch99.com/live/cnc_news_v$$240211$/playlist.m3u8
 #EXTINF:-22 tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Entertainment",CTV8 (720p)
 http://dodge.eu5.org/Get?id=14
 #EXTINF:-23 tvg-id="CTV8HD.kh" tvg-name="CTV8 (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Entertainment",CTV8 (Happy Watch 99 720p)
