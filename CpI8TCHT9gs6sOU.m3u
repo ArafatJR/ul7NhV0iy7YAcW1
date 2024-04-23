@@ -48,7 +48,7 @@ https://live.happywatch99.com/live/ctv8_v$$240211$/playlist.m3u8
 #EXTINF:-24 tvg-id="CTV8HD.kh" tvg-name="CTV8 (360p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Cambodia" group-title="Entertainment",CTV8 (360p)
 http://103.25.92.30:10012/2.m3u8
 #EXTINF:-25 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="Cambodia" group-title="Entertainment",Hang Meas HDTV (1080p)
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUSXpORFV4TWpGQk9VWXhSVFF5T0RWQ01ERXlOVGs1UTBZelJVSkJNVGhGSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
 #EXTINF:-26 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="Cambodia" group-title="Entertainment",Hang Meas HDTV (720p)
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/10.m3u8
 #EXTINF:-27 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="Cambodia" group-title="Entertainment",Hang Meas HDTV (Happy Watch 99 720p)
