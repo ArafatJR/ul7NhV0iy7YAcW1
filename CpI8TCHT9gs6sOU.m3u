@@ -1,15 +1,15 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia;News",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
-#EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia" group-title="News",TVK2 (720p)
+#EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia;News",TVK2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
-#EXTINF:-3 tvg-id="TV3.kh" tvg-name="TV3 (720p)" tvg-logo="https://www.khmerkomsan.net/uploads/thumbs/b0e372dac-1.jpg" group-title="Cambodia" group-title="Entertainment",TV3 (720p)
+#EXTINF:-3 tvg-id="TV3.kh" tvg-name="TV3 (720p)" tvg-logo="https://www.khmerkomsan.net/uploads/thumbs/b0e372dac-1.jpg" group-title="Cambodia;Entertainment",TV3 (720p)
 https://live-evg3.tv360.metfone.com.kh/live/tv3.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.101
-#EXTINF:-4 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (1080p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lBhetGKAE2v_EwfxxrlD31JNEt4ZfuRSrjybRz=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia" group-title="Entertainment",TV5 Cambodia (1080p)
+#EXTINF:-4 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (1080p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lBhetGKAE2v_EwfxxrlD31JNEt4ZfuRSrjybRz=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia;Entertainment",TV5 Cambodia (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BVRkRPRFl5UmpGR1JFVTBRVFE0TVVZNVJVRkJPRU13TnpFd1JFRXpSRGt4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
-#EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lBhetGKAE2v_EwfxxrlD31JNEt4ZfuRSrjybRz=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia" group-title="Entertainment",TV5 Cambodia (720p)
+#EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lBhetGKAE2v_EwfxxrlD31JNEt4ZfuRSrjybRz=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia;Entertainment",TV5 Cambodia (720p)
 https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
-#EXTINF:-6 tvg-id="TV9.kh" tvg-name="TV9 (Cambodia)(1080p)" tvg-logo="https://api.netlinkbroadcaster.com/uploads/tv9_cf7bf8f850.jpg" group-title="Cambodia" group-title="Entertainment",TV9 (Cambodia) (1080p)
+#EXTINF:-6 tvg-id="TV9.kh" tvg-name="TV9 (Cambodia)(1080p)" tvg-logo="https://api.netlinkbroadcaster.com/uploads/tv9_cf7bf8f850.jpg" group-title="Cambodia;Entertainment",TV9 (Cambodia) (1080p)
 https://live.kh.malimarcdn.com/live/tv9.stream/chunklist.m3u8
 #EXTINF:-7 tvg-id="ApsaraTV11.kh" tvg-name="Apsara TV11 (1080p)" tvg-logo="https://workingna-files.s3.ap-southeast-1.amazonaws.com/1657872293343-APSARA%20NEW%20LOGO%20%28LATTEST%29.png" group-title="Cambodia" group-title="News" ,Apsara TV11 (1080p)
 https://live.ams.com.kh/app/stream/playlist.m3u8
