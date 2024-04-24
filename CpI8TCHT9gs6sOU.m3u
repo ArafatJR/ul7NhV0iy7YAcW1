@@ -80,7 +80,8 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 https://live.happywatch99.com/live/d_music_v$$240211$/playlist.m3u8
 #EXTINF:-40 tvg-id="MSJTV.kh" tvg-name="MSJTV (720p)" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="Cambodia" group-title="Entertainment",MSJTV (720p)
 https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=183.81.189.85
-#EXTINF:-41 tvg-id="SPMHDTV.kh" tvg-name="SPM HDTV (720p)" tvg-logo="https://moi-static.sgp1.digitaloceanspaces.com/uploads/station/avatar_image/307/spmtvlogo.png" group-title="Cambodia" group-title="Documentary",SPM HDTV (720p)
+#EXTINF:-41 tvg-id="SPMHDTV.kh" tvg-name="SPM HDTV (720p)" tvg-logo="https://moi-static.sgp1.digitaloceanspaces.com/uploads/station/avatar_image/307/spmtvlogo.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Cambodia;Documentary",SPM HDTV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.happywatch99.com/live/shshdtv_v$$240211$/playlist.m3u8
 #EXTINF:-42 tvg-id="FreshNews.kh" tvg-name="Fresh News TV (720p)" tvg-logo="https://asset.brandfetch.io/idi82Ajyf8/idVG3IozwL.png" group-title="Cambodia" group-title="News",Fresh News TV (720p)
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
