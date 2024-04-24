@@ -28,7 +28,7 @@ https://cdnssc.wewatch.asia/b3A9WTJsa1BUVTRNa0pDTWtRNE1UYzVORFEzT1VOQ05VRkZRak13
 #EXTINF:-14 tvg-id="CTN.kh" tvg-name="CTN (720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="Cambodia" group-title="Entertainment",CTN (720p)
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/4.m3u8
 #EXTINF:-15 tvg-id="CTN.kh" tvg-name="CTN (Happy Watch 99 720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="Cambodia" group-title="Entertainment",CTN (Happy Watch 99 720p)
-https://live.happywatch99.com/live/ctn_v$$240211$/playlist.m3u8
+https://live.happywatch99.com/live/ctn_hp99$!24/playlist.m3u8
 #EXTINF:-16 tvg-id="CTN.kh" tvg-name="CTN (576p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="Cambodia" group-title="Entertainment",CTN (576p)
 http://tv.cootel.com.kh:8077/streams/d/CTN/playlist.m3u8
 #EXTINF:-17 tvg-id="MyTV.kh" tvg-name="MyTV (1080p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="Cambodia" group-title="Entertainment",MyTV (1080p)
@@ -36,16 +36,16 @@ https://cdnssc.wewatch.asia/b3A9WTJsa1BURkZRemxDUkVKRk5VVkdSalE0T1VRNE56RkdOa0kx
 #EXTINF:-18 tvg-id="MyTV.kh" tvg-name="MyTV (720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="Cambodia" group-title="Entertainment",MyTV (720p)
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/6.m3u8
 #EXTINF:-19 tvg-id="MyTV.kh" tvg-name="MyTV (Happy Watch 720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="Cambodia" group-title="Entertainment",MyTV (Happy Watch 99 720p)
-https://live.happywatch99.com/live/mytv_v$$240211$/playlist.m3u8
+https://live.happywatch99.com/live/mytv_hp99$!24/playlist.m3u8
 #EXTINF:-20 tvg-id="MyTV.kh" tvg-name="MyTV (576p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="Cambodia" group-title="Entertainment",MyTV (576p)
 http://tv.cootel.com.kh:8077/streams/d/MyTV/playlist.m3u8
 #EXTINF:-21 tvg-id="CNC.kh" tvg-name="CNC (720p)" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg" group-title="Cambodia" group-title="News",CNC (720p)
-https://live.happywatch99.com/live/cnc_news_v$$240211$/playlist.m3u8
+https://live.happywatch99.com/live/cnc_news_hp99$!24/playlist.m3u8
 #EXTINF:-22 tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Cambodia" group-title="Entertainment",CTV8 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://dodge.eu5.org/Get?id=14
 #EXTINF:-23 tvg-id="CTV8HD.kh" tvg-name="CTV8 (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Cambodia" group-title="Entertainment",CTV8 (Happy Watch 99 720p)
-https://live.happywatch99.com/live/ctv8_v$$240211$/playlist.m3u8
+https://live.happywatch99.com/live/ctv8_hp99$!24/playlist.m3u8
 #EXTINF:-24 tvg-id="CTV8HD.kh" tvg-name="CTV8 (360p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Cambodia" group-title="Entertainment",CTV8 (360p)
 http://103.25.92.30:10012/2.m3u8
 #EXTINF:-25 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="Cambodia" group-title="Entertainment",Hang Meas HDTV (1080p)
@@ -53,13 +53,13 @@ http://1clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunkl
 #EXTINF:-26 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="Cambodia" group-title="Entertainment",Hang Meas HDTV (720p)
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/10.m3u8
 #EXTINF:-27 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="Cambodia" group-title="Entertainment",Hang Meas HDTV (Happy Watch 99 720p)
-https://live.happywatch99.com/live/hmhdtv_v$$240211$/playlist.m3u8
+https://live.happywatch99.com/live/hmhdtv_hp99$!24/playlist.m3u8
 #EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (1080p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="Cambodia" group-title="Entertainment",Rasmey Hang Meas HDTV (1080p)
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-29 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="Cambodia" group-title="Entertainment",Rasmey Hang Meas HDTV (720p)
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/11.m3u8
 #EXTINF:-30 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="Cambodia" group-title="Entertainment",Rasmey Hang Meas HDTV (Happy Watch 99 720p)
-https://live.happywatch99.com/live/rasmey_hm_v$$240211$/playlist.m3u8
+https://live.happywatch99.com/live/rasmey_hm_hp99$!24/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hang_Meas_Now_UHDTV_Logo_2023-Present.png/640px-Hang_Meas_Now_UHDTV_Logo_2023-Present.png" group-title="Cambodia" group-title="Entertainment",Hang Meas Now UHDTV (720p)
 https://live.happywatch99.com/live/nice_tv_v$$240211$/playlist.m3u8
 #EXTINF:-32 tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="Cambodia" group-title="Entertainment",PNN (1080p)
@@ -69,7 +69,7 @@ https://edge2.laotv.la/live/PNN/index.m3u8
 #EXTINF:-34 tvg-id="PNN.kh" tvg-name="PNN (720p)" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="Cambodia" group-title="Entertainment",PNN (720p)
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
 #EXTINF:-35 tvg-id="PNN.kh" tvg-name="PNN (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/ObtFGBW.png" group-title="Cambodia" group-title="Entertainment",PNN (Happy Watch 99 720p)
-https://live.happywatch99.com/live/pnn_v$$240211$/playlist.m3u8
+https://live.happywatch99.com/live/pnn_hp99$!24/playlist.m3u8
 #EXTINF:-36 tvg-id="TownTV.kh" tvg-name="Town TV (720p)" tvg-logo="https://ia600809.us.archive.org/1/items/KhmerTv/towntv.png" group-title="Cambodia" group-title="Entertainment",Town TV (720p)
 http://175.100.38.18/towntv
 #EXTINF:-37 tvg-id="TownTV.kh" tvg-name="Town TV Town App (720p)" tvg-logo="https://ia600809.us.archive.org/1/items/KhmerTv/towntv.png" group-title="Cambodia" group-title="Entertainment",Town TV Town App (720p)
@@ -77,7 +77,7 @@ http://202.79.26.142:1999/town_ext
 #EXTINF:-38 tvg-id="SEATV.kh" tvg-name="SEATV (720p)" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="Cambodia" group-title="News",SEATV (720p)
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-39 tvg-id="DMusic.kh" tvg-name="DMusic (720p)" tvg-logo="https://i.malimarcdn.com/kh/dmusicHDF.jpg" group-title="Cambodia" group-title="Entertainment",DMusic (720p)
-https://live.happywatch99.com/live/d_music_v$$240211$/playlist.m3u8
+https://live.happywatch99.com/live/d_music_hp99$!24/playlist.m3u8
 #EXTINF:-40 tvg-id="MSJTV.kh" tvg-name="MSJTV (720p)" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="Cambodia" group-title="Entertainment",MSJTV (720p)
 https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=183.81.189.85
 #EXTINF:-41 tvg-id="SPMHDTV.kh" tvg-name="SPM HDTV (720p)" tvg-logo="https://moi-static.sgp1.digitaloceanspaces.com/uploads/station/avatar_image/307/spmtvlogo.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Cambodia;Documentary",SPM HDTV (720p)
