@@ -1,7 +1,7 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia",TVK (720p)
+#EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" tvg-country="Cambodia" group-title="News",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
-#EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia",TVK2 (720p)
+#EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" tvg-country="Cambodia" group-title="News",TVK2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 #EXTINF:-3 tvg-id="TV3.kh" tvg-name="TV3 (720p)" tvg-logo="https://www.khmerkomsan.net/uploads/thumbs/b0e372dac-1.jpg" group-title="Cambodia",TV3 (720p)
 https://live-evg3.tv360.metfone.com.kh/live/tv3.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.101
@@ -121,10 +121,10 @@ http://103.25.92.30:10002/2.m3u8
 http://103.25.92.30:10003/2.m3u8
 #EXTINF:-60 tvg-id="CamTVK1.kh" tvg-name="CamTV K1 (360p)" tvg-logo="https://i.imgur.com/qsu46rk.png" group-title="Cambodia" group-title="Entertainment",CamTV K1 (360p)
 http://103.25.92.30:10004/2.m3u8
-#EXTINF:-61 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Thailand;Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Channel 3 (720p)
+#EXTINF:-61 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" tvg-country="Thailand" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Channel 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
-#EXTINF:-62 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thailand;Entertainment",Channel 5 (1080p)
+#EXTINF:-62 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" tvg-country="Thailand" group-title="Entertainment",Channel 5 (1080p)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-63 tvg-id="Channel7.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png" group-title="Thailand;Entertainment",Channel 7 (1080p)
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
