@@ -1,13 +1,13 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia | News",TVK (720p)
+#EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
-#EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia | News",TVK2 (720p)
+#EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia",TVK2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
-#EXTINF:-3 tvg-id="TV3.kh" tvg-name="TV3 (720p)" tvg-logo="https://www.khmerkomsan.net/uploads/thumbs/b0e372dac-1.jpg" group-title="Cambodia | Entertainment",TV3 (720p)
+#EXTINF:-3 tvg-id="TV3.kh" tvg-name="TV3 (720p)" tvg-logo="https://www.khmerkomsan.net/uploads/thumbs/b0e372dac-1.jpg" group-title="Cambodia",TV3 (720p)
 https://live-evg3.tv360.metfone.com.kh/live/tv3.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.101
-#EXTINF:-4 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (1080p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lBhetGKAE2v_EwfxxrlD31JNEt4ZfuRSrjybRz=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia;Entertainment",TV5 Cambodia (1080p)
+#EXTINF:-4 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (1080p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lBhetGKAE2v_EwfxxrlD31JNEt4ZfuRSrjybRz=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia",TV5 Cambodia (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BVRkRPRFl5UmpGR1JFVTBRVFE0TVVZNVJVRkJPRU13TnpFd1JFRXpSRGt4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
-#EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lBhetGKAE2v_EwfxxrlD31JNEt4ZfuRSrjybRz=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia;Entertainment",TV5 Cambodia (720p)
+#EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lBhetGKAE2v_EwfxxrlD31JNEt4ZfuRSrjybRz=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia",TV5 Cambodia (720p)
 https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
 #EXTINF:-6 tvg-id="TV9.kh" tvg-name="TV9 (Cambodia)(1080p)" tvg-logo="https://api.netlinkbroadcaster.com/uploads/tv9_cf7bf8f850.jpg" group-title="Cambodia;Entertainment",TV9 (Cambodia) (1080p)
 https://live.kh.malimarcdn.com/live/tv9.stream/chunklist.m3u8
@@ -80,7 +80,7 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 https://live.happywatch99.com/live/d_music_hp99$!24/playlist.m3u8
 #EXTINF:-40 tvg-id="MSJTV.kh" tvg-name="MSJTV (720p)" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="Cambodia" group-title="Entertainment",MSJTV (720p)
 https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=183.81.189.85
-#EXTINF:-41 tvg-id="SPMHDTV.kh" tvg-name="SPM HDTV (720p)" tvg-logo="https://moi-static.sgp1.digitaloceanspaces.com/uploads/station/avatar_image/307/spmtvlogo.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Cambodia;Documentary",SPM HDTV (720p)
+#EXTINF:-41 tvg-id="SPMHDTV.kh" tvg-name="SPM HDTV (720p)" tvg-logo="https://moi-static.sgp1.digitaloceanspaces.com/uploads/station/avatar_image/307/spmtvlogo.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Cambodia",SPM HDTV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.happywatch99.com/live/shshdtv_v$$240211$/playlist.m3u8
 #EXTINF:-42 tvg-id="FreshNews.kh" tvg-name="Fresh News TV (720p)" tvg-logo="https://asset.brandfetch.io/idi82Ajyf8/idVG3IozwL.png" group-title="Cambodia" group-title="News",Fresh News TV (720p)
@@ -97,7 +97,7 @@ https://live-ali10.tv360.metfone.com.kh/hls/MOITV.m3u8?manifestfilter=video_bitr
 https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.94
 #EXTINF:-48 tvg-id="CCOCTV.kh" tvg-name="CCOC HDTV (720p)" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1186.jpg" group-title="Cambodia" group-title="Entertainment",CCOC HDTV (720p)
 https://live.happywatch99.com/live/ccochdtv_v$$240211$/playlist.m3u8
-#EXTINF:-49 tvg-id="MVCTV.kh" tvg-name="MVC TV (720p)" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mvc-th.png" group-title="Thailand" group-title="Movie",MVC TV (720p)
+#EXTINF:-49 tvg-id="MVCTV.kh" tvg-name="MVC TV (720p)" tvg-logo="https://i.imgur.com/scMLenH.png" group-title="Thailand" group-title="Movie",MVC TV (720p)
 https://psiiptv-b.sky-cdn.com/ttd22-playlist/index.m3u8
 #EXTINF:-50 tvg-id="Netlink.kh" tvg-name="Netlink TV (720p)" tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75" group-title="Cambodia" group-title="Entertainment",Netlink TV (720p)
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
@@ -128,14 +128,14 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png" group-title="Entertainment",Channel 7 (1080p)
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://lh3.googleusercontent.com/proxy/jIwWRaaSDV_ICQHij-PI-Ihgln71g1QTfF0-av-O3_BREDPjE6k4YzVBr1lvfvQYZ72m9ew-p2ErOivmo-QlE714V4CHh3f6ng2ztAOo4UQPILZHcq3RAActATQSQXoXes1osx0or-vRkBXj9gdDEBHdsKGrXD1x3qMw-n1AjjsQdx55" group-title="Entertainment",Channel 8 (1080p)
+#EXTINF:-1 tvg-id="Channel8.th" tvg-logo="https://i.imgur.com/Wo1ZllE.png" group-title="Entertainment",Channel 8 Thailand (1080p)
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://i.imgur.com/uARba6N.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",GMM 25 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8
 #EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd/index.m3u8
+#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://i.imgur.com/uARba6N.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",GMM 25 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8
 #EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Entertainment" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MONO 29 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono29/index.m3u8
