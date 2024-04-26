@@ -168,7 +168,7 @@ http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-81 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South korea",KBS World (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="South korea",KBS WORLD TV Vibing with K-Pop (1080p)
-https://shorturl.at/rstBX
+https://shorturl.at/fhsO3
 #EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="South korea",MBC TV (720p)
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-84 tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South korea",Mnet TV (720p)
