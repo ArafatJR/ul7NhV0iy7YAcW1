@@ -163,3 +163,9 @@ https://vtv-live-push-token.akamaized.net/hls/live/2029315/vtv7/playlist.m3u8?hd
 https://vtv-live-push-token.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8?hdnts=exp=1773457133~acl=/hls/live/2029316/vtv8/*~hmac=ca01f7e40d2ee61e5c8f8e45c031c32f144fccaf82d56c12f79e28637c5cab75
 #EXTINF:-79 tvg-id="VTV9.vn" tvg-name="VTV9 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/39.png" group-title="Vietnam",VTV9 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8?hdnts=exp=1773457159~acl=/hls/live/2029317/vtv9/*~hmac=97d75a670aeef1b722495dfd5f8c3254de4c026841f6d6974f1ad5c08f6539c2
+#EXTINF:-80 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title=South Korea",SBS JIBS (720p)
+http://123.140.197.22/stream/1/play.m3u8
+#EXTINF:-81 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South korea",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-82 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="South korea",MBC TV (720p)
+https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
