@@ -4,7 +4,7 @@ https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 #EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia",TVK2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 #EXTINF:-3 tvg-id="TV3.kh" tvg-name="TV3 (720p)" tvg-logo="https://www.khmerkomsan.net/uploads/thumbs/b0e372dac-1.jpg" group-title="Cambodia",TV3 (720p)
-https://live-evg3.tv360.metfone.com.kh/live/tv3.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.101
+https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 #EXTINF:-4 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (1080p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lBhetGKAE2v_EwfxxrlD31JNEt4ZfuRSrjybRz=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia",TV5 Cambodia (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BVRkRPRFl5UmpGR1JFVTBRVFE0TVVZNVJVRkJPRU13TnpFd1JFRXpSRGt4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
 #EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lBhetGKAE2v_EwfxxrlD31JNEt4ZfuRSrjybRz=s900-c-k-c0x00ffffff-no-rj" group-title="Cambodia",TV5 Cambodia (720p)
