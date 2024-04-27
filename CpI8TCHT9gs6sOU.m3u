@@ -15,13 +15,13 @@ https://live.kh.malimarcdn.com/live/tv9.stream/chunklist.m3u8
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-8 tvg-id="ApsaraTV11.kh" tvg-name="Apsara TV11 (720p)" tvg-logo="https://workingna-files.s3.ap-southeast-1.amazonaws.com/1657872293343-APSARA%20NEW%20LOGO%20%28LATTEST%29.png" group-title="Cambodia",Apsara TV11 (720p)
 https://live.kh.unitysystem.net/live/apsara.stream/chunklist.m3u8
-#EXTINF:-9 tvg-id="BayonTV.kh" tvg-name="Bayon TV (1080p)" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="Cambodia",Bayon TV (1080p)
+#EXTINF:-9 tvg-id="BayonTV.kh" tvg-name="Bayon TV (1080p)" tvg-logo="https://i.imgur.com/lrI4Gf9.png" group-title="Cambodia",Bayon TV (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUQkZOekl3TmtVeE9UQkRORFEwTWtVNU5UaEdOakZGT1VaR05UYzVORE0wSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
-#EXTINF:-10 tvg-id="BayonTV.kh" tvg-name="Bayon TV (720p)" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" group-title="Cambodia",Bayon TV (720p)
+#EXTINF:-10 tvg-id="BayonTV.kh" tvg-name="Bayon TV (720p)" tvg-logo="https://i.imgur.com/lrI4Gf9.png" group-title="Cambodia",Bayon TV (720p)
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
-#EXTINF:-11 tvg-id="BTVNews.kh" tvg-name="BTV News (1080p)" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="Cambodia",BTV News (1080p)
+#EXTINF:-11 tvg-id="BTVNews.kh" tvg-name="BTV News (1080p)" tvg-logo="https://i.imgur.com/zbApYH1.png" group-title="Cambodia",BTV News (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BVVkZNVVV5T1VSQlFUTTNNVFJGTjBWQ05EaEVNRFEzT0RVeU16TkJNakEySm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
-#EXTINF:-12 tvg-id="BTVNews.kh" tvg-name="BTV News (720p)" tvg-logo="https://i.imgur.com/sUHiRj3.png" group-title="Cambodia",BTV News (720p)
+#EXTINF:-12 tvg-id="BTVNews.kh" tvg-name="BTV News (720p)" tvg-logo="https://i.imgur.com/zbApYH1.png" group-title="Cambodia",BTV News (720p)
 https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 #EXTINF:-13 tvg-id="CTN.kh" tvg-name="CTN (1080p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="Cambodia",CTN (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUVTRNa0pDTWtRNE1UYzVORFEzT1VOQ05VRkZRak13UlRnMk1VTXdPVFV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
@@ -128,7 +128,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-63 tvg-id="Channel7.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png" group-title="Thailand",Channel 7 (1080p)
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-#EXTINF:-64 tvg-id="Channel8.th" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/640px-Ch_8_2016.svg.png&w=640&q=50" group-title="Thailand",Channel 8 (720p)
+#EXTINF:-64 tvg-id="Channel8.th" tvg-logo="https://i.imgur.com/UoQARYm.png" group-title="Thailand",Channel 8 (720p)
 https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
 #EXTINF:-65 tvg-id="Channel8.th" tvg-logo="https://i.imgur.com/Wo1ZllE.png" group-title="Thailand",Channel 8 Thailand (1080p)
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
