@@ -165,15 +165,17 @@ https://vtv-live-push-token.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8?hd
 https://vtv-live-push-token.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8?hdnts=exp=1773457159~acl=/hls/live/2029317/vtv9/*~hmac=97d75a670aeef1b722495dfd5f8c3254de4c026841f6d6974f1ad5c08f6539c2
 #EXTINF:-80 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title=South Korea",SBS JIBS (720p)
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-81 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South korea",KBS World (720p)
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-81 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South korea",KBS World (1080p)
+http://mag.trexlive.me:8000/play/live.php?mac=00:1a:79:0b:63:a2&stream=941631&extension=ts
 #EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="South korea",KBS WORLD TV Vibing with K-Pop (1080p)
 https://kbswordtv.dthhdtv.workers.dev/stream/@kbsworldtv/master.m3u8
 #EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="South korea",MBC TV (720p)
-https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
-#EXTINF:-84 tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South korea",Mnet TV (720p)
+https://vod.mpmbc.co.kr/live/encoder-tv/chunklist_w680058893.m3u8
+#EXTINF:-84 tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South korea",MNET TV (720p)
 https://everylive.space/live/mnet/livestream.m3u8
 #EXTINF:-85 tvg-id="K-POPTV.kr" tvg-logo="https://i.imgur.com/COs7s4T.jpeg" group-title="South korea",THE K-POP TV (1080p)
 https://k-poptv.dthhdtv.workers.dev/stream/@thekpop/master.m3u8
 #EXTINF:-1 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",TV Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network Southeast Asia (1080p)
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
