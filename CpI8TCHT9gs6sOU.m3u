@@ -49,7 +49,7 @@ https://live.happywatch99.com/live/ctv8_hp99$!24/playlist.m3u8
 #EXTINF:-24 tvg-id="CTV8HD.kh" tvg-name="CTV8 (360p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Cambodia",CTV8 (360p)
 http://103.25.92.30:10012/2.m3u8
 #EXTINF:-25 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="Cambodia",Hang Meas HDTV (1080p)
-https://cdnssc.wewatch.asia/b3A9WTJsa1BUSXpORFV4TWpGQk9VWXhSVFF5T0RWQ01ERXlOVGs1UTBZelJVSkJNVGhGSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
+http://1clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w850070757_b1800000_sleng.m3u8
 #EXTINF:-26 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="Cambodia",Hang Meas HDTV (720p)
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/10.m3u8
 #EXTINF:-27 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="Cambodia",Hang Meas HDTV (Happy Watch 99 720p)
@@ -60,8 +60,8 @@ http://1clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chun
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/11.m3u8
 #EXTINF:-30 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="Cambodia",Rasmey Hang Meas HDTV (Happy Watch 99 720p)
 https://live.happywatch99.com/live/rasmey_hm_hp99$!24/playlist.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hang_Meas_Now_UHDTV_Logo_2023-Present.png/640px-Hang_Meas_Now_UHDTV_Logo_2023-Present.png" group-title="Cambodia",Hang Meas Now UHDTV (720p)
-https://live.happywatch99.com/live/nice_tv_v$$240211$/playlist.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hang_Meas_Now_UHDTV_Logo_2023-Present.png/640px-Hang_Meas_Now_UHDTV_Logo_2023-Present.png" group-title="Cambodia",Hang Meas Now UHDTV (1080p)
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUSXpORFV4TWpGQk9VWXhSVFF5T0RWQ01ERXlOVGs1UTBZelJVSkJNVGhGSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/1080P_h264_master.m3u8
 #EXTINF:-32 tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="Cambodia",PNN (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUVkdPVFJEUVRFNU1EQkVPRFF3TlRaQ016VkdRVE5ETnprNU4wRTRPVU5GSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
 #EXTINF:-33 tvg-id="PNN.kh" tvg-name="PNN Lao TV (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="Cambodia",PNN LAOTV (1080p)
