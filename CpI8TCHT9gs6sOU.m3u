@@ -187,7 +187,7 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 https://shorturl.at/chFX1
 #EXTINF:-91 tvg-id="AniplusAsia.id" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="Animation",AniPlus (Indonesian Subtitle) (576p)
 http://210.210.155.37/uq2663/h/h201/02.m3u8
-#EXTINF:-92 tvg-id="HBOAsiaHD.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO (720p)
-https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
-#EXTINF:-93 tvg-id="StarMovieHD.sg" tvg-logo="https://i.imgur.com/KnQFuxE.png" group-title="Movies",Star Movie HD (1080p)
+#EXTINF:-92 tvg-id="HBOAsiaHD.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO (1080p)
+http://ip168.homeip.net:8086/hbo.m3u8
+#EXTINF:-93 tvg-id="StarMovieHD.sg" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",Star Movie HD (1080p)
 http://tv.cloudcdn.me/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
