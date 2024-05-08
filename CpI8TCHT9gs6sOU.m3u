@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="" player-buffer="40"
+#EXTM3U url-tvg="" player-buffer="50"
 #EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 #EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia",TVK2 (720p)
@@ -41,8 +41,9 @@ https://live.happywatch99.com/live/mytv_hp99$!24/playlist.m3u8
 http://tv.cootel.com.kh:8077/streams/d/MyTV/playlist.m3u8
 #EXTINF:-21 tvg-id="CNC.kh" tvg-name="CNC (720p)" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg" group-title="Cambodia",CNC (720p)
 https://live.happywatch99.com/live/cnc_news_hp99$!24/playlist.m3u8
-#EXTINF:-22 tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Cambodia",CTV8 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-22 tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Cambodia",CTV8 (720p)
 http://dodge.eu5.org/Get?id=14
 #EXTINF:-23 tvg-id="CTV8HD.kh" tvg-name="CTV8 (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Cambodia",CTV8 (Happy Watch 99 720p)
 https://live.happywatch99.com/live/ctv8_hp99$!24/playlist.m3u8
@@ -187,11 +188,20 @@ http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=45466&extension=ts
 http://170.254.18.106/TBS/index.m3u8
 #EXTINF:-91 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network Southeast Asia (1080p)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-92 tvg-id="AnimaxAsia.sg" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",Animax Asia (1080p)
-https://shorturl.at/chFX1
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"edf1a715de9748638dd2fad75a419af2":"2f5a3199b26e9b693ae881af7ff864cf"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-92 tvg-id="AnimaxAsia.sg" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (1080p)
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-93 tvg-id="AniplusAsia.id" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="Animation",AniPlus (Indonesian Subtitle) (576p)
 http://210.210.155.37/uq2663/h/h201/02.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a098896d2b11c5f3906a993c3ba5c610":"f3f842c54cc96cbbd0bcb96a4cb8a813"}
 #EXTINF:-94 tvg-id="HBOAsiaHD.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (1080p)
-http://ip168.homeip.net:8086/hbo.m3u8
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default.mpd
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-95 tvg-id="StarMovieHD.sg" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (1080p)
 http://tv.cloudcdn.me/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
