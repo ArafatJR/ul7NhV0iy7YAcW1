@@ -182,8 +182,10 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTINF:-88 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Japan",NHK World Japan (720p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-89 tvg-id="USATV.us" tvg-logo="https://i.imgur.com/rMLfUnr.png" group-title="USA",USA NETWORK TV (720p)
-http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=45466&extension=ts
+http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=45466&extension=m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-90 tvg-id="TBSTV.us" tvg-logo="https://i.imgur.com/7cmNYVk.png" group-title="USA",TBS NETWORK TV (720p)
 http://170.254.18.106/TBS/index.m3u8
 #EXTINF:-91 tvg-id="CartoonNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network Southeast Asia (1080p)
@@ -197,11 +199,19 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #EXTINF:-93 tvg-id="AniplusAsia.id" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="Animation",AniPlus (Indonesian Subtitle) (576p)
 http://210.210.155.37/uq2663/h/h201/02.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a098896d2b11c5f3906a993c3ba5c610":"f3f842c54cc96cbbd0bcb96a4cb8a813"}
 #EXTINF:-94 tvg-id="HBOAsiaHD.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (1080p)
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default.mpd
+http://ip168.homeip.net:8086/hbo.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9"}
+#EXTINF:-95 tvg-id="HBOSignatureAsia.sg" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="Movies",HBO SIGNATURE ASIA (1080p)
+https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0403e654ddab419db6cc72bb3fa51248:9d43bcc51f3750550d321cdc37e57cc9"}
+#EXTINF:-96 tvg-id="GEM.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Movies",GEM (English Subtitle) (1080p)
+https://d2q3zea8ff7bj4.cloudfront.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-95 tvg-id="StarMovieHD.sg" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (1080p)
-http://tv.cloudcdn.me/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-97 tvg-id="StarMovieHD.sg" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (1080p)
+http://humiptv.live:8080/live/wasim/wasim1234/9384.m3u8
