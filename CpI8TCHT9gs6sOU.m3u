@@ -215,7 +215,7 @@ http://210.210.155.37/uq2663/h/h201/02.m3u8
 #EXTINF:-95 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://i.imgur.com/Ol0BBiV.png" group-title="Movies",TokuSHOUTsu (1080p)
 https://shorturl.at/uCJNO
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-96 tvg-id="401.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (Thai Subtitle) (1080p)
+#EXTINF:-96 tvg-id="411.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (Thai Subtitle) (1080p)
 http://ip168.homeip.net:8086/hbo.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
