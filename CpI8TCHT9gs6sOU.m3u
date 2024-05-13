@@ -168,43 +168,54 @@ https://vtv-live-push-token.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8?hd
 https://vtv-live-push-token.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8?hdnts=exp=1773457159~acl=/hls/live/2029317/vtv9/*~hmac=97d75a670aeef1b722495dfd5f8c3254de4c026841f6d6974f1ad5c08f6539c2
 #EXTINF:-80 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title=South Korea",SBS JIBS (720p)
 http://123.140.197.22/stream/1/play.m3u8
-#EXTINF:-81 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South korea",KBS World (1080p)
+#EXTINF:-81 tvg-id="392.astro" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South Korea",KBS World (1080p)
 http://mag.trexlive.me:8000/play/live.php?mac=00:1a:79:0b:63:a2&stream=941631&extension=ts
-#EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="South korea",KBS WORLD TV Vibing with K-Pop (1080p)
+#EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="South Korea",KBS WORLD TV Vibing with K-Pop (1080p)
 https://kbswordtv.dthhdtv.workers.dev/stream/@kbsworldtv/master.m3u8
-#EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="South korea",MBC TV (720p)
+#EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="South Korea",MBC TV (720p)
 https://vod.mpmbc.co.kr/live/encoder-tv/chunklist_w680058893.m3u8
-#EXTINF:-84 tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South korea",MNET (720p)
+#EXTINF:-84 tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South Korea",MNET (720p)
 https://everylive.space/live/mnet/livestream.m3u8
-#EXTINF:-85 tvg-id="K-POPTV.kr" tvg-logo="https://i.imgur.com/COs7s4T.jpeg" group-title="South korea",THE K-POP TV (1080p)
+#EXTINF:-85 tvg-id="K-POPTV.kr" tvg-logo="https://i.imgur.com/COs7s4T.jpeg" group-title="South Korea",THE K-POP TV (1080p)
 https://k-poptv.dthhdtv.workers.dev/stream/@thekpop/master.m3u8
-#EXTINF:-86 tvg-id="ArirangWorld.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="South korea",Arirang TV World (1080p)
+#EXTINF:-86 tvg-id="ArirangWorld.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="South Korea",Arirang TV World (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-87 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",TV Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTINF:-88 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Japan",NHK World Japan (720p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-89 tvg-id="USATV.us" tvg-logo="https://i.imgur.com/rMLfUnr.png" group-title="USA",USA NETWORK TV (720p)
-http://23232.top/play/live.php?mac=00:1A:79:C6:37:1B&stream=45466&extension=m3u8
+#EXTINF:-89 tvg-id="USATV.us" tvg-logo="https://i.imgur.com/rMLfUnr.png" group-title="USA",USA NETWORK TV (1080p)
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61368&extension=ts&play_token=OTGHDYA41S&sn2=
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-90 tvg-id="TBSTV.us" tvg-logo="https://i.imgur.com/7cmNYVk.png" group-title="USA",TBS NETWORK TV (720p)
 http://170.254.18.106/TBS/index.m3u8
-#EXTINF:-91 tvg-id="615.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network Southeast Asia (1080p)
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-91 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="USA",TNT (1080p)
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-92 tvg-id="615.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network Southeast Asia (1080p)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"edf1a715de9748638dd2fad75a419af2":"2f5a3199b26e9b693ae881af7ff864cf"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-92 tvg-id="472.unifi" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (1080p)
+#EXTINF:-93 tvg-id="472.unifi" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (1080p)
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-#EXTINF:-93 tvg-id="AniplusAsia.id" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="Animation",AniPlus (Indonesian Subtitle) (576p)
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-94 tvg-id="AniplusAsia.id" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="Animation",AniPlus (Indonesian Subtitle) (576p)
 http://210.210.155.37/uq2663/h/h201/02.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-94 tvg-id="411.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-1 tvg-id="TokuSHOUTsu.us" tvg-logo="https://i.imgur.com/Ol0BBiV.png" group-title="Movie",TokuSHOUTsu (1080p)
+https://shorturl.at/uCJNO
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-95 tvg-id="411.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (Thai Subtitle) (1080p)
 http://ip168.homeip.net:8086/hbo.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-95 tvg-id="StarMovieHD.sg" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (1080p)
+#EXTINF:-96 tvg-id="StarMovieHD.sg" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (English Subtitle) (1080p)
 http://humiptv.live:8080/live/wasim/wasim1234/9384.m3u8
 
