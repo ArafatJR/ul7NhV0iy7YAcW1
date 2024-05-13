@@ -170,7 +170,6 @@ https://vtv-live-push-token.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8?hd
 #EXTINF:-80 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title=South Korea",SBS JIBS (720p)
 http://123.140.197.22/stream/1/play.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-81 tvg-id="392.astro" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South Korea",KBS World (1080p)
 http://mag.trexlive.me:8000/play/live.php?mac=00:1a:79:0b:63:a2&stream=941631&extension=ts
 #EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="South Korea",KBS WORLD TV Vibing with K-Pop (1080p)
