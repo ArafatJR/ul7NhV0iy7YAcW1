@@ -47,7 +47,7 @@ http://tv.cootel.com.kh:8077/streams/d/MyTV/playlist.m3u8
 https://live.happywatch99.com/live/cnc_news_hp99$!24/playlist.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-22 tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Cambodia",CTV8 (720p)
+#EXTINF:-22 player-buffer="50" tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Cambodia",CTV8 (720p)
 http://dodge.eu5.org/Get?id=14
 #EXTINF:-23 tvg-id="CTV8HD.kh" tvg-name="CTV8 (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Cambodia",CTV8 (Happy Watch 99 720p)
 https://live.happywatch99.com/live/ctv8_hp99$!24/playlist.m3u8
@@ -67,7 +67,7 @@ http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/11.m3u8
 https://live.happywatch99.com/live/rasmey_hm_hp99$!24/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hang_Meas_Now_UHDTV_Logo_2023-Present.png/640px-Hang_Meas_Now_UHDTV_Logo_2023-Present.png" group-title="Cambodia",Hang Meas Now UHDTV (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUSXpORFV4TWpGQk9VWXhSVFF5T0RWQ01ERXlOVGs1UTBZelJVSkJNVGhGSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
-#EXTINF:-32 tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="Cambodia",PNN (1080p)
+#EXTINF:-32 player-buffer="50" tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="Cambodia",PNN (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUVkdPVFJEUVRFNU1EQkVPRFF3TlRaQ016VkdRVE5ETnprNU4wRTRPVU5GSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
 #EXTINF:-34 tvg-id="PNN.kh" tvg-name="PNN (720p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="Cambodia",PNN (720p)
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
@@ -189,13 +189,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-89 tvg-id="USATV.us" tvg-logo="https://i.imgur.com/rMLfUnr.png" group-title="USA",USA NETWORK TV (1080p)
+#EXTINF:-89 player-buffer="50" tvg-id="USATV.us" tvg-logo="https://i.imgur.com/rMLfUnr.png" group-title="USA",USA NETWORK TV (1080p)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61368&extension=ts&play_token=OTGHDYA41S&sn2=
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-90 tvg-id="TBSTV.us" tvg-logo="https://i.imgur.com/7cmNYVk.png" group-title="USA",TBS NETWORK TV (720p)
+#EXTINF:-90 player-buffer="50" tvg-id="TBSTV.us" tvg-logo="https://i.imgur.com/7cmNYVk.png" group-title="USA",TBS NETWORK TV (720p)
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/262
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-91 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="USA",TNT (1080p)
+#EXTINF:-91 player-buffer="50" tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="USA",TNT (1080p)
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/231
 
 #EXTINF:-92 tvg-id="615.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network Southeast Asia (1080p)
@@ -220,12 +220,14 @@ https://shorturl.at/uCJNO
 http://ip168.homeip.net:8086/hbo.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-97 tvg-id="StarMovieHD.sg" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (English Subtitle) (1080p)
+#EXTINF:-97 player-buffer="50" tvg-id="StarMovieHD.in" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (English Subtitle) (1080p)
 http://tv.cloudcdn.me/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-97 player-buffer="50" tvg-id="StarMovieSelectHD.in" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="Movies",STAR MOVIES SELECT HD (English Subtitle) (1080p)
+http://119.152.240.15:8001/play/a0i1/index.m3u8
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-1 tvg-wwenetwork.us" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="SPORT",WWE NETWORKS (1080p)
+#EXTINF:-1 tvg-wwenetwork.us" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="SPORTS",WWE NETWORKS (1080p)
 http://awqydwy.leadcool.xyz/6200961098/0297608859/153736
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
