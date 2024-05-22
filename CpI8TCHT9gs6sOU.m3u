@@ -69,8 +69,6 @@ https://live.happywatch99.com/live/rasmey_hm_hp99$!24/playlist.m3u8
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUSXpORFV4TWpGQk9VWXhSVFF5T0RWQ01ERXlOVGs1UTBZelJVSkJNVGhGSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
 #EXTINF:-32 tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="Cambodia",PNN (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUVkdPVFJEUVRFNU1EQkVPRFF3TlRaQ016VkdRVE5ETnprNU4wRTRPVU5GSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
-#EXTINF:-33 tvg-id="PNN.kh" tvg-name="PNN Lao TV (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="Cambodia",PNN LAOTV (1080p)
-https://edge2.laotv.la/live/PNN/index.m3u8
 #EXTINF:-34 tvg-id="PNN.kh" tvg-name="PNN (720p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="Cambodia",PNN (720p)
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
 #EXTINF:-35 tvg-id="PNN.kh" tvg-name="PNN (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="Cambodia",PNN (Happy Watch 99 720p)
@@ -84,7 +82,7 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-39 tvg-id="DMusic.kh" tvg-name="DMusic (720p)" tvg-logo="https://i.malimarcdn.com/kh/dmusicHDF.jpg" group-title="Cambodia",DMusic (720p)
 https://live.happywatch99.com/live/d_music_hp99$!24/playlist.m3u8
 #EXTINF:-40 tvg-id="MSJTV.kh" tvg-name="MSJTV (720p)" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="Cambodia",MSJTV (720p)
-https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=183.81.189.85
+http://124.248.165.18:1935/live/myStream/chunklist_w2090153462.m3u8
 #EXTINF:-41 tvg-id="SPMHDTV.kh" tvg-name="SPM HDTV (720p)" tvg-logo="https://moi-static.sgp1.digitaloceanspaces.com/uploads/station/avatar_image/307/spmtvlogo.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="Cambodia",SPM HDTV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.happywatch99.com/live/shshdtv_v$$240211$/playlist.m3u8
@@ -106,8 +104,6 @@ https://live.happywatch99.com/live/ccochdtv_v$$240211$/playlist.m3u8
 https://psiiptv-b.sky-cdn.com/ttd22-playlist/index.m3u8
 #EXTINF:-50 tvg-id="Netlink.kh" tvg-name="Netlink TV (720p)" tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75" group-title="Cambodia",NETLINK TV (720p)
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-51 tvg-id="ABCTV.kh" tvg-name="ABC TV (720p)" tvg-logo="https://khmerpress.today/wp-content/uploads/2022/11/logo-ABC-Ver.2-1024x1024.jpg" group-title="Cambodia",ABC TV (720p)
-http://80.65.211.86:5080/WebRTCAppEE/streams/abc_android_3.m3u8
 #EXTINF:-52 tvg-id="PPCTV3" tvg-name="PPCTV3(360p)" tvg-logo="https://i.imgur.com/jgrdWql.png" group-title="Cambodia",PPCTV3 (360p)
 http://103.25.92.30:10049/2.m3u8
 #EXTINF:-53 tvg-id="PPCTV6HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv6_logo_v2.png" group-title="Cambodia"\,PPCTV6 HD (360p)
@@ -185,6 +181,8 @@ https://k-poptv.dthhdtv.workers.dev/stream/@thekpop/master.m3u8
 #EXTINF:-86 tvg-id="ArirangWorld.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="South Korea",Arirang TV World (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 
+#EXTINF:-87 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",TV Asahi (720p)
+https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
 #EXTINF:-87 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",TV Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTINF:-88 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Japan",NHK World Japan (720p)
@@ -195,24 +193,24 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61368&extension=ts&play_token=OTGHDYA41S&sn2=
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-90 tvg-id="TBSTV.us" tvg-logo="https://i.imgur.com/7cmNYVk.png" group-title="USA",TBS NETWORK TV (720p)
-http://170.254.18.106/TBS/index.m3u8
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/262
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-91 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="USA",TNT (1080p)
-http://170.254.18.106/TNT/index.m3u8
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/231
+
 #EXTINF:-92 tvg-id="615.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network Southeast Asia (1080p)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"edf1a715de9748638dd2fad75a419af2":"2f5a3199b26e9b693ae881af7ff864cf"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-93 tvg-id="472.unifi" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (1080p)
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-94 tvg-id="5340" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="Animation",AniPlus (Indonesian Subtitle) (576p)
 http://210.210.155.37/uq2663/h/h201/02.m3u8
+
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-95 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://i.imgur.com/Ol0BBiV.png" group-title="Movies",TokuSHOUTsu (1080p)
@@ -223,7 +221,7 @@ http://ip168.homeip.net:8086/hbo.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-97 tvg-id="StarMovieHD.sg" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (English Subtitle) (1080p)
-http://humiptv.live:8080/live/wasim/wasim1234/9384.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
@@ -231,13 +229,16 @@ http://humiptv.live:8080/live/wasim/wasim1234/9384.m3u8
 http://awqydwy.leadcool.xyz/6200961098/0297608859/153736
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-94 tvg-id="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="SPORT",TNT SPORTS 1 (720p)
+#EXTINF:-94 tvg-id="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="SPORTS",TNT SPORTS 1 (720p)
 http://awqydwy.leadcool.xyz/6200961098/0297608859/13780
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-94 tvg-id="TNTSports2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="SPORT",TNT SPORTS 2 (720p)
+#EXTINF:-94 tvg-id="TNTSports2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="SPORTS",TNT SPORTS 2 (720p)
 http://awqydwy.leadcool.xyz/6200961098/0297608859/13779
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-94 tvg-id="TNTSports3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="SPORT",TNT SPORTS 3 (720p)
+#EXTINF:-94 tvg-id="TNTSports3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="SPORTS",TNT SPORTS 3 (720p)
 http://awqydwy.leadcool.xyz/6200961098/0297608859/13778
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-94 tvg-id="TNTSports4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORTS",TNT SPORTS 4 (720p)
+http://awqydwy.leadcool.xyz/6200961098/0297608859/153713
