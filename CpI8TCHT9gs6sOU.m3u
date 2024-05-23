@@ -122,6 +122,7 @@ http://103.25.92.30:10002/2.m3u8
 http://103.25.92.30:10003/2.m3u8
 #EXTINF:-60 tvg-id="CamTVK1.kh" tvg-name="CamTV K1 (360p)" tvg-logo="https://i.imgur.com/qsu46rk.png" group-title="Cambodia",CamTV K1 (360p)
 http://103.25.92.30:10004/2.m3u8
+
 #EXTINF:-61 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Channel 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
@@ -142,6 +143,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8
 #EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MONO 29 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono29/index.m3u8
+
 #EXTINF:-69 tvg-id="VTV1.vn" tvg-name="VTV1 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/1.png" group-title="Vietnam",VTV1 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/playlist.m3u8?hdnts=exp=1773456688~acl=/hls/live/2029307/vtv1/*~hmac=9c37d93919c6b3feebe57ef04df710e299dd5f2af77a207fe974b23202eea57c
 #EXTINF:-70 tvg-id="VTV2.vn" tvg-name="VTV2 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/2.png" group-title="Vietnam",VTV2 (720p)
@@ -210,6 +212,9 @@ http://ultra-box.club/jcq4o87JFj/xoO6BaVTIO/15300
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Animation",Boomerang USA (1080p)
 http://awqydwy.leadcool.xyz/6200961098/0297608859/176822
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Animation",Boomerang UK (7200p)
+http://awqydwy.leadcool.xyz/6200961098/0297608859/153832
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -231,9 +236,15 @@ https://shorturl.at/uCJNO
 #EXTINF:-96 tvg-id="411.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (Thai Subtitle) (1080p)
 http://ip168.homeip.net:8086/hbo.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-96 tvg-id="414.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png" group-title="Movies",HBO FAMLIY ASIA (Thai Subtitle) (1080p)
+http://gmtv.ddns.net:2566/live/KmHbo/KmHbo/96.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-94 tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="Movies",HBO SIGNATURE ASIA (Thai Subtitle) (1080p)
+http://gmtv.ddns.net:2566/live/KmHbo/KmHbo/98.m3u8
+#KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-97 player-buffer="50" tvg-id="StarMovieHD.in" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (English Subtitle) (1080p)
-http://tv.cloudcdn.me/live.ts?channelId=198&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://xtv.ooo:8080/Ijaaz123/aijaz321/66213
 #EXTINF:-97 player-buffer="50" tvg-id="StarMovieSelectHD.in" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="Movies",STAR MOVIES SELECT HD (English Subtitle) (1080p)
 http://119.152.240.15:8001/play/a0i1/index.m3u8
 
