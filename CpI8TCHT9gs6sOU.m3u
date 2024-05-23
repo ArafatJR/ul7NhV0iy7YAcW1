@@ -191,7 +191,7 @@ https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
 #EXTINF:-87 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",TV Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-94 tvg-id="471.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Movies",GEM (English Subtitle) (1080p)
+#EXTINF:-94 player-buffer="50" tvg-id="471.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Japan",GEM (English Subtitle) (1080p)
 http://awqydwy.leadcool.xyz/6200961098/0297608859/38119
 #EXTINF:-88 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Japan",NHK World Japan (720p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
@@ -245,7 +245,7 @@ http://awqydwy.leadcool.xyz/6200961098/0297608859/13067
 #EXTINF:-96 tvg-id="414.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png" group-title="Movies",HBO FAMLIY ASIA (Mandarin Subtitle) (1080p)
 http://awqydwy.leadcool.xyz/6200961098/0297608859/13064
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-94 tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="Movies",HBO SIGNATURE ASIA (Mandarin Subtitle) (1080p)
+#EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="Movies",HBO SIGNATURE ASIA (Mandarin Subtitle) (1080p)
 http://awqydwy.leadcool.xyz/6200961098/0297608859/38109
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-97 player-buffer="50" tvg-id="StarMovieHD.in" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (English Subtitle) (1080p)
