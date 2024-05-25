@@ -248,6 +248,7 @@ http://awqydwy.leadcool.xyz/6200961098/0297608859/13064
 #EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="Movies",HBO SIGNATURE ASIA (Mandarin Subtitle) (1080p)
 http://awqydwy.leadcool.xyz/6200961098/0297608859/38109
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:network-caching=60000
 #EXTINF:-97 player-buffer="50" tvg-id="StarMovieHD.in" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (English Subtitle) (1080p)
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66213
 #KODIPROP:inputstream.adaptive.file_type=m3u8
