@@ -200,9 +200,11 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-89 player-buffer="50" tvg-id="USATV.us" tvg-logo="https://i.imgur.com/rMLfUnr.png" group-title="USA",USA NETWORK TV (1080p)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61368&extension=ts&play_token=OTGHDYA41S&sn2=
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:network-caching=60000
 #EXTINF:-90 player-buffer="50" tvg-id="TBSTV.us" tvg-logo="https://i.imgur.com/7cmNYVk.png" group-title="USA",TBS NETWORK TV (1080p)
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/262
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:network-caching=60000
 #EXTINF:-91 player-buffer="50" tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="USA",TNT (1080p)
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/231
 
