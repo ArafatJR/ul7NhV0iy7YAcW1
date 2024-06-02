@@ -170,13 +170,15 @@ https://vtv-live-push-token.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8?hd
 #EXTINF:-80 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title=South Korea",SBS JIBS (720p)
 http://123.140.197.22/stream/1/play.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-81 player-buffer="50" tvg-id="392.astro" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South Korea",KBS World (1080p)
+#EXTINF:-81 player-buffer="50" tvg-id="392.astro" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South Korea",KBS WORLD (1080p)
 http://mag.trexlive.me:8000/play/live.php?mac=00:1a:79:0b:63:a2&stream=941631&extension=ts
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-81 player-buffer="50" tvg-id="392.astro" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South Korea",KBS World (720p)
+#EXTINF:-81 player-buffer="50" tvg-id="392.astro" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South Korea",KBS WORLD (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="South Korea",KBS WORLD TV Vibing with K-Pop (1080p)
 https://kbswordtv.dthhdtv.workers.dev/stream/@kbsworldtv/master.m3u8
+#EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="South Korea",MBC TV (1080p)
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="South Korea",MBC TV (720p)
 https://vod.mpmbc.co.kr/live/encoder-tv/chunklist_w680058893.m3u8
 #EXTINF:-84 tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South Korea",MNET (720p)
@@ -192,7 +194,7 @@ https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-94 player-buffer="50" tvg-id="471.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Japan",GEM (English Subtitle) (1080p)
-http://awqydwy.leadcool.xyz/6200961098/0297608859/38119
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/38119
 #EXTINF:-88 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Japan",NHK World Japan (720p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
@@ -216,10 +218,13 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 http://ultra-box.club/jcq4o87JFj/xoO6BaVTIO/15300
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Animation",Boomerang USA (1080p)
-http://awqydwy.leadcool.xyz/6200961098/0297608859/176822
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/176822
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Animation",Boomerang UK (720p)
-http://awqydwy.leadcool.xyz/6200961098/0297608859/153832
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/153832
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTINF:-93 tvg-id="472.unifi" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (English Subtitle) (1080p)
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/13058
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -239,16 +244,16 @@ http://210.210.155.37/uq2663/h/h201/02.m3u8
 https://shorturl.at/uCJNO
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-96 tvg-id="411.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (Mandarin Subtitle) (1080p)
-http://awqydwy.leadcool.xyz/6200961098/0297608859/13070
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/13070
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-1 tvg-id="402.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO HITS ASIA (Mandarin Subtitle) (1080p)
-http://awqydwy.leadcool.xyz/6200961098/0297608859/13067
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/13067
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-96 tvg-id="414.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png" group-title="Movies",HBO FAMLIY ASIA (Mandarin Subtitle) (1080p)
-http://awqydwy.leadcool.xyz/6200961098/0297608859/13064
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/13064
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="Movies",HBO SIGNATURE ASIA (Mandarin Subtitle) (1080p)
-http://awqydwy.leadcool.xyz/6200961098/0297608859/38109
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/38109
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:network-caching=60000
 #EXTINF:-97 player-buffer="50" tvg-id="StarMovieHD.in" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (English Subtitle) (1080p)
@@ -260,19 +265,19 @@ http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-1 player-buffer="50" tvg-wwenetwork.us" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="SPORTS",WWE NETWORKS (1080p)
-http://awqydwy.leadcool.xyz/6200961098/0297608859/181443
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/181443
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-94 player-buffer="50" tvg-id="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="SPORTS",TNT SPORTS 1 (1080p)
-http://awqydwy.leadcool.xyz/6200961098/0297608859/13780
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/13780
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-94 tvg-id="TNTSports2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="SPORTS",TNT SPORTS 2 (720p)
-http://awqydwy.leadcool.xyz/6200961098/0297608859/13779
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/13779
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-94 tvg-id="TNTSports3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="SPORTS",TNT SPORTS 3 (1080p)
-http://awqydwy.leadcool.xyz/6200961098/0297608859/13778
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/13778
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-94 tvg-id="TNTSports4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORTS",TNT SPORTS 4 (720p)
-http://awqydwy.leadcool.xyz/6200961098/0297608859/153713
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/153713
