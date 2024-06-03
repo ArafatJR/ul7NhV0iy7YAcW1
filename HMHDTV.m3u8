@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=256000
-#EXTINF:-25 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="Cambodia",Hang Meas HDTV (1080p)
 http://1clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w850070757_b1800000_sleng.m3u8
