@@ -88,6 +88,7 @@ http://124.248.165.18:1935/live/myStream/chunklist_w2090153462.m3u8
 https://live.happywatch99.com/live/shshdtv_v$$240211$/playlist.m3u8
 #EXTINF:-42 tvg-id="FreshNews.kh" tvg-name="Fresh News TV (720p)" tvg-logo="https://asset.brandfetch.io/idi82Ajyf8/idVG3IozwL.png" group-title="Cambodia",Fresh News TV (720p)
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
 #EXTINF:-43 tvg-id="PPDTV.kh" tvg-name="PP Digital TV (720p)" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1183.jpg" group-title="Cambodia",PP Digital TV (720p)
 https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
 #EXTINF:-44 tvg-id="Kamsan TV.kh" tvg-name="Kamsan TV (720p)" tvg-logo="https://i.malimarcdn.com/kh/2023/KamsanHDF.jpg" group-title="Cambodia",Kamsan TV (720p)
