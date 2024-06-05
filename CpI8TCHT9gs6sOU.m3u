@@ -1,7 +1,9 @@
 #EXTM3U player-buffer="50" x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U player-buffer="50" x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U player-buffer="50" x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/6b708157a75b875442f92076b08b82bd89e384cf/Singtel/epg.xml" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/6b708157a75b875442f92076b08b82bd89e384cf/Singtel/epg.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U player-buffer="50" x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/2d8ef1acd0bbaeedd1689cdcf2c568d3aaea611e/PlutoTV/us.xml" url-tvg="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/2d8ef1acd0bbaeedd1689cdcf2c568d3aaea611e/PlutoTV/us.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U player-buffer="50" x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U player-buffer="50" x-tvg-url="https://avkb.short.gy/tsepg.xml.gz" url-tvg="https://avkb.short.gy/tsepg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U player-buffer="50" x-tvg-url="https://i.mjh.nz/Singtel/epg.xml" url-tvg="https://i.mjh.nz/Singtel/epg.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U player-buffer="50" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml" url-tvg="https://i.mjh.nz/PlutoTV/us.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
@@ -224,15 +226,22 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/176822
 #EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Animation",Boomerang UK (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/153832
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-93 tvg-id="472.unifi" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (English Subtitle) (1080p)
+#EXTINF:-93 tvg-id="Animax" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (English Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13058
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"edf1a715de9748638dd2fad75a419af2":"2f5a3199b26e9b693ae881af7ff864cf"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-93 tvg-id="472.unifi" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (1080p)
+#EXTINF:-93 tvg-id="Animax" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (1080p)
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9ad8c7f1007705e7deba988b8dcd84b5":"f4d0b2f107624a9ec478304cd1990def"}
+#EXTVLCOPT:http-user-agent=Chrome (Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36)
+#EXTINF:-90 tvg-id="472.unifi" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (Multiple Subtitle) (1080p)
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
@@ -244,7 +253,7 @@ http://210.210.155.37/uq2663/h/h201/02.m3u8
 #EXTINF:-95 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://i.imgur.com/Ol0BBiV.png" group-title="Movies",TokuSHOUTsu (1080p)
 https://shorturl.at/uCJNO
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-96 tvg-id="411.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (Mandarin Subtitle) (1080p)
+#EXTINF:-96 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (Mandarin Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13070
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-1 tvg-id="402.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO HITS ASIA (Mandarin Subtitle) (1080p)
@@ -257,15 +266,15 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/13064
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/38109
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:network-caching=60000
-#EXTINF:-97 player-buffer="50" tvg-id="StarMovieHD.in" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (English Subtitle) (1080p)
+#EXTINF:-97 player-buffer="50" tvg-id="ts560" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (English Subtitle) (1080p)
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66213
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-97 player-buffer="50" tvg-id="StarMovieSelectHD.in" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="Movies",STAR MOVIES SELECT HD (English Subtitle) (1080p)
+#EXTINF:-97 player-buffer="50" tvg-id="ts593" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="Movies",STAR MOVIES SELECT HD (English Subtitle) (1080p)
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-1 player-buffer="50" tvg-wwenetwork.us" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="SPORTS",WWE NETWORKS (1080p)
+#EXTINF:-1 player-buffer="50" tvg-id="821.astro" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="SPORTS",WWE NETWORKS (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/181443
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
