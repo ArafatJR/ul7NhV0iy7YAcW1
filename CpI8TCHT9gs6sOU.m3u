@@ -1,7 +1,7 @@
 #EXTM3U player-buffer="50" x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U player-buffer="50" x-tvg-url="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U player-buffer="50" x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
-#EXTM3U player-buffer="50" x-tvg-url="https://avkb.short.gy/tsepg.xml.gz" url-tvg="https://avkb.short.gy/tsepg.xml.gz" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U player-buffer="50" x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 #EXTM3U player-buffer="50" x-tvg-url="https://i.mjh.nz/Singtel/epg.xml" url-tvg="https://i.mjh.nz/Singtel/epg.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U player-buffer="50" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml" url-tvg="https://i.mjh.nz/PlutoTV/us.xml" refresh="1440" max-conn="1" refresh="24"
 
@@ -226,14 +226,14 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/176822
 #EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Animation",Boomerang UK (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/153832
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-93 tvg-id="Animax" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (English Subtitle) (1080p)
+#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (English Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13058
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"edf1a715de9748638dd2fad75a419af2":"2f5a3199b26e9b693ae881af7ff864cf"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-93 tvg-id="Animax" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (1080p)
+#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (1080p)
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
@@ -253,10 +253,10 @@ http://210.210.155.37/uq2663/h/h201/02.m3u8
 #EXTINF:-95 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://i.imgur.com/Ol0BBiV.png" group-title="Movies",TokuSHOUTsu (1080p)
 https://shorturl.at/uCJNO
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-96 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (Mandarin Subtitle) (1080p)
+#EXTINF:-96 tvg-id="411.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (Mandarin Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13070
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 tvg-id="402.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO HITS ASIA (Mandarin Subtitle) (1080p)
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO HITS ASIA (Mandarin Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13067
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-96 tvg-id="414.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png" group-title="Movies",HBO FAMLIY ASIA (Mandarin Subtitle) (1080p)
