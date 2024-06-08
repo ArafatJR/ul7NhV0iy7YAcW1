@@ -105,7 +105,7 @@ https://live-ali10.tv360.metfone.com.kh/hls/MOITV.m3u8?manifestfilter=video_bitr
 https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.94
 #EXTINF:-48 tvg-id="CCOCTV.kh" tvg-name="CCOC HDTV (720p)" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1186.jpg" group-title="🇰🇭 Cambodia",CCOC HDTV (720p)
 https://live.happywatch99.com/live/ccochdtv_v$$240211$/playlist.m3u8
-#EXTINF:-49 tvg-id="MVCTV.kh" tvg-name="MVC TV (720p)" tvg-logo="https://i.imgur.com/scMLenH.png" group-title="Thailand",MVC TV (720p)
+#EXTINF:-49 tvg-id="MVCTV.kh" tvg-name="MVC TV (720p)" tvg-logo="https://i.imgur.com/scMLenH.png" group-title="🇹🇭 Thailand",MVC TV (720p)
 https://psiiptv-b.sky-cdn.com/ttd22-playlist/index.m3u8
 #EXTINF:-50 tvg-id="Netlink.kh" tvg-name="Netlink TV (720p)" tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75" group-title="🇰🇭 Cambodia",NETLINK TV (720p)
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
@@ -128,126 +128,126 @@ http://103.25.92.30:10003/2.m3u8
 #EXTINF:-60 tvg-id="CamTVK1.kh" tvg-name="CamTV K1 (360p)" tvg-logo="https://i.imgur.com/qsu46rk.png" group-title="🇰🇭 Cambodia",CamTV K1 (360p)
 http://103.25.92.30:10004/2.m3u8
 
-#EXTINF:-61 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Channel 3 (720p)
+#EXTINF:-61 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Channel 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
-#EXTINF:-62 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Thailand",Channel 5 (1080p)
+#EXTINF:-62 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="🇹🇭 Thailand",Channel 5 (1080p)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-63 tvg-id="Channel7.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png" group-title="Thailand",Channel 7 (1080p)
+#EXTINF:-63 tvg-id="Channel7.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png" group-title="🇹🇭 Thailand",Channel 7 (1080p)
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-#EXTINF:-64 tvg-id="Channel8.th" tvg-logo="https://i.imgur.com/UoQARYm.png" group-title="Thailand",Channel 8 (720p)
+#EXTINF:-64 tvg-id="Channel8.th" tvg-logo="https://i.imgur.com/UoQARYm.png" group-title="🇹🇭 Thailand",Channel 8 (720p)
 https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
-#EXTINF:-65 tvg-id="Channel8.th" tvg-logo="https://i.imgur.com/Wo1ZllE.png" group-title="Thailand",Channel 8 Thailand (1080p)
+#EXTINF:-65 tvg-id="Channel8.th" tvg-logo="https://i.imgur.com/Wo1ZllE.png" group-title="🇹🇭 Thailand",Channel 8 Thailand (1080p)
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-66 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MCOT HD
+#EXTINF:-66 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd/index.m3u8
-#EXTINF:-67 tvg-id="GMM25.th" tvg-logo="https://i.imgur.com/uARba6N.png" group-title="Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",GMM 25 (720p)
+#EXTINF:-67 tvg-id="GMM25.th" tvg-logo="https://i.imgur.com/uARba6N.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",GMM 25 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8
-#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MONO 29 (720p)
+#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MONO 29 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono29/index.m3u8
 
-#EXTINF:-69 tvg-id="VTV1.vn" tvg-name="VTV1 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/1.png" group-title="Vietnam",VTV1 (720p)
+#EXTINF:-69 tvg-id="VTV1.vn" tvg-name="VTV1 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/1.png" group-title="🇻🇳 Vietnam",VTV1 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/playlist.m3u8?hdnts=exp=1773456688~acl=/hls/live/2029307/vtv1/*~hmac=9c37d93919c6b3feebe57ef04df710e299dd5f2af77a207fe974b23202eea57c
-#EXTINF:-70 tvg-id="VTV2.vn" tvg-name="VTV2 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/2.png" group-title="Vietnam",VTV2 (720p)
+#EXTINF:-70 tvg-id="VTV2.vn" tvg-name="VTV2 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/2.png" group-title="🇻🇳 Vietnam",VTV2 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029308/vtv2/playlist.m3u8?hdnts=exp=1773456888~acl=/hls/live/2029308/vtv2/*~hmac=59c329ede1298f505505f260a62d916a90d45f0fee427be8ad18bb091bda3d1d
-#EXTINF:-71 tvg-id="VTV3.vn" tvg-name="VTV3 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/3.png" group-title="Vietnam",VTV3 (720p)
+#EXTINF:-71 tvg-id="VTV3.vn" tvg-name="VTV3 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/3.png" group-title="🇻🇳 Vietnam",VTV3 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029309/vtv3/playlist.m3u8?hdnts=exp=1773456925~acl=/hls/live/2029309/vtv3/*~hmac=d2c543ad1a20e021ac192155ae8a588738fc41647081d9756023f459d86b593f
-#EXTINF:-72 tvg-id="VTV4.vn" tvg-name="VTV4 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/4.png" group-title="Vietnam",VTV4 (720p)
+#EXTINF:-72 tvg-id="VTV4.vn" tvg-name="VTV4 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/4.png" group-title="🇻🇳 Vietnam",VTV4 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029310/vtv4/playlist.m3u8?hdnts=exp=1773456957~acl=/hls/live/2029310/vtv4/*~hmac=48ef70bdd54ac9a078e4d0e819ea959a2a506a401981be8924dccade07eca3cd
-#EXTINF:-73 tvg-id="VTV5.vn" tvg-name="VTV5 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/5.png" group-title="Vietnam",VTV5 (720p)
+#EXTINF:-73 tvg-id="VTV5.vn" tvg-name="VTV5 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/5.png" group-title="🇻🇳 Vietnam",VTV5 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8?hdnts=exp=1773456988~acl=/hls/live/2029311/vtv5/*~hmac=94bf9e4272555423ce5b82262e2d2edf2c60c1d5f6048423e8db790e6653b90d
-#EXTINF:-74 tvg-id="VTV5TNB.vn" tvg-name="VTV5 TAY NAM BO (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/7.png" group-title="Vietnam",VTV5 TAY NAM BO (720p)
+#EXTINF:-74 tvg-id="VTV5TNB.vn" tvg-name="VTV5 TAY NAM BO (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/7.png" group-title="🇻🇳 Vietnam",VTV5 TAY NAM BO (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029313/vtv5tnb/playlist.m3u8?hdnts=exp=1773457183~acl=/hls/live/2029313/vtv5tnb/*~hmac=b8259a16817796f60d0d3c7a75b48fb657c7dbf2d691892d5b3010e216c31b79
-#EXTINF:-75 tvg-id="VTV5TN.vn" tvg-name="VTV5 TAY NGUYEN (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/163.png" group-title="Vietnam",VTV5 TAY NGUYEN (720p)
+#EXTINF:-75 tvg-id="VTV5TN.vn" tvg-name="VTV5 TAY NGUYEN (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/163.png" group-title="🇻🇳 Vietnam",VTV5 TAY NGUYEN (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029312/vtv5tn/playlist.m3u8?hdnts=exp=1773457226~acl=/hls/live/2029312/vtv5tn/*~hmac=e87191fa7430c27e2c910cbc33d188237aa27fa6cdf60ea1c57dd535a8f9a4a5
-#EXTINF:-76 tvg-id="VTVCT.vn" tvg-name="VTV CAN THO (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png" group-title="Vietnam",VTV CAN THO (720p)
+#EXTINF:-76 tvg-id="VTVCT.vn" tvg-name="VTV CAN THO (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png" group-title="🇻🇳 Vietnam",VTV CAN THO (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029314/vtv6/playlist.m3u8?hdnts=exp=1773457056~acl=/hls/live/2029314/vtv6/*~hmac=df05033553edc76c18260691021a7ee6a3c8619667472b7d57037a8f02d14c24
-#EXTINF:-77 tvg-id="VTV7.vn" tvg-name="VTV7 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/27.png" group-title="Vietnam",VTV7 (720p)
+#EXTINF:-77 tvg-id="VTV7.vn" tvg-name="VTV7 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/27.png" group-title="🇻🇳 Vietnam",VTV7 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029315/vtv7/playlist.m3u8?hdnts=exp=1773457106~acl=/hls/live/2029315/vtv7/*~hmac=d2c7bed4a13840eff232d30e35e872d7536a98e805e59b0f25f1d80544f9d92e
-#EXTINF:-78 tvg-id="VTV8.vn" tvg-name="VTV8 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/36.png" group-title="Vietnam",VTV8 (720p)
+#EXTINF:-78 tvg-id="VTV8.vn" tvg-name="VTV8 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/36.png" group-title="🇻🇳 Vietnam",VTV8 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8?hdnts=exp=1773457133~acl=/hls/live/2029316/vtv8/*~hmac=ca01f7e40d2ee61e5c8f8e45c031c32f144fccaf82d56c12f79e28637c5cab75
-#EXTINF:-79 tvg-id="VTV9.vn" tvg-name="VTV9 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/39.png" group-title="Vietnam",VTV9 (720p)
+#EXTINF:-79 tvg-id="VTV9.vn" tvg-name="VTV9 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/39.png" group-title="🇻🇳 Vietnam",VTV9 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8?hdnts=exp=1773457159~acl=/hls/live/2029317/vtv9/*~hmac=97d75a670aeef1b722495dfd5f8c3254de4c026841f6d6974f1ad5c08f6539c2
 
-#EXTINF:-80 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title=South Korea",SBS JIBS (720p)
+#EXTINF:-80 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="🇰🇷 South Korea",SBS JIBS (720p)
 http://123.140.197.22/stream/1/play.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-81 player-buffer="50" tvg-id="392.astro" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South Korea",KBS WORLD (1080p)
+#EXTINF:-81 player-buffer="50" tvg-id="392.astro" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="🇰🇷 South Korea",KBS WORLD (1080p)
 http://mag.trexlive.me:8000/play/live.php?mac=00:1a:79:0b:63:a2&stream=941631&extension=ts
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-81 player-buffer="50" tvg-id="392.astro" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="South Korea",KBS WORLD (720p)
+#EXTINF:-81 player-buffer="50" tvg-id="392.astro" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="🇰🇷 South Korea",KBS WORLD (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="South Korea",KBS WORLD TV Vibing with K-Pop (1080p)
+#EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="🇰🇷 South Korea",KBS WORLD TV Vibing with K-Pop (1080p)
 https://kbswordtv.dthhdtv.workers.dev/stream/@kbsworldtv/master.m3u8
-#EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="South Korea",MBC TV (1080p)
+#EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="🇰🇷 South Korea",MBC TV (1080p)
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="South Korea",MBC TV (720p)
+#EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="🇰🇷 South Korea",MBC TV (720p)
 https://vod.mpmbc.co.kr/live/encoder-tv/chunklist_w680058893.m3u8
-#EXTINF:-84 tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="South Korea",MNET (720p)
+#EXTINF:-84 tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="🇰🇷 South Korea",MNET (720p)
 https://everylive.space/live/mnet/livestream.m3u8
-#EXTINF:-85 tvg-id="K-POPTV.kr" tvg-logo="https://i.imgur.com/COs7s4T.jpeg" group-title="South Korea",THE K-POP TV (1080p)
+#EXTINF:-85 tvg-id="K-POPTV.kr" tvg-logo="https://i.imgur.com/COs7s4T.jpeg" group-title="🇰🇷 South Korea",THE K-POP TV (1080p)
 https://anym3u8player.com/youtube.php/id/6662ec58e55e0.m3u8
-#EXTINF:-86 tvg-id="ArirangWorld.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="South Korea",Arirang TV World (1080p)
+#EXTINF:-86 tvg-id="ArirangWorld.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="🇰🇷 South Korea",Arirang TV World (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 
-#EXTINF:-87 player-buffer="50" tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",TV Asahi (720p)
+#EXTINF:-87 player-buffer="50" tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (720p)
 https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
-#EXTINF:-87 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="Japan",TV Asahi (544p)
+#EXTINF:-87 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-94 player-buffer="50" tvg-id="471.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="Japan",GEM (English Subtitle) (1080p)
+#EXTINF:-94 player-buffer="50" tvg-id="471.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="🇯🇵 Japan",GEM (English Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/38119
-#EXTINF:-88 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Japan",NHK World Japan (720p)
+#EXTINF:-88 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="🇯🇵 Japan",NHK World Japan (720p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-89 player-buffer="50" tvg-id="USATV.us" tvg-logo="https://i.imgur.com/rMLfUnr.png" group-title="USA",USA NETWORK TV (1080p)
+#EXTINF:-89 player-buffer="50" tvg-id="USATV.us" tvg-logo="https://i.imgur.com/rMLfUnr.png" group-title="🇺🇸 USA",USA NETWORK TV (1080p)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61368&extension=ts&play_token=OTGHDYA41S&sn2=
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:network-caching=60000
-#EXTINF:-90 player-buffer="50" tvg-id="TBSTV.us" tvg-logo="https://i.imgur.com/7cmNYVk.png" group-title="USA",TBS NETWORK TV (1080p)
+#EXTINF:-90 player-buffer="50" tvg-id="TBSTV.us" tvg-logo="https://i.imgur.com/7cmNYVk.png" group-title="🇺🇸 USA",TBS NETWORK TV (1080p)
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/262
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:network-caching=60000
-#EXTINF:-91 player-buffer="50" tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="USA",TNT (1080p)
+#EXTINF:-91 player-buffer="50" tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="🇺🇸 USA",TNT (1080p)
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/231
 
-#EXTINF:-92 tvg-id="615.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network Southeast Asia (1080p)
+#EXTINF:-92 tvg-id="615.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network Southeast Asia (1080p)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-92 player-buffer="50" tvg-id="CNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Animation",Cartoon Network USA (1080p)
+#EXTINF:-92 player-buffer="50" tvg-id="CNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network USA (1080p)
 http://ultra-box.club/jcq4o87JFj/xoO6BaVTIO/15300
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Animation",Boomerang USA (1080p)
+#EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="📺 Animation",Boomerang USA (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/176822
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Animation",Boomerang UK (720p)
+#EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="📺 Animation",Boomerang UK (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/153832
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (English Subtitle) (1080p)
+#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (English Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13058
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"edf1a715de9748638dd2fad75a419af2":"2f5a3199b26e9b693ae881af7ff864cf"}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (1080p)
+#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (1080p)
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9ad8c7f1007705e7deba988b8dcd84b5":"f4d0b2f107624a9ec478304cd1990def"}
 #EXTVLCOPT:http-user-agent=Chrome (Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36)
-#EXTINF:-90 tvg-id="472.unifi" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="Animation",ANIMAX ASIA (Multiple Subtitle) (1080p)
+#EXTINF:-90 tvg-id="472.unifi" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (Multiple Subtitle) (1080p)
 https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-94 player-buffer="50" tvg-id="5340" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="Animation",AniPlus (Indonesian Subtitle) (576p)
+#EXTINF:-94 player-buffer="50" tvg-id="5340" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="📺 Animation",AniPlus (Indonesian Subtitle) (576p)
 http://210.210.155.37/uq2663/h/h201/02.m3u8
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
@@ -255,41 +255,45 @@ http://210.210.155.37/uq2663/h/h201/02.m3u8
 #EXTINF:-95 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://i.imgur.com/Ol0BBiV.png" group-title="Movies",TokuSHOUTsu (1080p)
 https://shorturl.at/uCJNO
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-96 tvg-id="411.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO ASIA (Mandarin Subtitle) (1080p)
+#EXTINF:-96 tvg-id="411.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="🎞️ Movies",HBO ASIA (Mandarin Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13070
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies",HBO HITS ASIA (Mandarin Subtitle) (1080p)
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="🎞️ Movies",HBO HITS ASIA (Mandarin Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13067
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-96 tvg-id="414.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png" group-title="Movies",HBO FAMLIY ASIA (Mandarin Subtitle) (1080p)
+#EXTINF:-96 tvg-id="414.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png" group-title="🎞️ Movies",HBO FAMLIY ASIA (Mandarin Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13064
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="Movies",HBO SIGNATURE ASIA (Mandarin Subtitle) (1080p)
+#EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="🎞️ Movies",HBO SIGNATURE ASIA (Mandarin Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/38109
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:network-caching=60000
-#EXTINF:-97 player-buffer="50" tvg-id="ts560" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="Movies",STAR MOVIES HD (English Subtitle) (1080p)
+#EXTINF:-97 player-buffer="50" tvg-id="ts560" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="🎞️ Movies",STAR MOVIES HD (English Subtitle) (1080p)
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66213
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTINF:-97 player-buffer="50" tvg-id="ts593" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="Movies",STAR MOVIES SELECT HD (English Subtitle) (1080p)
+#EXTINF:-97 player-buffer="50" tvg-id="ts593" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="🎞️ Movies",STAR MOVIES SELECT HD (English Subtitle) (1080p)
 http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-1 player-buffer="50" tvg-id="821.astro" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="SPORTS",WWE NETWORKS (1080p)
+#EXTINF:-1 player-buffer="50" tvg-id="821.astro" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="⚽ SPORTS",WWE NETWORKS (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/181443
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-94 player-buffer="50" tvg-id="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="SPORTS",TNT SPORTS 1 (1080p)
+#EXTINF:-1 tvg-id="peacock-wwe.us" tvg-logo="https://i.imgur.com/GO1Uffd.png" group-title="⚽ SPORT",WWE NETWORK PEACOCK (1080p)
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/64570
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-94 player-buffer="50" tvg-id="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="⚽ SPORTS",TNT SPORTS 1 (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13780
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-94 tvg-id="TNTSports2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="SPORTS",TNT SPORTS 2 (720p)
+#EXTINF:-94 tvg-id="TNTSports2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="⚽ SPORTS",TNT SPORTS 2 (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13779
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-94 tvg-id="TNTSports3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="SPORTS",TNT SPORTS 3 (1080p)
+#EXTINF:-94 tvg-id="TNTSports3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="⚽ SPORTS",TNT SPORTS 3 (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13778
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-94 tvg-id="TNTSports4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="SPORTS",TNT SPORTS 4 (720p)
+#EXTINF:-94 tvg-id="TNTSports4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="⚽ SPORTS",TNT SPORTS 4 (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/153713
