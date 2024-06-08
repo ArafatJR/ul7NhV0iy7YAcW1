@@ -5,11 +5,11 @@
 #EXTM3U player-buffer="50" x-tvg-url="https://i.mjh.nz/Singtel/epg.xml" url-tvg="https://i.mjh.nz/Singtel/epg.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U player-buffer="50" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml" url-tvg="https://i.mjh.nz/PlutoTV/us.xml" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia",TVK (720p)
+#EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia 🇰🇭",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
-#EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia",TVK2 (720p)
+#EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/5hPxjcl.png" group-title="Cambodia 🇰🇭",TVK2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
-#EXTINF:-3 tvg-id="TV3.kh" tvg-name="TV3 (720p)" tvg-logo="https://i.imgur.com/AnH4Loj.png" group-title="Cambodia",TV3 (720p)
+#EXTINF:-3 tvg-id="TV3.kh" tvg-name="TV3 (720p)" tvg-logo="https://i.imgur.com/AnH4Loj.png" group-title="Cambodia 🇰🇭",TV3 (720p)
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 #EXTINF:-4 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (1080p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="Cambodia",TV5 Cambodia (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BVRkRPRFl5UmpGR1JFVTBRVFE0TVVZNVJVRkJPRU13TnpFd1JFRXpSRGt4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
