@@ -185,7 +185,7 @@ http://mag.trexlive.me:8000/play/live.php?mac=00:1a:79:0b:63:a2&stream=941631&ex
 #EXTINF:-81 player-buffer="50" tvg-id="392.astro" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="🇰🇷 South Korea",KBS WORLD (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="🇰🇷 South Korea",KBS WORLD TV Vibing with K-Pop (1080p)
-https://anym3u8player.com/youtube.php/id/66656c6bbbd38.m3u8
+https://kbsworldtv.dthhdtv.workers.dev/stream/@kbsworldtv/master.m3u8
 #EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="🇰🇷 South Korea",MBC Gangwon (1080p)
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="🇰🇷 South Korea",MBC Mokpo (720p)
