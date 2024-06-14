@@ -279,7 +279,7 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/187267
 #EXTINF:-97 player-buffer="50" tvg-id="ts593" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="🎞️ Movies",STAR MOVIES SELECT HD (English Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/387767
 
-#EXTINF:-97 player-buffer="50" tvg-id="ts593" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="🎶 Music",K-POP TVPLAY (720p)
+#EXTINF:-97 player-buffer="50" tvg-id="kpoptvplay.pt" tvg-logo="https://i.imgur.com/dZek7xr.png" group-title="🎶 Music",K-POP TVPLAY (720p)
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
