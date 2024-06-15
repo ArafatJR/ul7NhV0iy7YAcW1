@@ -86,23 +86,23 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 https://live.happywatch99.com/live/d_music_hp99$!24/playlist.m3u8
 #EXTINF:-40 tvg-id="MSJTV.kh" tvg-name="MSJTV (720p)" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="🇰🇭 Cambodia",MSJTV (720p)
 http://124.248.165.18:1935/live/myStream/chunklist_w2090153462.m3u8
-#EXTINF:-41 tvg-id="SPMHDTV.kh" tvg-name="SPM HDTV (720p)" tvg-logo="https://moi-static.sgp1.digitaloceanspaces.com/uploads/station/avatar_image/307/spmtvlogo.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="🇰🇭 Cambodia",SPM HDTV (720p)
+#EXTINF:-41 tvg-id="SHSHDTV.kh" tvg-name="SHSHDTV (720p)" tvg-logo="https://i.imgur.com/c3vwh9k.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" group-title="🇰🇭 Cambodia",SHSHDTV (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.happywatch99.com/live/shshdtv_v$$240211$/playlist.m3u8
 #EXTINF:-42 tvg-id="FreshNews.kh" tvg-name="Fresh News TV (720p)" tvg-logo="https://asset.brandfetch.io/idi82Ajyf8/idVG3IozwL.png" group-title="🇰🇭 Cambodia",Fresh News TV (720p)
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
-#EXTINF:-43 tvg-id="PPDTV.kh" tvg-name="PP Digital TV (720p)" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1183.jpg" group-title="🇰🇭 Cambodia",PP Digital TV (720p)
+#EXTINF:-43 tvg-id="PPDTV.kh" tvg-name="PP Digital TV (720p)" tvg-logo="https://i.imgur.com/BlSBNvX.png" group-title="🇰🇭 Cambodia",PP Digital TV (720p)
 https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
 #EXTINF:-44 tvg-id="Kamsan TV.kh" tvg-name="Kamsan TV (720p)" tvg-logo="https://i.malimarcdn.com/kh/2023/KamsanHDF.jpg" group-title="🇰🇭 Cambodia",Kamsan TV (720p)
 https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
-#EXTINF:-45 tvg-id="CnATV.kh" tvg-name="CnA TV (720p)" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1421.jpg" group-title="🇰🇭 Cambodia",CnA TV (720p)
+#EXTINF:-45 tvg-id="KAAHDTV.kh" tvg-name="Khmer Artist HDTV (720p)" tvg-logo="https://i.imgur.com/NDZ8nUQ.png" group-title="🇰🇭 Cambodia",Khmer Artist HDTV (720p)
 https://live.happywatch99.com/live/koolplay_v$$240211$/playlist.m3u8
-#EXTINF:-46 tvg-id="MoITV.kh" tvg-name="MoI TV (1080p)" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/02/07/16/1707297979625/8eb56334a331_640_360.jpeg" group-title="🇰🇭 Cambodia",MoI TV (1080p)
+#EXTINF:-46 tvg-id="MoITV.kh" tvg-name="MoI TV (1080p)" tvg-logo="https://i.imgur.com/Lw3MKk5.png" group-title="🇰🇭 Cambodia",MoI TV (1080p)
 https://live-ali10.tv360.metfone.com.kh/hls/MOITV.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.94
-#EXTINF:-47 tvg-id="MoINFOTV.kh" tvg-name="MoINFO TV (1080p)" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2024/03/27/12/1711515725254/0b910e25098d_640_360.jpg" group-title="🇰🇭 Cambodia",MoINFO TV (1080p)
+#EXTINF:-47 tvg-id="MoINFOTV.kh" tvg-name="MoINFO TV (1080p)" tvg-logo="https://i.imgur.com/6Z0WPTO.png" group-title="🇰🇭 Cambodia",MoINFO TV (1080p)
 https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.94
-#EXTINF:-48 tvg-id="CCOCTV.kh" tvg-name="CCOC HDTV (720p)" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1186.jpg" group-title="🇰🇭 Cambodia",CCOC HDTV (720p)
+#EXTINF:-48 tvg-id="CCOCTV.kh" tvg-name="CCOC HDTV (720p)" tvg-logo="https://i.imgur.com/ZZtpTrf.png" group-title="🇰🇭 Cambodia",CCOC HDTV (720p)
 https://live.happywatch99.com/live/ccochdtv_v$$240211$/playlist.m3u8
 #EXTINF:-49 tvg-id="MVCTV.kh" tvg-name="MVC TV (720p)" tvg-logo="https://i.imgur.com/scMLenH.png" group-title="🇹🇭 Thailand",MVC TV (720p)
 https://psiiptv-b.sky-cdn.com/ttd22-playlist/index.m3u8
