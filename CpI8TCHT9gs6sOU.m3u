@@ -10,6 +10,7 @@ https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 #EXTINF:-3 tvg-id="TV3.kh" tvg-name="TV3 (720p)" tvg-logo="https://i.imgur.com/AnH4Loj.png" group-title="🇰🇭 Cambodia",TV3 (720p)
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-4 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (1080p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="🇰🇭 Cambodia",TV5 Cambodia (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BVRkRPRFl5UmpGR1JFVTBRVFE0TVVZNVJVRkJPRU13TnpFd1JFRXpSRGt4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
 #EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="🇰🇭 Cambodia",TV5 Cambodia (720p)
@@ -58,14 +59,17 @@ http://dodge.eu5.org/Get?id=14
 https://live.happywatch99.com/live/ctv8_hp99$!24/playlist.m3u8
 #EXTINF:-24 tvg-id="CTV8HD.kh" tvg-name="CTV8 (360p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (360p)
 http://103.25.92.30:10012/2.m3u8
+#EXTVLCOPT:http-user-agent=PPCTVExoplayerV2/2.0.2 (Linux;Android 11) ExoPlayerLib/2.15.0
+#EXTINF:-22 player-buffer="50" tvg-id="ITVHD.kh" tvg-name="ITVHD (480p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Cambodia",ITVHD (480p)
+https://rb.gy/4v4odn
 #EXTINF:-25 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (1080p)
-http://1clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w850070757_b1800000_sleng.m3u8
+http://abclive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w911157012_b1800000_sleng.m3u8
 #EXTINF:-26 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (720p)
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/10.m3u8
 #EXTINF:-27 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (Happy Watch 99 720p)
 https://live.happywatch99.com/live/hmhdtv_hp99$!24/playlist.m3u8
 #EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (1080p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="🇰🇭 Cambodia",Rasmey Hang Meas HDTV (1080p)
-http://1clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w1833641157_b1800000_sleng.m3u8
+http://abclive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w193956669_b1800000_sleng.m3u8
 #EXTINF:-29 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="🇰🇭 Cambodia",Rasmey Hang Meas HDTV (720p)
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/11.m3u8
 #EXTINF:-30 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="🇰🇭 Cambodia",Rasmey Hang Meas HDTV (Happy Watch 99 720p)
@@ -78,6 +82,7 @@ https://live.happywatch99.com/live/d_music_hp99$!24/playlist.m3u8
 http://dodge.eu5.org/Get?id=23
 #EXTINF:-31 tvg-id="Hang_Meas_Kids_UHDTV.kh" tvg-logo="https://i.imgur.com/hMPcyoR.png" group-title="🇰🇭 Cambodia",Hang Meas Kids UHDTV (720p)
 https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
+#EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-32 player-buffer="50" tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="🇰🇭 Cambodia",PNN (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUVkdPVFJEUVRFNU1EQkVPRFF3TlRaQ016VkdRVE5ETnprNU4wRTRPVU5GSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
 #EXTINF:-34 tvg-id="PNN.kh" tvg-name="PNN (720p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="🇰🇭 Cambodia",PNN (720p)
