@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=PPCTVExoplayerV2/2.0.2 (Linux;Android 11) ExoPlayerLib/2.15.0
+#EXTINF:-22 player-buffer="50" tvg-id="CTV8HD.kh" tvg-name="CTV8 (576p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="Cambodia",CTV8 (576p)
+https://edge-kh11.ppctvhd.com/emlive-og03/shc207-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI0IDQ6MDU6MDcgQU0maGFzaF92YWx1ZT1iMU1zM0VLcjVYWlhCaldqSXdGdWtBPT0mdmFsaWRtaW51dGVzPTIwJmlkPVVFbEZaazFRTkVwa09EaE1ia1ZMY0M0dExsUTVlRVprZG13d2FEZzNWM05QZDBseE1uWm9MMVV6SzBoWmQxVlpiWE5zTVZWb1dHUldabTlvVVV0c01TdDVja2htWkRadVZFOVNSV2cyVkhjM2JrNU1aMDlQVEUwcmFXbEVZVXhNT1VoSGIwWXpSakYyWmtGRU1YcEJVMXB0ZUdoamRHSkVkakpMZG1OWFJGUlZOVEJaUTJaWFJGSkdOekpNU1RSVU4wcDRZMlZEZVN0WEwwVkJjUzk0T0Zvdk1qZ3hlVmx0UTJoVVJuTkRkVXRCV0hZNVZXUktWR2xEVWxab2NtWlBURTAzUmpCRFYwOXZORmRvT0ZSQ1pXTkhXUT09JnN0cm1fbGVuPTIy
