@@ -14,7 +14,7 @@ https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 #EXTINF:-4 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (1080p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="🇰🇭 Cambodia",TV5 Cambodia (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BVRkRPRFl5UmpGR1JFVTBRVFE0TVVZNVJVRkJPRU13TnpFd1JFRXpSRGt4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
 #EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="🇰🇭 Cambodia",TV5 Cambodia (720p)
-https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
+https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 #EXTINF:-6 tvg-id="TV9.kh" tvg-name="TV9 (Cambodia)(1080p)" tvg-logo="https://i.imgur.com/6sPJByQ.png" group-title="🇰🇭 Cambodia",TV9 (Cambodia) (1080p)
 http://43.245.219.190:8083/CTV9HD.m3u8
 #EXTINF:-7 tvg-id="ApsaraTV11.kh" tvg-name="Apsara TV11 (1080p)" tvg-logo="https://workingna-files.s3.ap-southeast-1.amazonaws.com/1657872293343-APSARA%20NEW%20LOGO%20%28LATTEST%29.png" group-title="🇰🇭 Cambodia",Apsara TV11 (1080p)
@@ -52,7 +52,7 @@ http://tv.cootel.com.kh:8077/streams/d/MyTV/playlist.m3u8
 #EXTINF:-21 tvg-id="CNC.kh" tvg-name="CNC (720p)" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg" group-title="🇰🇭 Cambodia",CNC (720p)
 https://live.happywatch99.com/live/cnc_news_hp99$!24/playlist.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-22 player-buffer="50" tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (720p)
 http://dodge.eu5.org/Get?id=14
 #EXTINF:-23 tvg-id="CTV8HD.kh" tvg-name="CTV8 (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (Happy Watch 99 720p)
@@ -61,7 +61,7 @@ https://live.happywatch99.com/live/ctv8_hp99$!24/playlist.m3u8
 http://103.25.92.30:10012/2.m3u8
 #EXTVLCOPT:http-user-agent=PPCTVExoplayerV2/2.0.2 (Linux;Android 11) ExoPlayerLib/2.15.0
 #EXTINF:-22 player-buffer="50" tvg-id="ITVHD.kh" tvg-name="ITVHD (480p)" tvg-logo="https://i.imgur.com/b9iPbbp.png" group-title="🇰🇭 Cambodia",ITVHD (480p)
-https://edge-kh11.ppctvhd.com/emlive-og03/shc210-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMS8yMDI0IDEwOjQwOjIwIEFNJmhhc2hfdmFsdWU9QzBQa09XNEQzbE8zc1pEK3RLUGVwdz09JnZhbGlkbWludXRlcz0yMCZpZD1VRWxGWmsxUU5FcGtPRGhNYmtWTGNDNHRMbFE1ZUVaa2Rtd3dhRGczVjNOUGQwbHhNblpvTDFVekswaFpkMVZaYlhOc01WVm9XR1JXWm05b1VVdHNNU3Q1Y2tobVpEWnVWRTlTUldnMlZIYzNiazVNWjA5UFRFMHJhV2xFWVV4TU9VaEhiMFl6UmpGMlprRkVNWHBCVTFwdGVHaGpkR0pFZGpKTGRtTlhSRlJWTlRCWlEyWlhSRkpHTnpKTVNUUlVOMHA0WTJWRGVTdFhMMFZCY1M5NE9Gb3ZNamd4ZVZsdFNsbE5TVFZyV1N0T2VtWnVLM016YUVZNWFIRnlSamhxYWtaa2RsRkRjRGxyV2xsU2RHTlRaVFV5ZWc9PSZzdHJtX2xlbj0yMg==
+https://edge-kh11.ppctvhd.com/emlive-og03/shc210-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDI0IDk6MzE6MjQgQU0maGFzaF92YWx1ZT1BSHpyZEVDU0M0cHdGdzhRWGhxYUVRPT0mdmFsaWRtaW51dGVzPTIwJmlkPVVFbEZaazFRTkVwa09EaE1ia1ZMY0M0dExsUTVlRVprZG13d2FEZzNWM05QZDBseE1uWm9MMVV6SzBoWmQxVlpiWE5zTVZWb1dHUldabTlvVVV0c01TdDVja2htWkRadVZFOVNSV2cyVkhjM2JrNU1aMDlQVEUwcmFXbEVZVXhNT1VoSGIwWXpSakYyWmtGRU1YcEJVMXB0ZUdoamRHSkVkakpMZG1OWFJGUlZOVEJaUTJaWFJGSkdOekpNU1RSVU4wcDRZMlZEZVN0WEwwVkJjUzk0T0Zvdk1qZ3hlVmx0U2xsTlNUVnJXU3RPZW1adUszTXphRVk1YUhGeVJqaHFha1prZGxGRGNEbHJXbGxTZEdOVFpUVXllZz09JnN0cm1fbGVuPTIy
 #EXTINF:-25 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (1080p)
 http://abclive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w911157012_b1800000_sleng.m3u8
 #EXTINF:-26 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (720p)
@@ -75,7 +75,7 @@ http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/11.m3u8
 #EXTINF:-30 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="🇰🇭 Cambodia",Rasmey Hang Meas HDTV (Happy Watch 99 720p)
 https://live.happywatch99.com/live/rasmey_hm_hp99$!24/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="🇰🇭 Cambodia",Hang Meas Now UHDTV (720p)
-https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
+https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="🇰🇭 Cambodia",Hang Meas Melody UHDTV (720p)
 https://live.happywatch99.com/live/d_music_hp99$!24/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="🇰🇭 Cambodia",Hang Meas Boxing UHDTV (720p)
@@ -104,6 +104,8 @@ http://124.248.165.18:1935/live/myStream/chunklist_w2090153462.m3u8
 https://live.happywatch99.com/live/shshdtv_v$$240211$/playlist.m3u8
 #EXTINF:-42 tvg-id="FreshNews.kh" tvg-name="Fresh News TV (720p)" tvg-logo="https://asset.brandfetch.io/idi82Ajyf8/idVG3IozwL.png" group-title="🇰🇭 Cambodia",Fresh News TV (720p)
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+#EXTINF:-51 tvg-id="ABCTV.kh" tvg-name="ABC Cambodia (720p)" tvg-logo="https://khmerpress.today/wp-content/uploads/2022/11/logo-ABC-Ver.2-1024x1024.jpg" group-title="🇰🇭 Cambodia",ABC Cambodia (720p)
+http://217.15.167.95:5080/live/streams/live_3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTINF:-43 tvg-id="PPDTV.kh" tvg-name="PP Digital TV (720p)" tvg-logo="https://i.imgur.com/BlSBNvX.png" group-title="🇰🇭 Cambodia",PP Digital TV (720p)
 https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
@@ -220,6 +222,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-89 player-buffer="50" tvg-id="USATV.us" tvg-logo="https://i.imgur.com/rMLfUnr.png" group-title="🇺🇸 USA",USA NETWORK TV (1080p)
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61368&extension=ts&play_token=OTGHDYA41S&sn2=
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-89 player-buffer="50" tvg-id="FOX.us" tvg-logo="https://i.imgur.com/6FrxD4x.png" group-title="🇺🇸 USA",FOX CHANNEL 05 NEW YORK (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/183502
 #KODIPROP:inputstream.adaptive.file_type=m3u8
@@ -244,6 +247,7 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/176822
 #EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="📺 Animation",Boomerang UK (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/153832
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (English Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13058
 
@@ -264,22 +268,28 @@ http://mykingtv.net:2082/01125676380AA/3252353/5278.m3u8
 #EXTINF:-95 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://i.imgur.com/Ol0BBiV.png" group-title="🎞️ Movies",TokuSHOUTsu (720p)
 https://r.mjh.nz/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-96 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="🎞️ Movies",HBO ASIA (Mandarin Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13070
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-1 tvg-id="415.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="🎞️ Movies",HBO HITS ASIA (Mandarin Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13067
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-96 tvg-id="414.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png" group-title="🎞️ Movies",HBO FAMLIY ASIA (Mandarin Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13064
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="🎞️ Movies",HBO SIGNATURE ASIA (Mandarin Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/38109
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTVLCOPT:network-caching=60000
 #EXTINF:-97 player-buffer="50" tvg-id="ts560" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="🎞️ Movies",STAR MOVIES HD (English Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/187267
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-97 player-buffer="50" tvg-id="ts593" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="🎞️ Movies",STAR MOVIES SELECT HD (English Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/387767
 
@@ -294,26 +304,29 @@ https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-1 player-buffer="50" tvg-id="821.astro" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="⚽ SPORTS",WWE NETWORKS (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/181443
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-1 player-buffer="50" tvg-id="peacock-wwe.us" tvg-logo="https://i.imgur.com/GO1Uffd.png" group-title="⚽ SPORTS",WWE NETWORK PEACOCK (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/64570
 #KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-1 player-buffer="50" tvg-id="peacock.us" tvg-logo="https://i.imgur.com/O1hqb8z.png" group-title="⚽ SPORTS",PEACOCK PPV 03 (1080p)
 http://xrpehqv.mexamo.xyz:900/6945574629/7169628753/9105
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-94 player-buffer="50" tvg-id="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="⚽ SPORTS",TNT SPORTS 1 (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13780
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-94 tvg-id="TNTSports2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="⚽ SPORTS",TNT SPORTS 2 (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13779
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-94 tvg-id="TNTSports3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="⚽ SPORTS",TNT SPORTS 3 (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13778
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-94 tvg-id="TNTSports4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="⚽ SPORTS",TNT SPORTS 4 (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/153713
