@@ -34,8 +34,6 @@ https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-13 player-buffer="50" tvg-id="CTN.kh" tvg-name="CTN (1080p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="🇰🇭 Cambodia",CTN (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUVTRNa0pDTWtRNE1UYzVORFEzT1VOQ05VRkZRak13UlRnMk1VTXdPVFV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
-#EXTINF:-14 tvg-id="CTN.kh" tvg-name="CTN (720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="🇰🇭 Cambodia",CTN (720p)
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/4.m3u8
 #EXTINF:-15 tvg-id="CTN.kh" tvg-name="CTN (Happy Watch 99 720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="🇰🇭 Cambodia",CTN (Happy Watch 99 720p)
 https://live.happywatch99.com/live/ctn_hp99$!24/playlist.m3u8
 #EXTINF:-16 tvg-id="CTN.kh" tvg-name="CTN (576p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="🇰🇭 Cambodia",CTN (576p)
@@ -43,8 +41,6 @@ http://tv.cootel.com.kh:8077/streams/d/CTN/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-17 player-buffer="50" tvg-id="MyTV.kh" tvg-name="MyTV (1080p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="🇰🇭 Cambodia",MyTV (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BURkZRemxDUkVKRk5VVkdSalE0T1VRNE56RkdOa0kxTURoRVFqWkVNMFU1Sm5OMFBXeHBkbVVtYzNSNVBXUmhjMmclM2QmdG9rPTY5N2JlNDgxNWVjYjY3NmYwYTY5NmUzYzc2YTFkYjNlNmEwOWM2MjgmZGV2aWQ9ZGNmYWVmYTczYTYzOGRmYTJjY2RjNjNlZjc1MmU1Yzc%3D/auto_h264.mpd
-#EXTINF:-18 tvg-id="MyTV.kh" tvg-name="MyTV (720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="🇰🇭 Cambodia",MyTV (720p)
-http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/6.m3u8
 #EXTINF:-19 tvg-id="MyTV.kh" tvg-name="MyTV (Happy Watch 720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="🇰🇭 Cambodia",MyTV (Happy Watch 99 720p)
 https://live.happywatch99.com/live/mytv_hp99$!24/playlist.m3u8
 #EXTINF:-20 tvg-id="MyTV.kh" tvg-name="MyTV (576p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="🇰🇭 Cambodia",MyTV (576p)
@@ -209,7 +205,7 @@ https://everylive.space/live/mnet/livestream.m3u8
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 
 #EXTINF:-87 player-buffer="50" tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (720p)
-https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
+https://cors-proxy.cooks.fyi/https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-87 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
@@ -269,24 +265,23 @@ http://mykingtv.net:2082/01125676380AA/3252353/5278.m3u8
 https://r.mjh.nz/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-96 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="🎞️ Movies",HBO ASIA (Mandarin Subtitle) (1080p)
-http://xrpehqv.mexamo.xyz/6945574629/7169628753/13070
+#EXTINF:-96 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="🎞️ Movies",HBO ASIA (576p)
+http://s4.nihontv.net:21585/hbo/index.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="🎞️ Movies",HBO HITS ASIA (Mandarin Subtitle) (1080p)
-http://xrpehqv.mexamo.xyz/6945574629/7169628753/13067
+#EXTINF:-1 tvg-id="415.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="🎞️ Movies",HBO HITS ASIA (720p)
+http://vo01.mohdtv.com:8880/voby4681/59596648/71037
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-96 tvg-id="414.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png" group-title="🎞️ Movies",HBO FAMLIY ASIA (Mandarin Subtitle) (1080p)
-http://xrpehqv.mexamo.xyz/6945574629/7169628753/13064
+#EXTINF:-96 tvg-id="414.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png" group-title="🎞️ Movies",HBO FAMLIY ASIA (720p)
+http://vo01.mohdtv.com:8880/voby4681/59596648/1707
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="🎞️ Movies",HBO SIGNATURE ASIA (Mandarin Subtitle) (1080p)
-http://xrpehqv.mexamo.xyz/6945574629/7169628753/38109
+#EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="🎞️ Movies",HBO SIGNATURE ASIA (Thai Subtitle) (1080p)
+http://gmtv.ddns.net:2566/live/KmHbo/KmHbo/98.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTVLCOPT:network-caching=60000
-#EXTINF:-97 player-buffer="50" tvg-id="ts560" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="🎞️ Movies",STAR MOVIES HD (English Subtitle) (1080p)
+#EXTINF:-97 player-buffer="70" tvg-id="ts560" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="🎞️ Movies",STAR MOVIES HD (English Subtitle) (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/187267
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
