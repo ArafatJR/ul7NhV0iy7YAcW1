@@ -70,14 +70,14 @@ http://abclive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chu
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/11.m3u8
 #EXTINF:-30 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="🇰🇭 Cambodia",Rasmey Hang Meas HDTV (Happy Watch 99 720p)
 https://live.happywatch99.com/live/rasmey_hm_hp99$!24/playlist.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="🇰🇭 Cambodia",Hang Meas Now UHDTV (720p)
-https://live.kh.malimarcdn.com/live/tv5.stream/chunklist.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="🇰🇭 Cambodia",Hang Meas Now UHDTV (360p)
+http://103.25.92.30:10048/2.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="🇰🇭 Cambodia",Hang Meas Melody UHDTV (720p)
 https://live.happywatch99.com/live/d_music_hp99$!24/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="🇰🇭 Cambodia",Hang Meas Boxing UHDTV (720p)
 http://dodge.eu5.org/Get?id=23
 #EXTINF:-31 tvg-id="Hang_Meas_Kids_UHDTV.kh" tvg-logo="https://i.imgur.com/hMPcyoR.png" group-title="🇰🇭 Cambodia",Hang Meas Kids UHDTV (720p)
-https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
+http://hls.sweet.tv/empty.ts
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-32 player-buffer="50" tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="🇰🇭 Cambodia",PNN (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUVkdPVFJEUVRFNU1EQkVPRFF3TlRaQ016VkdRVE5ETnprNU4wRTRPVU5GSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
@@ -93,20 +93,24 @@ http://202.79.26.142:1999/town_ext
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-39 tvg-id="DMusic.kh" tvg-name="DMusic (720p)" tvg-logo="https://i.malimarcdn.com/kh/dmusicHDF.jpg" group-title="🇰🇭 Cambodia",DMusic (720p)
 https://live.happywatch99.com/live/d_music_hp99$!24/playlist.m3u8
-#EXTINF:-40 tvg-id="MSJTV.kh" tvg-name="MSJTV (720p)" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="🇰🇭 Cambodia",MSJTV (720p)
-http://124.248.165.18:1935/live/myStream/chunklist_w2090153462.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
-#EXTINF:-41 tvg-id="SHSHDTV.kh" tvg-name="SHSHDTV (720p)" tvg-logo="https://i.imgur.com/c3vwh9k.png" group-title="🇰🇭 Cambodia",SHSHDTV (720p)
-https://live.happywatch99.com/live/shshdtv_v$$240211$/playlist.m3u8
-#EXTINF:-42 tvg-id="FreshNews.kh" tvg-name="Fresh News TV (720p)" tvg-logo="https://asset.brandfetch.io/idi82Ajyf8/idVG3IozwL.png" group-title="🇰🇭 Cambodia",Fresh News TV (720p)
-http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
-#EXTINF:-51 tvg-id="ABCTV.kh" tvg-name="ABC Cambodia (720p)" tvg-logo="https://khmerpress.today/wp-content/uploads/2022/11/logo-ABC-Ver.2-1024x1024.jpg" group-title="🇰🇭 Cambodia",ABC Cambodia (720p)
-http://217.15.167.95:5080/live/streams/live_3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTINF:-43 tvg-id="PPDTV.kh" tvg-name="PP Digital TV (720p)" tvg-logo="https://i.imgur.com/BlSBNvX.png" group-title="🇰🇭 Cambodia",PP Digital TV (720p)
 https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
 #EXTINF:-44 tvg-id="Kamsan TV.kh" tvg-name="Kamsan TV (720p)" tvg-logo="https://i.malimarcdn.com/kh/2023/KamsanHDF.jpg" group-title="🇰🇭 Cambodia",Kamsan TV (720p)
 https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
+#EXTINF:-44 tvg-id="dthfilm1.kh" tvg-name="DTH FILM 1 (360p)" tvg-logo="https://i.imgur.com/jcxHEGc.png" group-title="🇰🇭 Cambodia",DTH FILM 1 (360p)
+http://103.25.92.30:10027/2.m3u8
+#EXTINF:-44 tvg-id="dthfilm1.kh" tvg-name="DTH FILM 4 (360p)" tvg-logo="https://i.imgur.com/sASzWrJ.png" group-title="🇰🇭 Cambodia",DTH FILM 4 (360p)
+http://103.25.92.30:10044/2.m3u8
+#EXTINF:-40 tvg-id="MSJTV.kh" tvg-name="MSJTV (720p)" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="🇰🇭 Cambodia",MSJTV (720p)
+http://124.248.165.18:1935/live/myStream/chunklist_w2090153462.m3u8
+#EXTINF:-42 tvg-id="FreshNews.kh" tvg-name="Fresh News TV (720p)" tvg-logo="https://asset.brandfetch.io/idi82Ajyf8/idVG3IozwL.png" group-title="🇰🇭 Cambodia",Fresh News TV (720p)
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
+#EXTINF:-51 tvg-id="ABCTV.kh" tvg-name="ABC Cambodia (720p)" tvg-logo="https://khmerpress.today/wp-content/uploads/2022/11/logo-ABC-Ver.2-1024x1024.jpg" group-title="🇰🇭 Cambodia",ABC Cambodia (720p)
+http://217.15.167.95:5080/live/streams/live_3.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
+#EXTINF:-41 tvg-id="SHSHDTV.kh" tvg-name="SHSHDTV (720p)" tvg-logo="https://i.imgur.com/c3vwh9k.png" group-title="🇰🇭 Cambodia",SHSHDTV (720p)
+https://live.happywatch99.com/live/shshdtv_v$$240211$/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTINF:-45 tvg-id="KAAHDTV.kh" tvg-name="Khmer Artist HDTV (720p)" tvg-logo="https://i.imgur.com/NDZ8nUQ.png" group-title="🇰🇭 Cambodia",Khmer Artist HDTV (720p)
 https://live.happywatch99.com/live/koolplay_v$$240211$/playlist.m3u8
@@ -244,8 +248,8 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/176822
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/153832
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (English Subtitle) (1080p)
-http://xrpehqv.mexamo.xyz/6945574629/7169628753/13058
+#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (English Subtitle) (720p)
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/191845
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
