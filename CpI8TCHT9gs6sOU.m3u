@@ -223,11 +223,11 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61368&extension
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/183502
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:network-caching=60000
-#EXTINF:-90 player-buffer="50" tvg-id="TBSTV.us" tvg-logo="https://i.imgur.com/7cmNYVk.png" group-title="🇺🇸 USA",TBS NETWORK TV (1080p)
+#EXTINF:-90 player-buffer="50" tvg-id="TBSTV.us" tvg-logo="https://i.imgur.com/2UGJoT7.png" group-title="🇺🇸 USA",TBS NETWORK TV (1080p)
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/262
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:network-caching=60000
-#EXTINF:-91 player-buffer="50" tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="🇺🇸 USA",TNT (1080p)
+#EXTINF:-91 player-buffer="50" tvg-id="TNT.us" tvg-logo="https://i.imgur.com/upu6mkM.png" group-title="🇺🇸 USA",TNT (1080p)
 http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/231
 
 #EXTINF:-92 tvg-id="615.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network Southeast Asia (1080p)
