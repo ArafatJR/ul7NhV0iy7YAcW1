@@ -91,8 +91,28 @@ http://175.100.38.18/towntv
 http://202.79.26.142:1999/town_ext
 #EXTINF:-38 tvg-id="SEATV.kh" tvg-name="SEATV (720p)" tvg-logo="https://i.imgur.com/oZPorvg.png" group-title="🇰🇭 Cambodia",SEATV (720p)
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-52 tvg-id="PPCTV3" tvg-name="PPCTV3(360p)" tvg-logo="https://i.imgur.com/jgrdWql.png" group-title="🇰🇭 Cambodia",PPCTV3 (360p)
+http://103.25.92.30:10049/2.m3u8
+#EXTINF:-53 tvg-id="PPCTV6HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv6_logo_v2.png" group-title="🇰🇭 Cambodia",PPCTV6 HD (360p)
+http://103.25.92.30:10056/2.m3u8
+#EXTINF:-54 tvg-id="PPCTV9HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv9_logo_v2.png" group-title="🇰🇭 Cambodia",PPCTV9 HD (360p)
+http://103.25.92.30:10028/2.m3u8
+#EXTINF:-55 tvg-id="PPCTV10HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv10_logo_v2.png" group-title="🇰🇭 Cambodia",PPCTV10 HD (360p)
+http://103.25.92.30:10029/2.m3u8
+#EXTINF:-57 tvg-id="CamTVM1.kh" tvg-name="CamTV M1 (360p)" tvg-logo="https://i.imgur.com/gxIos3E.png" group-title="🇰🇭 Cambodia",CamTV M1 (360p)
+http://103.25.92.30:10001/2.m3u8
+#EXTINF:-58 tvg-id="CamTVM2.kh" tvg-name="CamTV M2 (360p)" tvg-logo="https://i.imgur.com/3qRD4Ud.png" group-title="🇰🇭 Cambodia",CamTV M2 (360p)
+http://103.25.92.30:10002/2.m3u8
+#EXTINF:-59 tvg-id="CamTVM3.kh" tvg-name="CamTV M3 (480p)" tvg-logo="https://i.imgur.com/4VAARgE.png" group-title="🇰🇭 Cambodia",CamTV M3 (480p)
+http://103.25.92.30:10003/2.m3u8
+#EXTINF:-60 tvg-id="CamTVK1.kh" tvg-name="CamTV K1 (360p)" tvg-logo="https://i.imgur.com/qsu46rk.png" group-title="🇰🇭 Cambodia",CamTV K1 (360p)
+http://103.25.92.30:10004/2.m3u8
+#EXTINF:-56 tvg-id="CMusic.kh" tvg-name="C Music (360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/cmusic_logo.png" group-title="🇰🇭 Cambodia",CMusic (360p)
+http://103.25.92.30:10005/2.m3u8
 #EXTINF:-39 tvg-id="DMusic.kh" tvg-name="DMusic (720p)" tvg-logo="https://i.malimarcdn.com/kh/dmusicHDF.jpg" group-title="🇰🇭 Cambodia",DMusic (720p)
 https://live.happywatch99.com/live/d_music_hp99$!24/playlist.m3u8
+#EXTINF:-50 tvg-id="Netlink.kh" tvg-name="Netlink TV (720p)" tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75" group-title="🇰🇭 Cambodia",NETLINK TV (720p)
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTINF:-43 tvg-id="PPDTV.kh" tvg-name="PP Digital TV (720p)" tvg-logo="https://i.imgur.com/BlSBNvX.png" group-title="🇰🇭 Cambodia",PP Digital TV (720p)
 https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
@@ -102,11 +122,13 @@ https://live.happywatch99.com/live/etv_v$$240211$/playlist.m3u8
 http://103.25.92.30:10027/2.m3u8
 #EXTINF:-44 tvg-id="dthfilm1.kh" tvg-name="DTH FILM 4 (360p)" tvg-logo="https://i.imgur.com/sASzWrJ.png" group-title="🇰🇭 Cambodia",DTH FILM 4 (360p)
 http://103.25.92.30:10044/2.m3u8
+#EXTINF:-49 tvg-id="MVCTV.kh" tvg-name="MVC TV (720p)" tvg-logo="https://i.imgur.com/scMLenH.png" group-title="🇹🇭 Thailand",MVC TV (720p)
+https://psiiptv-b.sky-cdn.com/ttd22-playlist/index.m3u8
 #EXTINF:-40 tvg-id="MSJTV.kh" tvg-name="MSJTV (720p)" tvg-logo="https://i.imgur.com/TilslGU.png" group-title="🇰🇭 Cambodia",MSJTV (720p)
 http://124.248.165.18:1935/live/myStream/chunklist_w2090153462.m3u8
 #EXTINF:-42 tvg-id="FreshNews.kh" tvg-name="Fresh News TV (720p)" tvg-logo="https://asset.brandfetch.io/idi82Ajyf8/idVG3IozwL.png" group-title="🇰🇭 Cambodia",Fresh News TV (720p)
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
-#EXTINF:-51 tvg-id="ABCTV.kh" tvg-name="ABC Cambodia (720p)" tvg-logo="https://khmerpress.today/wp-content/uploads/2022/11/logo-ABC-Ver.2-1024x1024.jpg" group-title="🇰🇭 Cambodia",ABC Cambodia (720p)
+#EXTINF:-51 tvg-id="ABCTV.kh" tvg-name="ABC Cambodia (720p)" tvg-logo="https://i.imgur.com/i89XaeY.png" group-title="🇰🇭 Cambodia",ABC Cambodia (720p)
 http://217.15.167.95:5080/live/streams/live_3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTINF:-41 tvg-id="SHSHDTV.kh" tvg-name="SHSHDTV (720p)" tvg-logo="https://i.imgur.com/c3vwh9k.png" group-title="🇰🇭 Cambodia",SHSHDTV (720p)
@@ -120,28 +142,6 @@ https://live-ali10.tv360.metfone.com.kh/hls/MOITV.m3u8?manifestfilter=video_bitr
 https://live-evg3.tv360.metfone.com.kh/live/MoINFOTV.m3u8?manifestfilter=video_bitrate:1-4194304&uid=119.13.56.94
 #EXTINF:-48 tvg-id="CCOCTV.kh" tvg-name="CCOC HDTV (720p)" tvg-logo="https://i.imgur.com/ZZtpTrf.png" group-title="🇰🇭 Cambodia",CCOC HDTV (720p)
 https://live.happywatch99.com/live/ccochdtv_v$$240211$/playlist.m3u8
-#EXTINF:-49 tvg-id="MVCTV.kh" tvg-name="MVC TV (720p)" tvg-logo="https://i.imgur.com/scMLenH.png" group-title="🇹🇭 Thailand",MVC TV (720p)
-https://psiiptv-b.sky-cdn.com/ttd22-playlist/index.m3u8
-#EXTINF:-50 tvg-id="Netlink.kh" tvg-name="Netlink TV (720p)" tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75" group-title="🇰🇭 Cambodia",NETLINK TV (720p)
-https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-52 tvg-id="PPCTV3" tvg-name="PPCTV3(360p)" tvg-logo="https://i.imgur.com/jgrdWql.png" group-title="🇰🇭 Cambodia",PPCTV3 (360p)
-http://103.25.92.30:10049/2.m3u8
-#EXTINF:-53 tvg-id="PPCTV6HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv6_logo_v2.png" group-title="🇰🇭 Cambodia",PPCTV6 HD (360p)
-http://103.25.92.30:10056/2.m3u8
-#EXTINF:-54 tvg-id="PPCTV9HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv9_logo_v2.png" group-title="🇰🇭 Cambodia",PPCTV9 HD (360p)
-http://103.25.92.30:10028/2.m3u8
-#EXTINF:-55 tvg-id="PPCTV10HD.kh" tvg-name="PPCTV6 HD(360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv10_logo_v2.png" group-title="🇰🇭 Cambodia",PPCTV10 HD (360p)
-http://103.25.92.30:10029/2.m3u8
-#EXTINF:-56 tvg-id="CMusic.kh" tvg-name="C Music (360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/cmusic_logo.png" group-title="🇰🇭 Cambodia",CMusic (360p)
-http://103.25.92.30:10005/2.m3u8
-#EXTINF:-57 tvg-id="CamTVM1.kh" tvg-name="CamTV M1 (360p)" tvg-logo="https://i.imgur.com/gxIos3E.png" group-title="🇰🇭 Cambodia",CamTV M1 (360p)
-http://103.25.92.30:10001/2.m3u8
-#EXTINF:-58 tvg-id="CamTVM2.kh" tvg-name="CamTV M2 (360p)" tvg-logo="https://i.imgur.com/3qRD4Ud.png" group-title="🇰🇭 Cambodia",CamTV M2 (360p)
-http://103.25.92.30:10002/2.m3u8
-#EXTINF:-59 tvg-id="CamTVM3.kh" tvg-name="CamTV M3 (480p)" tvg-logo="https://i.imgur.com/4VAARgE.png" group-title="🇰🇭 Cambodia",CamTV M3 (480p)
-http://103.25.92.30:10003/2.m3u8
-#EXTINF:-60 tvg-id="CamTVK1.kh" tvg-name="CamTV K1 (360p)" tvg-logo="https://i.imgur.com/qsu46rk.png" group-title="🇰🇭 Cambodia",CamTV K1 (360p)
-http://103.25.92.30:10004/2.m3u8
 
 #EXTINF:-61 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Channel 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
