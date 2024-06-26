@@ -70,8 +70,9 @@ http://abclive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chu
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/11.m3u8
 #EXTINF:-30 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="🇰🇭 Cambodia",Rasmey Hang Meas HDTV (Happy Watch 99 720p)
 https://live.happywatch99.com/live/rasmey_hm_hp99$!24/playlist.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="🇰🇭 Cambodia",Hang Meas Now UHDTV (360p)
-http://103.25.92.30:10048/2.m3u8
+#EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
+#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="🇰🇭 Cambodia",Hang Meas Now UHDTV (1080p)
+http://202.62.56.28:8080/nl.m3u8?id=1129
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="🇰🇭 Cambodia",Hang Meas Melody UHDTV (720p)
 https://live.happywatch99.com/live/d_music_hp99$!24/playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="🇰🇭 Cambodia",Hang Meas Boxing UHDTV (720p)
