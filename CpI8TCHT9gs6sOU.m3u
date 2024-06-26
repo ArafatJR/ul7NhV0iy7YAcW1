@@ -50,7 +50,7 @@ https://live.happywatch99.com/live/cnc_news_hp99$!24/playlist.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-22 player-buffer="50" tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (720p)
-http://dodge.eu5.org/Get?id=14
+http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/6.m3u8
 #EXTINF:-23 tvg-id="CTV8HD.kh" tvg-name="CTV8 (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (Happy Watch 99 720p)
 https://live.happywatch99.com/live/ctv8_hp99$!24/playlist.m3u8
 #EXTINF:-24 tvg-id="CTV8HD.kh" tvg-name="CTV8 (360p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (360p)
