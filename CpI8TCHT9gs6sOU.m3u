@@ -313,10 +313,6 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/181443
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/64570
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-1 player-buffer="50" tvg-id="peacock.us" tvg-logo="https://i.imgur.com/O1hqb8z.png" group-title="⚽ SPORTS",PEACOCK PPV 03 (1080p)
-http://xrpehqv.mexamo.xyz:900/6945574629/7169628753/9105
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-94 player-buffer="50" tvg-id="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="⚽ SPORTS",TNT SPORTS 1 (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/13780
 #KODIPROP:inputstream.adaptive.file_type=m3u8
@@ -330,3 +326,24 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/13778
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-94 tvg-id="TNTSports4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="⚽ SPORTS",TNT SPORTS 4 (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/153713
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
+#EXTINF:-94 tvg-id="SONYTEN1.in" tvg-logo="https://i.imgur.com/XSZoQab.png" group-title="⚽ SPORTS",SONY SPORTS TEN 1 (1080p)
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/29566
+#EXTINF:-94 tvg-id="SONYTEN2.in" tvg-logo="https://i.imgur.com/xJk0h1k.png" group-title="⚽ SPORTS",SONY SPORTS TEN 2 (1080p)
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/29565
+#EXTINF:-94 tvg-id="SONYTEN3.in" tvg-logo="https://i.imgur.com/TnwVatP.png" group-title="⚽ SPORTS",SONY SPORTS TEN 3 (1080p)
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/29564
+
+
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
+#EXTINF:-1 player-buffer="50" tvg-id="peacock.us" tvg-logo="https://i.imgur.com/O1hqb8z.png" group-title="💲 LIVE PPV",PEACOCK PPV 01 (1080p)
+http://xrpehqv.mexamo.xyz:900/6945574629/7169628753/9103
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
+#EXTINF:-1 player-buffer="50" tvg-id="peacock.us" tvg-logo="https://i.imgur.com/O1hqb8z.png" group-title="💲 LIVE PPV",PEACOCK PPV 02 (1080p)
+http://xrpehqv.mexamo.xyz:900/6945574629/7169628753/9104
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
+#EXTINF:-1 player-buffer="50" tvg-id="peacock.us" tvg-logo="https://i.imgur.com/O1hqb8z.png" group-title="💲 LIVE PPV",PEACOCK PPV 03 (1080p)
+http://xrpehqv.mexamo.xyz:900/6945574629/7169628753/9105
