@@ -311,6 +311,9 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/181443
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-1 player-buffer="50" tvg-id="peacock-wwe.us" tvg-logo="https://i.imgur.com/GO1Uffd.png" group-title="⚽ SPORTS",WWE NETWORK PEACOCK (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/64570
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
+#EXTINF:-1 player-buffer="50" tvg-id="wwehd.sa" tvg-logo="https://i.imgur.com/QKUY2mN.png" group-title="⚽ SPORTS",WWE CHANNEL HD (720p)
+http://xrpehqv.mexamo.xyz/6945574629/7169628753/186845
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-94 player-buffer="50" tvg-id="TNTSports1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="⚽ SPORTS",TNT SPORTS 1 (1080p)
@@ -337,13 +340,13 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/29564
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-1 player-buffer="50" tvg-id="peacock.us" tvg-logo="https://i.imgur.com/O1hqb8z.png" group-title="💲 LIVE PPV",PEACOCK PPV 01 (1080p)
+#EXTINF:-1 player-buffer="50" tvg-id="peacock.us" tvg-logo="https://i.imgur.com/O1hqb8z.png" group-title="💲 PPV LIVE",PEACOCK PPV 01 (1080p)
 http://xrpehqv.mexamo.xyz:900/6945574629/7169628753/9103
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-1 player-buffer="50" tvg-id="peacock.us" tvg-logo="https://i.imgur.com/O1hqb8z.png" group-title="💲 LIVE PPV",PEACOCK PPV 02 (1080p)
+#EXTINF:-1 player-buffer="50" tvg-id="peacock.us" tvg-logo="https://i.imgur.com/O1hqb8z.png" group-title="💲 PPV LIVE",PEACOCK PPV 02 (1080p)
 http://xrpehqv.mexamo.xyz:900/6945574629/7169628753/9104
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-1 player-buffer="50" tvg-id="peacock.us" tvg-logo="https://i.imgur.com/O1hqb8z.png" group-title="💲 LIVE PPV",PEACOCK PPV 03 (1080p)
+#EXTINF:-1 player-buffer="50" tvg-id="peacock.us" tvg-logo="https://i.imgur.com/O1hqb8z.png" group-title="💲 PPV LIVE",PEACOCK PPV 03 (1080p)
 http://xrpehqv.mexamo.xyz:900/6945574629/7169628753/9105
