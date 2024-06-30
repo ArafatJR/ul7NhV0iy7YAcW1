@@ -270,8 +270,8 @@ http://mykingtv.net:2082/NorHalizam69/Halizam111731/5278
 https://r.mjh.nz/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-96 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="🎞️ Movies",HBO ASIA (576p)
-http://s4.nihontv.net:21585/hbo/index.m3u8
+#EXTINF:-96 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="🎞️ Movies",HBO ASIA (720p)
+http://mykingtv.net:2082/NorHalizam69/Halizam111731/6964
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-1 tvg-id="415.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="🎞️ Movies",HBO HITS ASIA (720p)
@@ -297,8 +297,8 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/387767
 https://kbsworldtv.dthhdtv.workers.dev/stream/@kbsworldtv/master.m3u8
 #EXTINF:-85 tvg-id="K-POPTV.kr" tvg-logo="https://i.imgur.com/smhcQu7.jpeg" group-title="🎶 Music",THE K-POP TV (1080p)
 https://anym3u8player.com/youtube.php/id/6662ec58e55e0.m3u8
-#EXTINF:-85 tvg-id="K-POP2.kr" tvg-logo="https://i.imgur.com/jBRZJSF.png" group-title="🎶 Music",THE K-POP 2 (1080p)
-https://anym3u8player.com/youtube.php/id/66656c7eaa32c.m3u8
+#EXTINF:-85 tvg-id="K-POP2.kr" tvg-logo="https://i.imgur.com/sr4LgJo.jpeg" group-title="🎶 Music",THE K-POP 2 (1080p)
+https://anym3u8player.com/youtube.php/id/668122261ba54.m3u8
 #EXTINF:-97 player-buffer="50" tvg-id="kpoptvplay.pt" tvg-logo="https://i.imgur.com/dZek7xr.png" group-title="🎶 Music",K-POP TVPLAY (720p)
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 
