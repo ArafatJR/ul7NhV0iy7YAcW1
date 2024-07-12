@@ -59,13 +59,13 @@ http://103.25.92.30:10012/2.m3u8
 #EXTINF:-22 player-buffer="50" tvg-id="ITVHD.kh" tvg-name="ITVHD (480p)" tvg-logo="https://i.imgur.com/b9iPbbp.png" group-title="🇰🇭 Cambodia",ITVHD (480p)
 https://edge-kh11.ppctvhd.com/emlive-og03/shc210-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMi8yMDI0IDk6MzE6MjQgQU0maGFzaF92YWx1ZT1BSHpyZEVDU0M0cHdGdzhRWGhxYUVRPT0mdmFsaWRtaW51dGVzPTIwJmlkPVVFbEZaazFRTkVwa09EaE1ia1ZMY0M0dExsUTVlRVprZG13d2FEZzNWM05QZDBseE1uWm9MMVV6SzBoWmQxVlpiWE5zTVZWb1dHUldabTlvVVV0c01TdDVja2htWkRadVZFOVNSV2cyVkhjM2JrNU1aMDlQVEUwcmFXbEVZVXhNT1VoSGIwWXpSakYyWmtGRU1YcEJVMXB0ZUdoamRHSkVkakpMZG1OWFJGUlZOVEJaUTJaWFJGSkdOekpNU1RSVU4wcDRZMlZEZVN0WEwwVkJjUzk0T0Zvdk1qZ3hlVmx0U2xsTlNUVnJXU3RPZW1adUszTXphRVk1YUhGeVJqaHFha1prZGxGRGNEbHJXbGxTZEdOVFpUVXllZz09JnN0cm1fbGVuPTIy
 #EXTINF:-25 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (1080p)
-http://abclive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w911157012_b1800000_sleng.m3u8
+http://1clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1093715607_b1800000_sleng.m3u8
 #EXTINF:-26 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (720p)
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/10.m3u8
 #EXTINF:-27 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (Happy Watch 99 720p)
 https://live.happywatch99.com/live/hmhdtv_hp99$!24/playlist.m3u8
 #EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (1080p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="🇰🇭 Cambodia",Rasmey Hang Meas HDTV (1080p)
-http://abclive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w193956669_b1800000_sleng.m3u8
+http://1clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w1459699043_b1800000_sleng.m3u8
 #EXTINF:-29 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="🇰🇭 Cambodia",Rasmey Hang Meas HDTV (720p)
 http://gmlive.ddns.net:5000/live/kun5g/kun5g2024/11.m3u8
 #EXTINF:-30 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="🇰🇭 Cambodia",Rasmey Hang Meas HDTV (Happy Watch 99 720p)
