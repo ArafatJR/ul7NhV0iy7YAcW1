@@ -285,9 +285,9 @@ http://mykingtv.net:2082/NorHalizam69/Halizam111731/6967
 #EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="🎞️ Movies",HBO SIGNATURE ASIA (Thai Subtitle) (1080p)
 http://gmtv.ddns.net:2566/live/KmHbo/KmHbo/98.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTVLCOPT:http-user-agent=cheervision.tv.v29/31 (Linux;Android 14) AndroidXMedia3/1.1.1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-97 player-buffer="70" tvg-id="ts560" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="🎞️ Movies",STAR MOVIES HD (English Subtitle) (1080p)
-https://cvplus-hw-cdn-mcm.skym1.eu.org/live/StarMoviesHDflv_test.m3u8
+http://119.152.240.15:8001/play/a0i0/index.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-97 player-buffer="50" tvg-id="ts593" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="🎞️ Movies",STAR MOVIES SELECT HD (English Subtitle) (1080p)
