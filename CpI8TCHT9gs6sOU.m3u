@@ -221,7 +221,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-89 player-buffer="50" tvg-id="USATV.us" tvg-logo="https://i.imgur.com/rMLfUnr.png" group-title="🇺🇸 USA",USA NETWORK TV (1080p)
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:3B:10:00&stream=61368&extension=ts&play_token=OTGHDYA41S&sn2=
+http://vp-txpro.com/2HK9A/23HK2/52233
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-89 player-buffer="50" tvg-id="FOX.us" tvg-logo="https://i.imgur.com/6FrxD4x.png" group-title="🇺🇸 USA",FOX CHANNEL 05 NEW YORK (720p)
@@ -229,18 +229,18 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/183502
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:network-caching=60000
 #EXTINF:-90 player-buffer="50" tvg-id="TBSTV.us" tvg-logo="https://i.imgur.com/2UGJoT7.png" group-title="🇺🇸 USA",TBS NETWORK TV (1080p)
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/262
+http://vp-txpro.com/2HK9A/23HK2/52209
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:network-caching=60000
-#EXTINF:-91 player-buffer="50" tvg-id="TNT.us" tvg-logo="https://i.imgur.com/upu6mkM.png" group-title="🇺🇸 USA",TNT (1080p)
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/231
+#EXTINF:-91 player-buffer="50" tvg-id="TNT.us" tvg-logo="https://i.imgur.com/upu6mkM.png" group-title="🇺🇸 USA",TNT (720p)
+http://vp-txpro.com/2HK9A/23HK2/52221
 
 #EXTINF:-92 tvg-id="615.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network Southeast Asia (1080p)
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-92 player-buffer="50" tvg-id="CNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network USA (1080p)
-http://ultra-box.club/jcq4o87JFj/xoO6BaVTIO/15300
+http://vp-txpro.com/2HK9A/23HK2/52004
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="📺 Animation",Boomerang USA (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/176822
@@ -285,13 +285,13 @@ http://mykingtv.net:2082/NorHalizam69/Halizam111731/6967
 #EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="🎞️ Movies",HBO SIGNATURE ASIA (Thai Subtitle) (1080p)
 http://gmtv.ddns.net:2566/live/KmHbo/KmHbo/98.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
+#EXTVLCOPT:http-user-agent=cheervision.tv.v29/31 (Linux;Android 14) AndroidXMedia3/1.1.1
 #EXTINF:-97 player-buffer="70" tvg-id="ts560" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="🎞️ Movies",STAR MOVIES HD (English Subtitle) (1080p)
-http://xrpehqv.mexamo.xyz/6945574629/7169628753/187267
+https://cvplus-hw-cdn-mcm.skym1.eu.org/live/StarMoviesHDflv_test.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-97 player-buffer="50" tvg-id="ts593" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="🎞️ Movies",STAR MOVIES SELECT HD (English Subtitle) (1080p)
-http://xrpehqv.mexamo.xyz/6945574629/7169628753/387767
+http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
 
 #EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="🎶 Music",KBS WORLD TV Vibing with K-Pop (1080p)
 https://kbsworldtv.dthhdtv.workers.dev/stream/@kbsworldtv/master.m3u8
