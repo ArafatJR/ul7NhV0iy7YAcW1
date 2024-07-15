@@ -168,27 +168,27 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono29/index.m3u8
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/33
 
 #EXTINF:-69 tvg-id="VTV1.vn" tvg-name="VTV1 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/1.png" group-title="🇻🇳 Vietnam",VTV1 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/playlist.m3u8?hdnts=exp=1773456688~acl=/hls/live/2029307/vtv1/*~hmac=9c37d93919c6b3feebe57ef04df710e299dd5f2af77a207fe974b23202eea57c
+https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/playlist.m3u8?hdnts=exp=1781031276~acl=/hls/live/2029307/vtv1/*~hmac=62876a65c9347027624d81298daeb148675d2968fab615afa7d9230738f63f7a
 #EXTINF:-70 tvg-id="VTV2.vn" tvg-name="VTV2 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/2.png" group-title="🇻🇳 Vietnam",VTV2 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029308/vtv2/playlist.m3u8?hdnts=exp=1773456888~acl=/hls/live/2029308/vtv2/*~hmac=59c329ede1298f505505f260a62d916a90d45f0fee427be8ad18bb091bda3d1d
+https://vtv-live-push-token.akamaized.net/hls/live/2029308/vtv2/playlist.m3u8?hdnts=exp=1781031601~acl=/hls/live/2029308/vtv2/*~hmac=d81e9b3804256581199b891e775e8688df193efe9e37dd5d9613f5f6cda7964a
 #EXTINF:-71 tvg-id="VTV3.vn" tvg-name="VTV3 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/3.png" group-title="🇻🇳 Vietnam",VTV3 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029309/vtv3/playlist.m3u8?hdnts=exp=1773456925~acl=/hls/live/2029309/vtv3/*~hmac=d2c543ad1a20e021ac192155ae8a588738fc41647081d9756023f459d86b593f
+https://vtv-live-push-token.akamaized.net/hls/live/2029309/vtv3/playlist.m3u8?hdnts=exp=1781031671~acl=/hls/live/2029309/vtv3/*~hmac=6763837f9d9ffa7c7ff99358c1327232c488be52221444a771b12e24af87d18c
 #EXTINF:-72 tvg-id="VTV4.vn" tvg-name="VTV4 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/4.png" group-title="🇻🇳 Vietnam",VTV4 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029310/vtv4/playlist.m3u8?hdnts=exp=1773456957~acl=/hls/live/2029310/vtv4/*~hmac=48ef70bdd54ac9a078e4d0e819ea959a2a506a401981be8924dccade07eca3cd
+https://vtv-live-push-token.akamaized.net/hls/live/2029310/vtv4/playlist.m3u8?hdnts=exp=1781031709~acl=/hls/live/2029310/vtv4/*~hmac=3631b9fcc1e89e8f501aa58a7dcd6cdcf9da4bd96ef0f1a730bf98302c5f024d
 #EXTINF:-73 tvg-id="VTV5.vn" tvg-name="VTV5 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/5.png" group-title="🇻🇳 Vietnam",VTV5 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8?hdnts=exp=1773456988~acl=/hls/live/2029311/vtv5/*~hmac=94bf9e4272555423ce5b82262e2d2edf2c60c1d5f6048423e8db790e6653b90d
+https://vtv-live-push-token.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8?hdnts=exp=1781031755~acl=/hls/live/2029311/vtv5/*~hmac=bcdbcbd4df2017d994bdb5c5eb07461d7e22152b75902823000bca23e5f958d3
 #EXTINF:-74 tvg-id="VTV5TNB.vn" tvg-name="VTV5 TAY NAM BO (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/7.png" group-title="🇻🇳 Vietnam",VTV5 TAY NAM BO (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029313/vtv5tnb/playlist.m3u8?hdnts=exp=1773457183~acl=/hls/live/2029313/vtv5tnb/*~hmac=b8259a16817796f60d0d3c7a75b48fb657c7dbf2d691892d5b3010e216c31b79
+https://vtv-live-push-token.akamaized.net/hls/live/2029313/vtv5tnb/playlist.m3u8?hdnts=exp=1781031793~acl=/hls/live/2029313/vtv5tnb/*~hmac=1e5ea85de2aeeff4a37a62b543cdbc96953deb8cbc8b2eb986999a53fd947783
 #EXTINF:-75 tvg-id="VTV5TN.vn" tvg-name="VTV5 TAY NGUYEN (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/163.png" group-title="🇻🇳 Vietnam",VTV5 TAY NGUYEN (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029312/vtv5tn/playlist.m3u8?hdnts=exp=1773457226~acl=/hls/live/2029312/vtv5tn/*~hmac=e87191fa7430c27e2c910cbc33d188237aa27fa6cdf60ea1c57dd535a8f9a4a5
+https://vtv-live-push-token.akamaized.net/hls/live/2029312/vtv5tn/playlist.m3u8?hdnts=exp=1781031814~acl=/hls/live/2029312/vtv5tn/*~hmac=04aeaa9e0ced0eced5f6f29255f0f4b9e692d5ff08d467ed2e2e27ad797479dd
 #EXTINF:-76 tvg-id="VTVCT.vn" tvg-name="VTV CAN THO (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png" group-title="🇻🇳 Vietnam",VTV CAN THO (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029314/vtv6/playlist.m3u8?hdnts=exp=1773457056~acl=/hls/live/2029314/vtv6/*~hmac=df05033553edc76c18260691021a7ee6a3c8619667472b7d57037a8f02d14c24
+https://vtv-live-push-token.akamaized.net/hls/live/2029314/vtv6/playlist.m3u8?hdnts=exp=1781031849~acl=/hls/live/2029314/vtv6/*~hmac=31b3253a41054308c5632509cfe1adc7b8b9680c18be42da6eef6e491b4a5e1f
 #EXTINF:-77 tvg-id="VTV7.vn" tvg-name="VTV7 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/27.png" group-title="🇻🇳 Vietnam",VTV7 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029315/vtv7/playlist.m3u8?hdnts=exp=1773457106~acl=/hls/live/2029315/vtv7/*~hmac=d2c7bed4a13840eff232d30e35e872d7536a98e805e59b0f25f1d80544f9d92e
+https://vtv-live-push-token.akamaized.net/hls/live/2029315/vtv7/playlist.m3u8?hdnts=exp=1781031873~acl=/hls/live/2029315/vtv7/*~hmac=49fa23551694ea35430f4acca0595966cd4372d746ac00f2a3a5aa29c432d362
 #EXTINF:-78 tvg-id="VTV8.vn" tvg-name="VTV8 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/36.png" group-title="🇻🇳 Vietnam",VTV8 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8?hdnts=exp=1773457133~acl=/hls/live/2029316/vtv8/*~hmac=ca01f7e40d2ee61e5c8f8e45c031c32f144fccaf82d56c12f79e28637c5cab75
+https://vtv-live-push-token.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8?hdnts=exp=1781031901~acl=/hls/live/2029316/vtv8/*~hmac=1f5c14f62f74b3802168cdbd4ce8cc58fc137fbfabdebf8d43af077a979342c4
 #EXTINF:-79 tvg-id="VTV9.vn" tvg-name="VTV9 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/39.png" group-title="🇻🇳 Vietnam",VTV9 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8?hdnts=exp=1773457159~acl=/hls/live/2029317/vtv9/*~hmac=97d75a670aeef1b722495dfd5f8c3254de4c026841f6d6974f1ad5c08f6539c2
+https://vtv-live-push-token.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8?hdnts=exp=1781031922~acl=/hls/live/2029317/vtv9/*~hmac=02acb426dea2cebb0d96a3385e3d35d3df7afe92cc9a482728c0d886683507ac
 
 #EXTINF:-80 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="🇰🇷 South Korea",SBS JIBS (720p)
 http://123.140.197.22/stream/1/play.m3u8
@@ -262,7 +262,7 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTINF:-94 player-buffer="50" tvg-id="5340" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="📺 Animation",AniPlus (Indonesian Subtitle) (720p)
-http://iptvtree.net:8080/AmirBilali/76448035/298504
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/298504
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTINF:-94 player-buffer="50" tvg-id="5340" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="📺 Animation",AniPlus (Indonesian Subtitle) (576p)
@@ -290,7 +290,7 @@ http://103.167.167.5:8454/play/a01s/index.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="🎞️ Movies",HBO SIGNATURE ASIA (1080p)
-http://iptvtree.net:8080/AmirBilali/76448035/221948
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/221948
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-97 player-buffer="70" tvg-id="ts560" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="🎞️ Movies",STAR MOVIES HD (English Subtitle) (1080p)
