@@ -142,7 +142,7 @@ http://live.happywatch99.com/livehd1/302356ddce1d515a64045e9721c735aa.sdp/playli
 
 #EXTINF:-61 tvg-id="Channel3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Channel 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/chunklist_w575099455_b4692000_slThai.m3u8
 #EXTINF:-62 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="🇹🇭 Thailand",Channel 5 (1080p)
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-63 tvg-id="Channel7.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png" group-title="🇹🇭 Thailand",Channel 7 (1080p)
@@ -153,15 +153,17 @@ https://edge6a.v2h-cdn.com/ch8/ch8.stream/playlist.m3u8
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 #EXTINF:-66 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd/index.m3u8
+https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 #EXTINF:-67 tvg-id="GMM25.th" tvg-logo="https://i.imgur.com/uARba6N.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",GMM 25 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8
-#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MONO 29 (Thai Audio) (720p)
+#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MONO 29 (Thai Audio) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono29/index.m3u8
-#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="🇹🇭 Thailand",MONO 29 (English Audio) (720p)
-http://gmlive.ddns.net:5000/kun5g/kun5g2024/33
+https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mono29-proxy-new.mthai.com/mono29/widevine?video_id=1080en2
+#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Thailand",MONO 29 (English Audio) (1080p)
+https://edge2-bkk.3bb.co.th:9443/Mono29LivexDRM/mono29DRM_1080EN.stream/manifest.mpd
 
 #EXTINF:-69 tvg-id="VTV1.vn" tvg-name="VTV1 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/1.png" group-title="🇻🇳 Vietnam",VTV1 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/playlist.m3u8?hdnts=exp=1781031276~acl=/hls/live/2029307/vtv1/*~hmac=62876a65c9347027624d81298daeb148675d2968fab615afa7d9230738f63f7a
@@ -209,9 +211,6 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 https://cors-proxy.cooks.fyi/https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-87 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-94 player-buffer="50" tvg-id="471.unifi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Gem_TV_logo_2020.png" group-title="🇯🇵 Japan",GEM (English Subtitle) (1080p)
-http://xrpehqv.mexamo.xyz/6945574629/7169628753/38119
 #EXTINF:-88 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="🇯🇵 Japan",NHK World Japan (720p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
@@ -235,8 +234,12 @@ http://vp-txpro.com/2HK9A/23HK2/52221
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-92 player-buffer="50" tvg-id="CNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network USA (1080p)
+#EXTINF:-92 player-buffer="50" tvg-id="CNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network USA (WEST) (1080p)
 http://vp-txpro.com/2HK9A/23HK2/52004
+#KODIPROP:inputstream.adaptive.file_type=m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-92 player-buffer="50" tvg-id="CNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network USA (EAST) (1080p)
+https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="📺 Animation",Boomerang USA (1080p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/176822
@@ -267,7 +270,7 @@ http://210.210.155.35/uq2663/h/h201/02.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-95 tvg-id="5c3f8f12a93c2d61b9990a4e" tvg-logo="https://i.imgur.com/Ol0BBiV.png" group-title="🎞️ Movies",TokuSHOUTsu (720p)
-https://jmp2.uk/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-96 tvg-id="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="🎞️ Movies",HBO ASIA (1080p)
