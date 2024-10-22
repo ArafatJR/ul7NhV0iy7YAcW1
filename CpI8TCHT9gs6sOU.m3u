@@ -5,7 +5,7 @@
 #EXTM3U player-buffer="50" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml" url-tvg="https://i.mjh.nz/PlutoTV/us.xml" refresh="1440" max-conn="1" refresh="24"
 
 
-#EXTINF:-1 player-buffer="50" tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/7ezkM2r.png" group-title="🇰🇭 Cambodia",TVK (1080p)
+#EXTINF:-1 player-buffer="50" tvg-id="TVK.kh" tvg-name="TVK (1080p)" tvg-logo="https://i.imgur.com/7ezkM2r.png" group-title="🇰🇭 Cambodia",TVK (1080p)
 http://43.245.34.8:9000/OneTV/TVK.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/7ezkM2r.png" group-title="🇰🇭 Cambodia",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
@@ -158,7 +158,9 @@ http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8
 #EXTINF:-67 tvg-id="GMM25.th" tvg-logo="https://i.imgur.com/uARba6N.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",GMM 25 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chgmm/index.m3u8
+https://hls-nginx.v2h-cdn.com/hls/gmm25myStream.m3u8
+#EXTINF:-1 tvg-id="WorkpointTV.th" tvg-logo="https://i.imgur.com/UY2SK6I.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Workpoint TV (1080p)
+https://global-media.sooplive.com/live/video/workpoint/1920x1080/playlist.m3u8
 #EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",MONO 29 (Thai Audio) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8
@@ -200,9 +202,9 @@ http://mag.trexlive.me:8000/play/live.php?mac=00:1a:79:0b:63:a2&stream=941631&ex
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTINF:-81 player-buffer="50" tvg-id="392.astro" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="🇰🇷 South Korea",KBS WORLD (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="🇰🇷 South Korea",MBC Gangwon (1080p)
+#EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/mjdhyoK.png" group-title="🇰🇷 South Korea",MBC Gangwon (1080p)
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://www.bfe.tv/fileadmin/user_upload/Munhwa_Broadcasting_Company-Logo.png" group-title="🇰🇷 South Korea",MBC Mokpo (720p)
+#EXTINF:-83 tvg-id="MBC.kr" tvg-logo="https://i.imgur.com/mjdhyoK.png" group-title="🇰🇷 South Korea",MBC Mokpo (720p)
 https://vod.mpmbc.co.kr/live/encoder-tv/chunklist_w680058893.m3u8
 #EXTINF:-84 tvg-id="Mnet.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="🇰🇷 South Korea",MNET (720p)
 https://everylive.space/live/mnet/livestream.m3u8
@@ -254,8 +256,8 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/176822
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/153832
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (English Subtitle) (720p)
-http://xrpehqv.mexamo.xyz/6945574629/7169628753/191845
+#EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (Indonesian Subtitle) (720p)
+http://pwzdtkq.leadcool.xyz/3CEditor/9755DBD8/191845
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -267,7 +269,7 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTINF:-94 player-buffer="50" tvg-id="5340" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="📺 Animation",AniPlus (Indonesian Subtitle) (720p)
-http://iptvtree.net:8080/romaniamedia/8cc105f9f2/298504
+http://iptvtree.net:8080/romaniamedia/178cdde57b/298504
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTINF:-94 player-buffer="50" tvg-id="5340" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="📺 Animation",AniPlus (Indonesian Subtitle) (576p)
@@ -295,7 +297,7 @@ http://103.167.167.5:8454/play/a01s/index.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="🎞️ Movies",HBO SIGNATURE ASIA (1080p)
-http://iptvtree.net:8080/romaniamedia/8cc105f9f2/221948
+http://iptvtree.net:8080/romaniamedia/178cdde57b/221948
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-97 player-buffer="70" tvg-id="ts560" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="🎞️ Movies",STAR MOVIES HD (English Subtitle) (1080p)
@@ -304,17 +306,16 @@ http://103.124.251.164:28015/play/a005/index.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-97 player-buffer="50" tvg-id="ts593" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="🎞️ Movies",STAR MOVIES SELECT HD (English Subtitle) (1080p)
-http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
+http://119.152.240.15:8001/play/a0i1/index.m3u8
 
 #EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="🎶 Music",KBS WORLD TV Vibing with K-Pop (1080p)
 https://kbsworldtv.dthhdtv.workers.dev/stream/@kbsworldtv/master.m3u8
 #EXTINF:-85 tvg-id="K-POPTV.kr" tvg-logo="https://i.imgur.com/smhcQu7.jpeg" group-title="🎶 Music",THE K-POP TV (1080p)
-https://anym3u8player.com/youtube.php/id/6662ec58e55e0.m3u8
+https://ythls-v3.onrender.com/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
 #EXTINF:-85 tvg-id="K-POP2.kr" tvg-logo="https://i.imgur.com/sr4LgJo.jpeg" group-title="🎶 Music",THE K-POP 2 (1080p)
-https://anym3u8player.com/youtube.php/id/668122261ba54.m3u8
+https://ythls-v3.onrender.com/channel/UCITH7URIRpb8yoshUwGE9jg.m3u8
 #EXTINF:-97 player-buffer="50" tvg-id="kpoptvplay.pt" tvg-logo="https://i.imgur.com/dZek7xr.png" group-title="🎶 Music",K-POP TVPLAY (720p)
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
-
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
