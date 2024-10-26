@@ -15,11 +15,11 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-4 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (1080p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="🇰🇭 Cambodia",TV5 Cambodia (1080p)
-https://cdnssc.wewatch.asia/b3A9WTJsa1BVRkRPRFl5UmpGR1JFVTBRVFE0TVVZNVJVRkJPRU13TnpFd1JFRXpSRGt4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUWXdNa1U0UWtVME9UTkVNalJDTmtFNFJEa3lSakpCUWpSQ05EUkdNVE5DSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
 #EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="🇰🇭 Cambodia",TV5 Cambodia (720p)
 https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 #EXTINF:-6 tvg-id="TV9.kh" tvg-name="TV9 (Cambodia)(1080p)" tvg-logo="https://i.imgur.com/6sPJByQ.png" group-title="🇰🇭 Cambodia",TV9 (Cambodia) (1080p)
-https://live-evg6.tv360.metfone.com.kh/CTV9HD2024.m3u8?manifestfilter=video_bitrate:1-4194304&uid=11990
+https://live.kh.unitysystem.net/live/tv9.stream/chunklist.m3u8
 #EXTINF:-7 tvg-id="ApsaraTV11.kh" tvg-name="Apsara TV11 (1080p)" tvg-logo="https://workingna-files.s3.ap-southeast-1.amazonaws.com/1657872293343-APSARA%20NEW%20LOGO%20%28LATTEST%29.png" group-title="🇰🇭 Cambodia",Apsara TV11 (1080p)
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-8 tvg-id="ApsaraTV11.kh" tvg-name="Apsara TV11 (720p)" tvg-logo="https://workingna-files.s3.ap-southeast-1.amazonaws.com/1657872293343-APSARA%20NEW%20LOGO%20%28LATTEST%29.png" group-title="🇰🇭 Cambodia",Apsara TV11 (720p)
@@ -212,7 +212,7 @@ https://everylive.space/live/mnet/livestream.m3u8
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 
 #EXTINF:-87 player-buffer="50" tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (720p)
-https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
+http://vthanh.utako.moe/4E656B6F_as/index.m3u8
 #EXTINF:-87 player-buffer="50" tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (720p)
 https://cors-proxy.cooks.fyi/https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-87 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (544p)
