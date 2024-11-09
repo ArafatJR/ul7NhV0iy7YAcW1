@@ -15,7 +15,7 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-4 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (1080p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="🇰🇭 Cambodia",TV5 Cambodia (1080p)
-https://cdnssc.wewatch.asia/b3A9WTJsa1BUWXdNa1U0UWtVME9UTkVNalJDTmtFNFJEa3lSakpCUWpSQ05EUkdNVE5DSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
+https://cdnssc.wewatch.asia/b3A9WTJsa1BVRkRPRFl5UmpGR1JFVTBRVFE0TVVZNVJVRkJPRU13TnpFd1JFRXpSRGt4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
 #EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="🇰🇭 Cambodia",TV5 Cambodia (720p)
 https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
 #EXTINF:-6 tvg-id="TV9.kh" tvg-name="TV9 (Cambodia)(1080p)" tvg-logo="https://i.imgur.com/6sPJByQ.png" group-title="🇰🇭 Cambodia",TV9 (Cambodia) (1080p)
