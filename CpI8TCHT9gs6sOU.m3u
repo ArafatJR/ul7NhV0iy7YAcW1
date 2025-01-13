@@ -9,6 +9,8 @@
 http://43.245.34.8:9000/OneTV/TVK.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/7ezkM2r.png" group-title="🇰🇭 Cambodia",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+#EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (1080p)" tvg-logo="https://i.imgur.com/D3T32vG.png" group-title="🇰🇭 Cambodia",TVK2 (1080p)
+http://abclive.malisresidences.com:1935/tvk2/_definst_/smil:tvk2.smil/chunklist_w1866997329_b1800000_sleng.m3u8
 #EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (720p)" tvg-logo="https://i.imgur.com/D3T32vG.png" group-title="🇰🇭 Cambodia",TVK2 (720p)
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 #EXTINF:-3 tvg-id="TV3.kh" tvg-name="TV3 (720p)" tvg-logo="https://i.imgur.com/AnH4Loj.png" group-title="🇰🇭 Cambodia",TV3 (720p)
@@ -19,7 +21,7 @@ http://clive.malisresidences.com:1935/tv5/_definst_/smil:tv5.smil/chunklist_w194
 #EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="🇰🇭 Cambodia",TV5 Cambodia (720p)
 https://live-evg13.tv360.metfone.com.kh/live/tv5.m3u8?manifestfilter=video_bitrate:1-4194304&uid=11990
 #EXTINF:-6 tvg-id="TV9.kh" tvg-name="TV9 (Cambodia)(1080p)" tvg-logo="https://i.imgur.com/6sPJByQ.png" group-title="🇰🇭 Cambodia",TV9 (Cambodia) (1080p)
-https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8?manifestfilter=video_bitrate%3A1-4194304&uid=11990
+http://abclive.malisresidences.com:1935/ctv9/_definst_/smil:ctv9.smil/chunklist_w495974689_b1800000_sleng.m3u8
 #EXTINF:-7 tvg-id="ApsaraTV11.kh" tvg-name="Apsara TV11 (1080p)" tvg-logo="https://workingna-files.s3.ap-southeast-1.amazonaws.com/1657872293343-APSARA%20NEW%20LOGO%20%28LATTEST%29.png" group-title="🇰🇭 Cambodia",Apsara TV11 (1080p)
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-8 tvg-id="ApsaraTV11.kh" tvg-name="Apsara TV11 (720p)" tvg-logo="https://workingna-files.s3.ap-southeast-1.amazonaws.com/1657872293343-APSARA%20NEW%20LOGO%20%28LATTEST%29.png" group-title="🇰🇭 Cambodia",Apsara TV11 (720p)
@@ -59,7 +61,7 @@ http://dodge.eu5.org/Get?id=14
 #EXTINF:-23 tvg-id="CTV8HD.kh" tvg-name="CTV8 (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (Happy Watch 99 720p)
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 #EXTINF:-22 player-buffer="50" tvg-id="ITVHD.kh" tvg-name="ITVHD (480p)" tvg-logo="https://i.imgur.com/b9iPbbp.png" group-title="🇰🇭 Cambodia",ITVHD (720p)
-http://43.252.18.195:5080/live/streams/itvhd.m3u8
+http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
 #EXTINF:-25 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (1080p)
 http://abclive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1185814818_b1800000_sleng.m3u8
 #EXTINF:-27 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (Happy Watch 99 720p)
@@ -69,13 +71,21 @@ http://abclive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chu
 #EXTINF:-30 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="🇰🇭 Cambodia",Rasmey Hang Meas HDTV (Happy Watch 99 720p)
 http://live.happywatch99.com/livehd7/69ce37d31c0ec39d57ed58833fffc97e.sdp/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
-#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="🇰🇭 Cambodia",Hang Meas Now UHDTV (1080p)
+#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="🇰🇭 Cambodia",Hang Meas NOW UHDTV (1080p)
 http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/chunklist_w604029205_b1800000_sleng.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="🇰🇭 Cambodia",Hang Meas Melody UHDTV (720p)
-http://live.happywatch99.com/livehd19/ee1473c7d47863ed1c0392c42332be9a.sdp/playlist.m3u8
-#EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="🇰🇭 Cambodia",Hang Meas Boxing UHDTV (720p)
-http://hls.sweet.tv/empty.ts
-#EXTINF:-31 tvg-id="Hang_Meas_Kids_UHDTV.kh" tvg-logo="https://i.imgur.com/hMPcyoR.png" group-title="🇰🇭 Cambodia",Hang Meas Kids UHDTV (720p)
+#EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="🇰🇭 Cambodia",Hang Meas MELODY UHDTV (1080p)
+http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/chunklist_w815944957_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_PLAY_UHDTV.kh" tvg-logo="https://i.imgur.com/SSeLJWo.png" group-title="🇰🇭 Cambodia",Hang Meas PLAY UHDTV (1080p)
+http://abclive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/chunklist_w231709154_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_CINE_UHDTV.kh" tvg-logo="https://i.imgur.com/uZ0aNK3.png" group-title="🇰🇭 Cambodia",Hang Meas CINE UHDTV (1080p)
+http://abclive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/chunklist_w11599795_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_MALL_HDTV.kh" tvg-logo="https://i.imgur.com/E49KcQz.png" group-title="🇰🇭 Cambodia",Hang Meas MALL HDTV (1080p)
+http://abclive.malisresidences.com:1935/snappee/_definst_/smil:snappee.smil/chunklist_w278875194_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_GO_UHDTV.kh" tvg-logo="https://i.imgur.com/98fRynX.png" group-title="🇰🇭 Cambodia",Hang Meas GO UHDTV (1080p)
+http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_w1472008636_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_BOXING_UHDTV.kh" tvg-logo="https://i.imgur.com/W6jmWvs.png" group-title="🇰🇭 Cambodia",Hang Meas BOXING UHDTV (1080p)
+http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklist_w419787764_b1800000_sleng.m3u8
+#EXTINF:-31 tvg-id="Hang_Meas_Kids_UHDTV.kh" tvg-logo="https://i.imgur.com/hMPcyoR.png" group-title="🇰🇭 Cambodia",Hang Meas KIDS UHDTV (720p)
 http://hls.sweet.tv/empty.ts
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-32 player-buffer="50" tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="🇰🇭 Cambodia",PNN (1080p)
@@ -112,6 +122,8 @@ http://103.25.92.30:10002/2.m3u8
 http://103.25.92.30:10003/2.m3u8
 #EXTINF:-60 tvg-id="CamTVK1.kh" tvg-name="CamTV K1 (360p)" tvg-logo="https://i.imgur.com/qsu46rk.png" group-title="🇰🇭 Cambodia",CamTV K1 (360p)
 http://103.25.92.30:10004/2.m3u8
+#EXTINF:-39 tvg-id="DMusic.kh" tvg-name="DMusic (720p)" tvg-logo="https://i.malimarcdn.com/kh/dmusicHDF.jpg" group-title="🇰🇭 Cambodia",DMusic (720p)
+http://live.happywatch99.com/livehd19/ee1473c7d47863ed1c0392c42332be9a.sdp/playlist.m3u8
 #EXTINF:-56 tvg-id="CMusic.kh" tvg-name="C Music (360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/cmusic_logo.png" group-title="🇰🇭 Cambodia",CMusic (360p)
 http://103.25.92.30:10005/2.m3u8
 #EXTINF:-50 tvg-id="Netlink.kh" tvg-name="Netlink TV (720p)" tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75" group-title="🇰🇭 Cambodia",NETLINK TV (720p)
@@ -119,8 +131,8 @@ https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0
 #EXTINF:-43 tvg-id="PPDTV.kh" tvg-name="PP Digital TV (720p)" tvg-logo="https://i.imgur.com/BlSBNvX.png" group-title="🇰🇭 Cambodia",PP Digital TV (720p)
 http://live.happywatch99.com/livehd3/f9527f8b5631c605187be673ce3f2f75.sdp/playlist.m3u8
-#EXTINF:-44 tvg-id="dthfilm1.kh" tvg-name="DTH FILM 1 (360p)" tvg-logo="https://i.imgur.com/jcxHEGc.png" group-title="🇰🇭 Cambodia",DTH FILM 1 (360p)
-http://103.25.92.30:10027/2.m3u8
+#EXTINF:-44 tvg-id="dthfilm1.kh" tvg-name="DTH FILM 1 (360p)" tvg-logo="https://i.imgur.com/jcxHEGc.png" group-title="🇰🇭 Cambodia",DTH FILM 1 (576p)
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
 #EXTINF:-44 tvg-id="dthfilm1.kh" tvg-name="DTH FILM 4 (360p)" tvg-logo="https://i.imgur.com/sASzWrJ.png" group-title="🇰🇭 Cambodia",DTH FILM 4 (360p)
 http://103.25.92.30:10030/2.m3u8
 #EXTINF:-49 tvg-id="MVCTV.kh" tvg-name="MVC TV (720p)" tvg-logo="https://i.imgur.com/scMLenH.png" group-title="🇹🇭 Thailand",MVC TV (720p)
@@ -214,7 +226,7 @@ https://everylive.space/live/mnet/livestream.m3u8
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 
 #EXTINF:-87 player-buffer="50" tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (720p)
-http://vthanh.utako.moe/4/index.m3u8
+http://vthanh.utako.moe:8080/1082c017-1f25-48ea-bc45-09ae0908c230.m3u8
 #EXTINF:-87 player-buffer="50" tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (720p)
 https://cors-proxy.cooks.fyi/https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-87 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (544p)
@@ -317,9 +329,9 @@ http://119.152.240.15:8001/play/a0i1/index.m3u8
 #EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="🎶 Music",KBS WORLD TV Vibing with K-Pop (1080p)
 https://kbsworldtv.dthhdtv.workers.dev/stream/@kbsworldtv/master.m3u8
 #EXTINF:-85 tvg-id="K-POPTV.kr" tvg-logo="https://i.imgur.com/smhcQu7.jpeg" group-title="🎶 Music",THE K-POP TV (1080p)
-https://ythls-v3.onrender.com/channel/UCoRXPcv8XK5fAplLbk9PTww.m3u8
+https://k-poptv.dthhdtv.workers.dev/stream/@thekpop/master.m3u8
 #EXTINF:-85 tvg-id="K-POP2.kr" tvg-logo="https://i.imgur.com/sr4LgJo.jpeg" group-title="🎶 Music",THE K-POP 2 (1080p)
-https://ythls-v3.onrender.com/channel/UCITH7URIRpb8yoshUwGE9jg.m3u8
+https://k-pop2.dthhdtv.workers.dev/stream/@thekpop2/master.m3u8
 #EXTINF:-97 player-buffer="50" tvg-id="kpoptvplay.pt" tvg-logo="https://i.imgur.com/dZek7xr.png" group-title="🎶 Music",K-POP TVPLAY (720p)
 https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
