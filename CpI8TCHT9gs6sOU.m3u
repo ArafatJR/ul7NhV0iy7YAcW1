@@ -63,11 +63,11 @@ http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playl
 #EXTINF:-22 player-buffer="50" tvg-id="ITVHD.kh" tvg-name="ITVHD (480p)" tvg-logo="https://i.imgur.com/b9iPbbp.png" group-title="🇰🇭 Cambodia",ITVHD (720p)
 http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
 #EXTINF:-25 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (1080p)
-http://abclive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1185814818_b1800000_sleng.m3u8
+http://abclive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdtv1.smil/chunklist_w1185814818_b1800000_sleng.m3u8
 #EXTINF:-27 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (Happy Watch 99 720p)
 http://live.happywatch99.com/livehd6/c5e2eea6f82ee2f37dd9e8690297446b.sdp/playlist.m3u8
 #EXTINF:-28 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (1080p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="🇰🇭 Cambodia",Rasmey Hang Meas HDTV (1080p)
-http://abclive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w700995940_b1800000_sleng.m3u8
+http://abclive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:rhmhdtv1.smil/chunklist_w700995940_b1800000_sleng.m3u8
 #EXTINF:-30 tvg-id="RasmeyHangMeasHDTV.kh" tvg-name="Rasmey Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://1.bp.blogspot.com/-BAAX91pXkhg/XR57JHfzuOI/AAAAAAAAIc0/6tpIduqlfNwyF2Rnb3wrIJwSS2H35MiTgCLcBGAs/s1600/RHM-HDTV.png" group-title="🇰🇭 Cambodia",Rasmey Hang Meas HDTV (Happy Watch 99 720p)
 http://live.happywatch99.com/livehd7/69ce37d31c0ec39d57ed58833fffc97e.sdp/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
