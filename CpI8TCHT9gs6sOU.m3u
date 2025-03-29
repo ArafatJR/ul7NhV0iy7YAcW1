@@ -207,6 +207,9 @@ https://vtv-live-push-token.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8?hd
 #EXTINF:-79 tvg-id="VTV9.vn" tvg-name="VTV9 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/39.png" group-title="🇻🇳 Vietnam",VTV9 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8?hdnts=exp=1781031922~acl=/hls/live/2029317/vtv9/*~hmac=02acb426dea2cebb0d96a3385e3d35d3df7afe92cc9a482728c0d886683507ac
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-80 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/4LHX71N.png" group-title="🇰🇷 South Korea",SBS (720p)
+https://krns1.sky4k.top/sbss/index.php?id=S01
 #EXTINF:-80 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/iAz0Psw.png" group-title="🇰🇷 South Korea",SBS JIBS (720p)
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="HLDFDTV.kr" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="🇰🇷 South Korea",SBS TJB (720p)
@@ -250,15 +253,13 @@ http://newsr1.roshen.live:8080/NhesxG23Pj/mpegts?token=4ogLJkjc3pTiCWZJ
 
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-92 tvg-id="615.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network Southeast Asia (1080p)
-https://cdnssc.wewatch.asia/b3A9WTJsa1BUY3lOak0yTkRkRlFUazNNRFF4TmpkQ1JrUkROekl5TVROQ056QTRNa1JGSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-92 player-buffer="50" tvg-id="CNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network USA (WEST) (1080p)
-http://vp-txpro.com/2HK9A/23HK2/52004
-#KODIPROP:inputstream.adaptive.file_type=m3u8
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUSTBOVUpFUVRKRU9ETTJSVFEwTURVNFJqVTVPVGswTTBNMFJUVkZNVUZCSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-92 player-buffer="50" tvg-id="CNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network USA (EAST) (1080p)
 https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-92 player-buffer="50" tvg-id="CNUS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="📺 Animation",Cartoon Network UK (1080p)
+https://brawr.shind.workers.dev/index.m3u8?id=UK_Cartoon_Network_Live_TV
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-id="cartoonitoasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png" group-title="📺 Animation",CARTOONITO ASIA (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUbENRa0kyT0VRNFJFUTRSalJCTkVZNVJURTJOamN5TXpVeU9ESkVSalZDSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
@@ -268,12 +269,16 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/176822
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="📺 Animation",Boomerang UK (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/153832
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+#EXTINF:-92 player-buffer="50" tvg-id="boomerangcartoon.th" tvg-logo="https://i.imgur.com/mHzDQEc.png" group-title="📺 Animation",Boomerang Catoon (1080p)
+http://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://i.imgur.com/turWday.png" group-title="📺 Animation",AT-X (720p)
-http://vthanh.utako.moe/11/index.m3u8
+http://vthanh.utako.moe/AT-X/index.m3u8
+#EXTINF:-92 player-buffer="50" tvg-id="tom&jerry.us" tvg-logo="https://i.imgur.com/La6Yk94.png" group-title="📺 Animation",Tom & Jerry 24/7 (1080p)
+http://178.162.225.129:2082/Tourobox2-cD3l5hIVBc/MqR9FKbIP0/733
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (English Subtitle) (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUazNNVFJHUXpsRE1qWTBNRFEzTkRBNU9URkRORUl3TVRWR01VWkVRakV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/1080P_h264_master.m3u8
-
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -282,10 +287,6 @@ https://cdnssc.wewatch.asia/b3A9WTJsa1BUazNNVFJHUXpsRE1qWTBNRFEzTkRBNU9URkRORUl3
 #EXTINF:-93 tvg-id="5342" tvg-logo="https://i.imgur.com/vKKUbf6.png" group-title="📺 Animation",ANIMAX ASIA (1080p)
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.file_type=m3u8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#EXTINF:-94 player-buffer="50" tvg-id="5340" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="📺 Animation",AniPlus (Indonesian Subtitle) (720p)
-http://iptvtree.net:8080/romaniamedia/178cdde57b/298504
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTINF:-94 player-buffer="50" tvg-id="5340" tvg-logo="https://i.imgur.com/Im3MePy.png" group-title="📺 Animation",AniPlus (Indonesian Subtitle) (576p)
