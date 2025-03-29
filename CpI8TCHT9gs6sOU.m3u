@@ -270,7 +270,7 @@ http://xrpehqv.mexamo.xyz/6945574629/7169628753/176822
 #EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="📺 Animation",Boomerang UK (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/153832
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
-#EXTINF:-92 player-buffer="50" tvg-id="boomerangcartoon.th" tvg-logo="https://i.imgur.com/mHzDQEc.png" group-title="📺 Animation",Boomerang Catoon (1080p)
+#EXTINF:-92 player-buffer="50" tvg-id="boomerangcartoon.th" tvg-logo="https://i.imgur.com/mHzDQEc.png" group-title="📺 Animation",Boomerang Cartoon (1080p)
 http://edge2a.v2h-cdn.com/boom_anime/boom_anime.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ATX.jp" tvg-logo="https://i.imgur.com/turWday.png" group-title="📺 Animation",AT-X (720p)
 http://vthanh.utako.moe/AT-X/index.m3u8
@@ -325,10 +325,12 @@ https://cvnewitvlive-cdn.skyiptv.eu.org/stream/smtmynsg/starmovie/fmp4_video.m3u
 #EXTINF:-97 player-buffer="50" tvg-id="ts593" tvg-logo="https://i.imgur.com/30JOiDQ.png" group-title="🎞️ Movies",STAR MOVIES SELECT HD (English Subtitle) (1080p)
 http://119.152.240.15:8001/play/a0i1/index.m3u8
 
+#EXTVLCOPT:http-user-agent=cv.tvplus/33 (Linux;Android 11) AndroidXMedia3/1.1.1
 #EXTINF:-82 tvg-id="KBSWorldTV.kr" tvg-logo="https://i.imgur.com/uBKqujS.png" group-title="🎶 Music",KBS WORLD TV Vibing with K-Pop (1080p)
-https://kbsworldtv.dthhdtv.workers.dev/stream/@kbsworldtv/master.m3u8
+https://s9.sky4k.top/stream/UC5BMQOsAB8hKUyHu9KI6yig/master.m3u8
+#EXTVLCOPT:http-user-agent=cv.tvplus/33 (Linux;Android 11) AndroidXMedia3/1.1.1
 #EXTINF:-85 tvg-id="K-POPTV.kr" tvg-logo="https://i.imgur.com/smhcQu7.jpeg" group-title="🎶 Music",THE K-POP TV (1080p)
-https://k-poptv.dthhdtv.workers.dev/stream/@thekpop/master.m3u8
+https://s9.sky4k.top/stream/UCoRXPcv8XK5fAplLbk9PTww/master.m3u8
 #EXTINF:-85 tvg-id="K-POP2.kr" tvg-logo="https://i.imgur.com/sr4LgJo.jpeg" group-title="🎶 Music",THE K-POP 2 (1080p)
 https://k-pop2.dthhdtv.workers.dev/stream/@thekpop2/master.m3u8
 #EXTINF:-97 player-buffer="50" tvg-id="kpoptvplay.pt" tvg-logo="https://i.imgur.com/dZek7xr.png" group-title="🎶 Music",K-POP TVPLAY (720p)
