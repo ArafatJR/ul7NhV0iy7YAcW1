@@ -226,12 +226,14 @@ https://everylive.space/live/mnet/livestream.m3u8
 #EXTINF:-86 tvg-id="ArirangWorld.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="🇰🇷 South Korea",Arirang TV World (1080p)
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="JOAYDTV.jp" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="🇯🇵 Japan",ABC (720p)
+http://luong.utako.moe/abc/index.m3u8
 #EXTINF:-87 player-buffer="50" tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (720p)
 http://vthanh.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-87 player-buffer="50" tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (720p)
 https://cors-proxy.cooks.fyi/https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-87 tvg-id="JOEXDTV.jp" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="🇯🇵 Japan",TV Asahi (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=7
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
 #EXTINF:-88 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="🇯🇵 Japan",NHK World Japan (720p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
