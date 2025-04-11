@@ -311,7 +311,7 @@ https://s8.sky4k.top/stream/astro/hbo/master.m3u8?u=cvappuser&p=0f573e68e00dff8d
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-1 tvg-id="415.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="🎞️ Movies",HBO HITS ASIA (1080p)
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/hbohits_twn/playlist.m3u8
+https://s8.sky4k.top/stream/astro/hbohits/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-96 tvg-id="414.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png" group-title="🎞️ Movies",HBO FAMLIY ASIA (1080p)
@@ -319,7 +319,7 @@ https://s8.sky4k.top/stream/astro/hbofamily/master.m3u8?u=cvappuser&p=0f573e68e0
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-94 player-buffer="50" tvg-id="6421" tvg-logo="https://i.imgur.com/KtWxxS3.png" group-title="🎞️ Movies",HBO SIGNATURE ASIA (1080p)
-http://iptvtree.net:8080/romaniamedia/178cdde57b/221948
+http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-97 player-buffer="70" tvg-id="ts560" tvg-logo="https://i.imgur.com/EYicIrq.png" group-title="🎞️ Movies",STAR MOVIES HD (English Subtitle) (1080p)
@@ -343,7 +343,7 @@ https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-1 player-buffer="50" tvg-id="821.astro" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="⚽ SPORTS",WWE NETWORKS (1080p)
-http://xrpehqv.mexamo.xyz/6945574629/7169628753/181443
+https://stream1.freetv.fun/wwe-4.ctv
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-1 player-buffer="50" tvg-id="peacock-wwe.us" tvg-logo="https://i.imgur.com/GO1Uffd.png" group-title="⚽ SPORTS",WWE NETWORK PEACOCK (1080p)
