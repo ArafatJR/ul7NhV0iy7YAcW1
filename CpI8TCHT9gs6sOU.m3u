@@ -4,9 +4,9 @@
 #EXTM3U player-buffer="50" x-tvg-url="https://i.mjh.nz/Singtel/epg.xml" url-tvg="https://i.mjh.nz/Singtel/epg.xml" refresh="1440" max-conn="1" refresh="24"
 #EXTM3U player-buffer="50" x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml" url-tvg="https://i.mjh.nz/PlutoTV/us.xml" refresh="1440" max-conn="1" refresh="24"
 
-
+#EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-1 player-buffer="50" tvg-id="TVK.kh" tvg-name="TVK (1080p)" tvg-logo="https://i.imgur.com/7ezkM2r.png" group-title="🇰🇭 Cambodia",TVK (1080p)
-http://abclive.malisresidences.com:1935/tvk/_definst_/smil:tvk.smil/chunklist_w1979981931_b1800000_sleng.m3u8
+https://wwkhhome.wewatch.asia/nl.m3u8?id=TVK
 #EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK (720p)" tvg-logo="https://i.imgur.com/7ezkM2r.png" group-title="🇰🇭 Cambodia",TVK (720p)
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 #EXTINF:-2 tvg-id="TVK2.kh" tvg-name="TVK2 (1080p)" tvg-logo="https://i.imgur.com/D3T32vG.png" group-title="🇰🇭 Cambodia",TVK2 (1080p)
@@ -17,8 +17,8 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-4 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (1080p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="🇰🇭 Cambodia",TV5 Cambodia (1080p)
-http://clive.malisresidences.com:1935/tv5/_definst_/smil:tv5.smil/chunklist_w1949580210_b1800000_sleng.m3u8
-#EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="🇰🇭 Cambodia",TV5 Cambodia (720p)
+https://wwkhhome.wewatch.asia/nl.m3u8?id=TV5
+#EXTINF:-5 tvg-id="TV5Cambodia.kh" tvg-name="TV5 Cambodia (720p)" tvg-logo="https://i.imgur.com/iyf3x0X.png" group-title="🇰🇭 Cambodia",TV5 Cambodia (1080p)
 https://tr-netcdn.metfone.com.kh/netcdn-live-36/36/output/index.m3u8?manifestfilter=video_bitrate:1-4194304&uid=11990
 #EXTINF:-6 tvg-id="TV9.kh" tvg-name="TV9 (Cambodia)(1080p)" tvg-logo="https://i.imgur.com/6sPJByQ.png" group-title="🇰🇭 Cambodia",TV9 (Cambodia) (1080p)
 http://abclive.malisresidences.com:1935/ctv9/_definst_/smil:ctv9.smil/chunklist_w495974689_b1800000_sleng.m3u8
