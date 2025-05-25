@@ -262,11 +262,11 @@ https://brawr.shind.workers.dev/index.m3u8?id=UK_Cartoon_Network_Live_TV
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-1 tvg-id="cartoonitoasia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png" group-title="📺 Animation",CARTOONITO ASIA (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUbENRa0kyT0VRNFJFUTRSalJCTkVZNVJURTJOamN5TXpVeU9ESkVSalZDSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
-#EXTVLCOPT:http-origin=https:https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https:https://webxzplay.cfd/
+#EXTVLCOPT:http-origin=https:https://alldownplay.xyz
+#EXTVLCOPT:http-referrer=https:https://alldownplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/135.0
 #EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="📺 Animation",Boomerang USA (1080p)
-https://dokko1new.newkso.ru/dokko1/premium648/mono.m3u8
+https://dedi.ben44mcc.workers.dev/index.m3u8?id=648
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-92 player-buffer="50" tvg-id="boomerang.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="📺 Animation",Boomerang UK (720p)
 http://xrpehqv.mexamo.xyz/6945574629/7169628753/153832
