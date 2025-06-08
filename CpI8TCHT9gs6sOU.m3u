@@ -38,22 +38,22 @@ http://stream.mekongtv.net:8989/livetest/bayontest.stream/playlist.m3u8
 #EXTINF:-13 player-buffer="50" tvg-id="CTN.kh" tvg-name="CTN (1080p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="🇰🇭 Cambodia",CTN (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUVTRNa0pDTWtRNE1UYzVORFEzT1VOQ05VRkZRak13UlRnMk1VTXdPVFV6Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
 #EXTINF:-15 tvg-id="CTN.kh" tvg-name="CTN (720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="🇰🇭 Cambodia",CTN (720p)
-http://43.252.18.195:5080/live/streams/ctn052025.m3u8
+http://43.252.18.195:5080/live/streams/CTNTV062025Q1ROVFZfMDYyMDI1.m3u8
 #EXTINF:-16 tvg-id="CTN.kh" tvg-name="CTN (576p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/ctn.png" group-title="🇰🇭 Cambodia",CTN (576p)
 http://tv.cootel.com.kh:8077/streams/d/CTN/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-17 player-buffer="50" tvg-id="MyTV.kh" tvg-name="MyTV (1080p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="🇰🇭 Cambodia",MyTV (1080p)
 https://cdnssc.wewatch.asia/b3A9WTJsa1BUQTRNVGRHT1RVMU4wUXhRVFJHUkVRNU9URTJOVEV6TkRaQk5qY3dOakV4Sm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
 #EXTINF:-19 tvg-id="MyTV.kh" tvg-name="MyTV (Happy Watch 720p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="🇰🇭 Cambodia",MyTV (720p)
-http://43.252.18.195:5080/live/streams/Mytv.m3u8
+http://43.252.18.195:5080/live/streams/MYTV062025TVlUVl8wNjIwMjU.m3u8
 #EXTINF:-20 tvg-id="MyTV.kh" tvg-name="MyTV (576p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="🇰🇭 Cambodia",MyTV (576p)
 http://tv.cootel.com.kh:8077/streams/d/MyTV/playlist.m3u8
 #EXTINF:-21 tvg-id="CNC.kh" tvg-name="CNC (720p)" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg" group-title="🇰🇭 Cambodia",CNC (720p)
-http://43.252.18.195:5080/live/streams/cnctv.m3u8
+http://43.252.18.195:5080/live/streams/CNCTV062025Q05DVFZfMDYyMDI1.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-22 player-buffer="50" tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (720p)
-http://43.252.18.195:5080/live/streams/ctv8.m3u8
+http://43.252.18.195:5080/live/streams/Q1RWOF8wNjIwMjU.m3u8
 #EXTINF:-22 player-buffer="50" tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (720p)
 http://dodge.eu5.org/Get?id=14
 #EXTINF:-23 tvg-id="CTV8HD.kh" tvg-name="CTV8 (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (Happy Watch 99 720p)
