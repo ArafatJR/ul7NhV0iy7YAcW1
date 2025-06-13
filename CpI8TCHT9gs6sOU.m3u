@@ -172,14 +172,13 @@ https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 #EXTINF:-1 tvg-id="WorkpointTV.th" tvg-logo="https://i.imgur.com/UY2SK6I.png" group-title="🇹🇭 Thailand" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",Workpoint TV (1080p)
 https://global-media.sooplive.com/live/workpoint/master.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mono29-proxy-new.mthai.com/mono29/widevine?video_id=1080th2
-#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="🇹🇭 Thailand",MONO 29 (Thai Audio) (1080p)
-https://edge2-bkk.3bb.co.th:9443/Mono29LivexDRM/mono29DRM_1080TH.stream/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mono29-proxy-new.mthai.com/mono29/widevine?video_id=1080en2
-#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="🇹🇭 Thailand",MONO 29 (English Audio) (1080p)
-https://edge2-bkk.3bb.co.th:9443/Mono29LivexDRM/mono29DRM_1080EN.stream/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://i.imgur.com/cEk9Zo6.png" group-title="🇹🇭 Thailand",MONO 29 (Thai Audio) (1080p)
+https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://i.imgur.com/cEk9Zo6.png" group-title="🇹🇭 Thailand",MONO 29 (English Audio) (1080p)
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 
 #EXTINF:-69 tvg-id="VTV1.vn" tvg-name="VTV1 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/1.png" group-title="🇻🇳 Vietnam",VTV1 (720p)
 https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/playlist.m3u8?hdnts=exp=1781031276~acl=/hls/live/2029307/vtv1/*~hmac=62876a65c9347027624d81298daeb148675d2968fab615afa7d9230738f63f7a
