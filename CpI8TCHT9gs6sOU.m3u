@@ -174,10 +174,10 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 https://global-media.sooplive.com/live/workpoint/master.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://i.imgur.com/cEk9Zo6.png" group-title="🇹🇭 Thailand",MONO 29 (Thai Audio) (1080p)
+#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://i.imgur.com/PKXbyPP.png" group-title="🇹🇭 Thailand",MONO 29 (Thai Audio) (1080p)
 https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://i.imgur.com/cEk9Zo6.png" group-title="🇹🇭 Thailand",MONO 29 (English Audio) (1080p)
+#EXTINF:-68 tvg-id="MONO29.th" tvg-logo="https://i.imgur.com/PKXbyPP.png" group-title="🇹🇭 Thailand",MONO 29 (English Audio) (1080p)
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 
 #EXTINF:-69 tvg-id="VTV1.vn" tvg-name="VTV1 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/1.png" group-title="🇻🇳 Vietnam",VTV1 (720p)
