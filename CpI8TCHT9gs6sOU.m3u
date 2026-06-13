@@ -49,7 +49,7 @@ http://43.252.18.195:5080/live/streams/MYTV062025TVlUVl8wNjIwMjU.m3u8
 #EXTINF:-20 tvg-id="MyTV.kh" tvg-name="MyTV (576p)" tvg-logo="https://www.cnc.com.kh/pnew/logo/mytv.png" group-title="🇰🇭 Cambodia",MyTV (576p)
 http://tv.cootel.com.kh:8077/streams/d/MyTV/playlist.m3u8
 #EXTINF:-21 tvg-id="CNC.kh" tvg-name="CNC (720p)" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg" group-title="🇰🇭 Cambodia",CNC (720p)
-http://43.252.18.195:5080/live/streams/CNCTV062025Q05DVFZfMDYyMDI1.m3u8
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUazRSRE5FTXpVMFF6VkVOalEwUTBJNFEwTTJORFU0UVVGR1JqWXdRVEkySm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/auto_h264_master.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
 #EXTINF:-22 player-buffer="50" tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (1080p)
