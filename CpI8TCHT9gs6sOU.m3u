@@ -52,14 +52,14 @@ http://tv.cootel.com.kh:8077/streams/d/MyTV/playlist.m3u8
 http://43.252.18.195:5080/live/streams/CNCTV062025Q05DVFZfMDYyMDI1.m3u8
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 11; sdk_gphone_x86 Build/RSR1.210722.013.A2)
-#EXTINF:-22 player-buffer="50" tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (720p)
-http://43.252.18.195:5080/live/streams/Q1RWOF8wNjIwMjU.m3u8
+#EXTINF:-22 player-buffer="50" tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (1080p)
+https://netcdn-tr.metfone.com.kh/netcdn-live-111/memfs/96f6e219-ba92-4370-8e46-50d32e98564b.m3u8?timestamp=1781362659&wmkid=0&token=dc5d9a34602e5b7b418014a4967f09d4&uid=11990
 #EXTINF:-22 player-buffer="50" tvg-id="CTV8HD.kh" tvg-name="CTV8 (720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (720p)
 http://dodge.eu5.org/Get?id=14
 #EXTINF:-23 tvg-id="CTV8HD.kh" tvg-name="CTV8 (Happy Watch 99 720p)" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="🇰🇭 Cambodia",CTV8 (Happy Watch 99 720p)
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
-#EXTINF:-22 player-buffer="50" tvg-id="ITVHD.kh" tvg-name="ITVHD (480p)" tvg-logo="https://i.imgur.com/b9iPbbp.png" group-title="🇰🇭 Cambodia",ITVHD (720p)
-http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
+#EXTINF:-22 player-buffer="50" tvg-id="ITVHD.kh" tvg-name="ITVHD (480p)" tvg-logo="https://i.imgur.com/b9iPbbp.png" group-title="🇰🇭 Cambodia",ITVHD (1080p)
+https://netcdn-tr.metfone.com.kh/netcdn-live-112/memfs/47b28512-eadc-4698-a9e7-1d8d16168b0f.m3u8?timestamp=1781362548&wmkid=0&token=fe2afc72310c824938beda5a59a46870&uid=11990
 #EXTINF:-25 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (1080p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (1080p)
 http://abclive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1053296516_b1800000_sleng.m3u8
 #EXTINF:-27 tvg-id="HangMeasHDTV.kh" tvg-name="Hang Meas HDTV (Happy Watch 99 720p)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="🇰🇭 Cambodia",Hang Meas HDTV (Happy Watch 99 720p)
@@ -70,7 +70,7 @@ http://abclive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chu
 http://live.happywatch99.com/livehd7/69ce37d31c0ec39d57ed58833fffc97e.sdp/playlist.m3u8
 #EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
 #EXTINF:-31 tvg-id="Hang_Meas_Now_UHDTV.kh" tvg-logo="https://i.imgur.com/5zuSs46.png" group-title="🇰🇭 Cambodia",Hang Meas NOW UHDTV (1080p)
-http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/chunklist_w604029205_b1800000_sleng.m3u8
+http://46.250.227.220:5080/LiveApp/streams/rhmhdtv1.playlist.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Melody_UHDTV.kh" tvg-logo="https://i.imgur.com/XZXtTvR.png" group-title="🇰🇭 Cambodia",Hang Meas MELODY UHDTV (1080p)
 http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/chunklist_w815944957_b1800000_sleng.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_PLAY_UHDTV.kh" tvg-logo="https://i.imgur.com/SSeLJWo.png" group-title="🇰🇭 Cambodia",Hang Meas PLAY UHDTV (1080p)
@@ -83,9 +83,6 @@ http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_
 http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklist_w419787764_b1800000_sleng.m3u8
 #EXTINF:-31 tvg-id="Hang_Meas_Kids_UHDTV.kh" tvg-logo="https://i.imgur.com/hMPcyoR.png" group-title="🇰🇭 Cambodia",Hang Meas KIDS UHDTV (720p)
 http://hls.sweet.tv/empty.ts
-#EXTVLCOPT:http-user-agent=WeWatch/1.7.4 (Linux;Android 11) ExoPlayerLib/2.13.2
-#EXTINF:-32 player-buffer="50" tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="🇰🇭 Cambodia",PNN (1080p)
-http://43.245.34.8:9000/OneTV/PNN.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTINF:-32 player-buffer="50" tvg-id="PNN.kh" tvg-name="PNN (1080p)" tvg-logo="https://i.imgur.com/8wLatph.png" group-title="🇰🇭 Cambodia",PNN (1080p)
 https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8?manifestfilter=video_bitrate:1-4194304&uid=11990
@@ -181,28 +178,29 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
 
 #EXTINF:-69 tvg-id="VTV1.vn" tvg-name="VTV1 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/1.png" group-title="🇻🇳 Vietnam",VTV1 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/playlist.m3u8?hdnts=exp=1781031276~acl=/hls/live/2029307/vtv1/*~hmac=62876a65c9347027624d81298daeb148675d2968fab615afa7d9230738f63f7a
+https://vtv-live-push-token.akamaized.net/hls/live/2029307/vtv1/playlist.m3u8?hdnts=exp=1781353512~acl=/hls/live/2029307/vtv1/*~hmac=83f7fbe76ceb2acd6586e4b4a49685e8c7abd2b5dc8f83a96bb0d80e5894c7ec
 #EXTINF:-70 tvg-id="VTV2.vn" tvg-name="VTV2 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/2.png" group-title="🇻🇳 Vietnam",VTV2 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029308/vtv2/playlist.m3u8?hdnts=exp=1781031601~acl=/hls/live/2029308/vtv2/*~hmac=d81e9b3804256581199b891e775e8688df193efe9e37dd5d9613f5f6cda7964a
+https://vtvgoliveapp2-aws-qt.vtvdigital.vn/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJHLTE1NUFENTkxOTgxIiwiaWF0IjoxNzgxMzM4OTgxLCJleHAiOjE3ODEzNDA0MjF9.0a9c4wKNQYm-eGPmtbhwAiBKoLNhqR_tE45yBaDQKIE/manifest/vtv2/master.m3u8
 #EXTINF:-71 tvg-id="VTV3.vn" tvg-name="VTV3 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/3.png" group-title="🇻🇳 Vietnam",VTV3 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029309/vtv3/playlist.m3u8?hdnts=exp=1781031671~acl=/hls/live/2029309/vtv3/*~hmac=6763837f9d9ffa7c7ff99358c1327232c488be52221444a771b12e24af87d18c
+https://vtvgoliveapp2-aws-qt.vtvdigital.vn/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJHLTE1NUFENTkxOTgxIiwiaWF0IjoxNzgxMzM5MTg1LCJleHAiOjE3ODEzNDA2MjV9.VXJlkgr4-ZerO5OONRjT4YiZ_yEV6zgvh-_Ud7fGz4Y/manifest/vtv3/master.m3u8
 #EXTINF:-72 tvg-id="VTV4.vn" tvg-name="VTV4 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/4.png" group-title="🇻🇳 Vietnam",VTV4 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029310/vtv4/playlist.m3u8?hdnts=exp=1781031709~acl=/hls/live/2029310/vtv4/*~hmac=3631b9fcc1e89e8f501aa58a7dcd6cdcf9da4bd96ef0f1a730bf98302c5f024d
+https://vtv-live-push-token.akamaized.net/hls/live/2029310/vtv4/playlist.m3u8?hdnts=exp=1781353679~acl=/hls/live/2029310/vtv4/*~hmac=17552405ca4a4005de60af3746f0935edc53c178712d8f924b972e47b5107da7
 #EXTINF:-73 tvg-id="VTV5.vn" tvg-name="VTV5 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/5.png" group-title="🇻🇳 Vietnam",VTV5 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8?hdnts=exp=1781031755~acl=/hls/live/2029311/vtv5/*~hmac=bcdbcbd4df2017d994bdb5c5eb07461d7e22152b75902823000bca23e5f958d3
+https://vtv-live-push-token.akamaized.net/hls/live/2029311/vtv5/playlist.m3u8?hdnts=exp=1781353724~acl=/hls/live/2029311/vtv5/*~hmac=a4c83a1064693615c40ad9b451b43fcfc5d05f93d60e4b59643b7e00be159b9f
 #EXTINF:-74 tvg-id="VTV5TNB.vn" tvg-name="VTV5 TAY NAM BO (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/7.png" group-title="🇻🇳 Vietnam",VTV5 TAY NAM BO (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029313/vtv5tnb/playlist.m3u8?hdnts=exp=1781031793~acl=/hls/live/2029313/vtv5tnb/*~hmac=1e5ea85de2aeeff4a37a62b543cdbc96953deb8cbc8b2eb986999a53fd947783
+https://vtv-live-push-token.akamaized.net/hls/live/2029313/vtv5tnb/playlist.m3u8?hdnts=exp=1781353774~acl=/hls/live/2029313/vtv5tnb/*~hmac=041990627d52082243e3601286f763e6b9b121988eac1eb485677112e5f8e73f
 #EXTINF:-75 tvg-id="VTV5TN.vn" tvg-name="VTV5 TAY NGUYEN (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/163.png" group-title="🇻🇳 Vietnam",VTV5 TAY NGUYEN (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029312/vtv5tn/playlist.m3u8?hdnts=exp=1781031814~acl=/hls/live/2029312/vtv5tn/*~hmac=04aeaa9e0ced0eced5f6f29255f0f4b9e692d5ff08d467ed2e2e27ad797479dd
+https://vtv-live-push-token.akamaized.net/hls/live/2029312/vtv5tn/playlist.m3u8?hdnts=exp=1781353808~acl=/hls/live/2029312/vtv5tn/*~hmac=7590d404e3f0b571de77446726477280b784d2292653004b4a8232a62bfabad7
 #EXTINF:-76 tvg-id="VTVCT.vn" tvg-name="VTV CAN THO (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_vtv_c%E1%BA%A7n_th%C6%A1_2022.png" group-title="🇻🇳 Vietnam",VTV CAN THO (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029314/vtv6/playlist.m3u8?hdnts=exp=1781031849~acl=/hls/live/2029314/vtv6/*~hmac=31b3253a41054308c5632509cfe1adc7b8b9680c18be42da6eef6e491b4a5e1f
+https://vtvgoliveapp2-aws-qt.vtvdigital.vn/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJHLTE1NUFENTkxOTgxIiwiaWF0IjoxNzgxMzM5NDQwLCJleHAiOjE3ODEzNDA4ODB9.hN-BGHHBvkqfyr8k_Yk6_8MSPgNxPrAXHy8jB52UWxg/manifest/vtv6tt/master.m3u8
 #EXTINF:-77 tvg-id="VTV7.vn" tvg-name="VTV7 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/27.png" group-title="🇻🇳 Vietnam",VTV7 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029315/vtv7/playlist.m3u8?hdnts=exp=1781031873~acl=/hls/live/2029315/vtv7/*~hmac=49fa23551694ea35430f4acca0595966cd4372d746ac00f2a3a5aa29c432d362
+https://vtvgoliveapp2-aws-qt.vtvdigital.vn/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJHLTE1NUFENTkxOTgxIiwiaWF0IjoxNzgxMzM5NTAzLCJleHAiOjE3ODEzNDA5NDN9.BLYv0z98HfDSewHaKYEVJvFDeP2VCsqr6vU4aimGmAM/manifest/vtv7/master.m3u8
 #EXTINF:-78 tvg-id="VTV8.vn" tvg-name="VTV8 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/36.png" group-title="🇻🇳 Vietnam",VTV8 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8?hdnts=exp=1781031901~acl=/hls/live/2029316/vtv8/*~hmac=1f5c14f62f74b3802168cdbd4ce8cc58fc137fbfabdebf8d43af077a979342c4
+https://vtv-live-push-token.akamaized.net/hls/live/2029316/vtv8/playlist.m3u8?hdnts=exp=1781353938~acl=/hls/live/2029316/vtv8/*~hmac=f57fedeb8f0fc6ffd9b5f3f5736d9b5d59103e4abb09808e2586ce4b5e83cdba
 #EXTINF:-79 tvg-id="VTV9.vn" tvg-name="VTV9 (720p)" tvg-logo="https://vtvgo-images.vtvdigital.vn/images/39.png" group-title="🇻🇳 Vietnam",VTV9 (720p)
-https://vtv-live-push-token.akamaized.net/hls/live/2029317/vtv9/playlist.m3u8?hdnts=exp=1781031922~acl=/hls/live/2029317/vtv9/*~hmac=02acb426dea2cebb0d96a3385e3d35d3df7afe92cc9a482728c0d886683507ac
-
+https://vtvgoliveapp2-aws-qt.vtvdigital.vn/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJHLTE1NUFENTkxOTgxIiwiaWF0IjoxNzgxMzM5NjEyLCJleHAiOjE3ODEzNDEwNTJ9.P9P0holBD2J_U6SaIqhPQUiY_7cJmeYCSzBP2vdKeh4/manifest/vtv9/master.m3u8
+#EXTINF:-79 tvg-id="VTV10.vn" tvg-name="VTV10 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/VTV10_logo_2026.png" group-title="🇻🇳 Vietnam",VTV10 (720p)
+https://vtvgoliveapp2-aws-qt.vtvdigital.vn/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJHLTE1NUFENTkxOTgxIiwiaWF0IjoxNzgxMzM5NjU2LCJleHAiOjE3ODEzNDEwOTZ9.IYQyFpYKUOXpFMvY8gBtKHuufTui1mht1kazCUDAGhU/manifest/vtv6/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
 #EXTINF:-80 tvg-id="HLKJDTV.kr" tvg-logo="https://i.imgur.com/4LHX71N.png" group-title="🇰🇷 South Korea",SBS (720p)
 https://krns1.sky4k.top/sbss/index.php?id=S01
